@@ -1,0 +1,239 @@
+# <!=Copyright (C) 2023 Blossom Themes
+# This file is distributed under the GNU General Public License v3 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Blossom Beauty 1.1.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/blossom-beauty\n"
+"POT-Creation-Date: 2023-12-11 10:05:58+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: functions.php:49
+msgid "Demo & Documentation"
+msgstr ""
+
+#: functions.php:62
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr ""
+
+#: functions.php:64
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr ""
+
+#: functions.php:82
+msgid "Appearance Settings"
+msgstr ""
+
+#: functions.php:83
+msgid "Customize Typography, Header Image & Background Image"
+msgstr ""
+
+#: functions.php:91
+msgid "Typography"
+msgstr ""
+
+#: functions.php:111
+msgid "Primary Font"
+msgstr ""
+
+#: functions.php:112
+msgid "Primary font of the site."
+msgstr ""
+
+#: functions.php:133
+msgid "Secondary Font"
+msgstr ""
+
+#: functions.php:134
+msgid "Secondary font of the site."
+msgstr ""
+
+#: functions.php:156
+msgid "Font Size"
+msgstr ""
+
+#: functions.php:157
+msgid "Change the font size of your site."
+msgstr ""
+
+#: functions.php:181
+msgid "Load Google Fonts Locally"
+msgstr ""
+
+#: functions.php:182
+msgid ""
+"Enable to load google fonts from your own server instead from google's CDN. "
+"This solves privacy concerns with Google's CDN and their sometimes "
+"less-than-transparent policies."
+msgstr ""
+
+#: functions.php:201
+msgid "Preload Local Fonts"
+msgstr ""
+
+#: functions.php:202
+msgid "Preloading Google fonts will speed up your website speed."
+msgstr ""
+
+#: functions.php:210
+msgid "Click the button to reset the local fonts cache"
+msgstr ""
+
+#: functions.php:212
+msgid "Flush Local Font Files"
+msgstr ""
+
+#: functions.php:226
+msgid "Flush Local Fonts Cache"
+msgstr ""
+
+#: functions.php:256
+msgid "Primary Color"
+msgstr ""
+
+#: functions.php:257
+msgid "Primary color of the theme."
+msgstr ""
+
+#: functions.php:268
+msgid "Layout Settings"
+msgstr ""
+
+#: functions.php:277 functions.php:298
+msgid "Header Layout"
+msgstr ""
+
+#: functions.php:299
+msgid "This is the layout for header."
+msgstr ""
+
+#: functions.php:312 functions.php:333
+msgid "Slider Layout"
+msgstr ""
+
+#: functions.php:334
+msgid "Choose the layout of the slider for your site."
+msgstr ""
+
+#: functions.php:347
+msgid "FOLLOW"
+msgstr ""
+
+#: functions.php:355
+msgid "Instagram Section Title"
+msgstr ""
+
+#: functions.php:385
+#. translators: used between list items, there is a space after the comma
+msgid "secondary menu toggle button"
+msgstr ""
+
+#: functions.php:393 functions.php:453
+msgid "Mobile"
+msgstr ""
+
+#: functions.php:409 functions.php:468
+msgid "search toggle button"
+msgstr ""
+
+#: functions.php:449
+msgid "primary menu toggle button"
+msgstr ""
+
+#: functions.php:452
+msgid "Close"
+msgstr ""
+
+#: functions.php:579
+#. translators: %s: post title
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: functions.php:1067
+msgid " Blossom Beauty | Developed By "
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Blossom Themes"
+msgstr ""
+
+#: functions.php:1070
+msgid " Powered by %s"
+msgstr ""
+
+#: functions.php:1070
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Blossom Beauty"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://blossomthemes.com/themes/blossom-beauty-free-wordpress-theme"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Blossom Beauty is a child theme of Blossom Feminine free WordPress theme. "
+"This theme helps you create a visually appealing, lively and attractive "
+"blog without writing a single line of code. This theme can be the best "
+"choice if you want to share your expert fashion tips, your favorite recipes "
+"or create travel, beauty, food, coaching, make-up, portfolio, wedding, "
+"personal, girly or cooking blog. This theme comes with advanced "
+"customization option and features a built-in customizer to help you "
+"customize your website with live preview as per your desire. Blossom Beauty "
+"is a mobile friendly and fully responsive theme that ensures your website "
+"displays properly on any screen sizes. This theme also helps you increase "
+"your Instagram followers with the beautifully placed Instagram section. "
+"Also, the strategically placed newsletter section helps you grow your email "
+"list and communicate with your visitors. The advertisement widget of the "
+"theme helps you monetize your blog and earn revenue from it. Blossom Beauty "
+"is speed optimized and SEO friendly theme which helps your website rank "
+"higher in the search engine results. The theme is translation ready and "
+"supports RTL scripts. You can also create an online shop with this theme as "
+"it is fully compatible with the popular WooCommerce plugin. Blossom Beauty "
+"is backed by world-class, one-on-one support, and a super active team of "
+"developers and designers.Check demo: "
+"https://blossomthemes.com/theme-demo/?theme=blossom-beauty, read "
+"documentation: https://docs.blossomthemes.com/docs/blossom-beauty/, and get "
+"support: https://blossomthemes.com/support-ticket/."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://blossomthemes.com/"
+msgstr ""
+
+#: functions.php:670
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:671
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:672
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr ""

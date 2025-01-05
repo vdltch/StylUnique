@@ -1,0 +1,1088 @@
+# Translation of Plugins - ParcelPanel (Free to install) &#8211; Shipment Tracking, Tracking, and Order Tracking for WooCommerce - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - ParcelPanel (Free to install) &#8211; Shipment Tracking, Tracking, and Order Tracking for WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-12-12 07:43:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - ParcelPanel (Free to install) &#8211; Shipment Tracking, Tracking, and Order Tracking for WooCommerce - Stable (latest release)\n"
+
+#: includes/Action/Lang.php:51 includes/Action/Lang.php:1800
+#: includes/Action/Lang.php:2173 templates/emails/email-order-details.php:81
+msgid "Product"
+msgstr "Produit"
+
+#. translators: %s: Order ID.
+#: templates/emails/email-order-details.php:73
+msgid "[Order #%s]"
+msgstr "[Commande #%s]"
+
+#: includes/Action/Lang.php:2466 includes/views/settings-page.php:197
+msgid "This feature will allow you to add a shortcut button to WooCommerce orders (Actions column), which will make it easier to add tracking information."
+msgstr "Cette fonctionnalité vous permettra d'ajouter un bouton de raccourci aux commandes WooCommerce (colonne Actions), ce qui facilitera l'ajout des informations de suivi."
+
+#: includes/Action/Lang.php:2465 includes/views/settings-page.php:189
+msgid "Add a track button to WooCommerce orders (Actions column)"
+msgstr "Ajouter un bouton de suivi aux commandes WooCommerce (colonne Actions)"
+
+#: includes/Action/Lang.php:2464 includes/views/settings-page.php:181
+msgid "This feature will allow you to change the order status label name from \"Completed\" to \"Shipped\"."
+msgstr "Cette fonction vous permettra de changer le nom de l'étiquette du statut de la commande de \"Terminé\" à \"Expédié\"."
+
+#: includes/Action/Lang.php:2462 includes/views/settings-page.php:167
+msgid "Configuring WooCommerce Orders"
+msgstr "Configuration des commandes WooCommerce"
+
+#: includes/Action/Lang.php:2459 includes/views/settings-page.php:147
+msgid "This feature will allow you to add a track button to the orders history page (Actions column) so your customers can track their orders with one click there."
+msgstr "Cette fonctionnalité vous permettra d'ajouter un bouton de suivi à la page d'historique des commandes (colonne Actions) afin que vos clients puissent suivre leurs commandes en un seul clic."
+
+#: includes/Emails/WC_Email_Customer_PP_Partial_Shipped_Order.php:39
+msgid "Your order is Partially Shipped"
+msgstr "Votre commande est partiellement expédiée"
+
+#: includes/Emails/WC_Email_Customer_PP_Partial_Shipped_Order.php:11
+msgid "Order partially shipped emails are sent to customers when their orders are marked partially shipped and usually indicate that their orders have been partially shipped."
+msgstr "Les e-mails de commande partiellement expédiée sont envoyés aux clients lorsque leurs commandes sont marquées comme partiellement expédiées et indiquent généralement que leurs commandes ont été partiellement expédiées."
+
+#: includes/ParcelPanel.php:2740
+msgid "Submit & Deactivate"
+msgstr "Soumettre & Désactiver"
+
+#: includes/ParcelPanel.php:2633
+msgid "It is a temporary deactivation, I am just debugging an issue."
+msgstr "C'est une désactivation temporaire, je suis juste en train de déboguer un problème."
+
+#: includes/Action/ShopOrder.php:2458
+msgid "Add Tracking"
+msgstr "Ajouter un suivi"
+
+#: includes/ParcelPanel.php:2738
+msgid "Skip & Deactivate"
+msgstr "Ignorer & Désactiver"
+
+#: includes/ParcelPanel.php:2723
+msgid "May we have a little info about why you are deactivating to see how we can improve?"
+msgstr "Pouvons-nous avoir un peu d'information sur les raisons de votre désactivation pour voir comment nous pouvons nous améliorer ?"
+
+#: includes/ParcelPanel.php:2721
+msgid "Quick feedback"
+msgstr "Retour rapide"
+
+#: includes/ParcelPanel.php:2677
+msgid "Could you tell us more to let us know how we can improve."
+msgstr "Could you tell us more to let us know how we can improve."
+
+#: includes/ParcelPanel.php:2675
+msgid "Other"
+msgstr "Autres"
+
+#: includes/ParcelPanel.php:2670
+msgid "Which plugin?"
+msgstr "Quel plugin ?"
+
+#: includes/ParcelPanel.php:2668
+msgid "I found a better plugin."
+msgstr "J'ai trouvé un meilleur plugin."
+
+#: includes/ParcelPanel.php:2663
+msgid "What specific feature?"
+msgstr "Quelle caractéristique spécifique ?"
+
+#: includes/ParcelPanel.php:2661
+msgid "It's missing a specific feature."
+msgstr "Il lui manque une fonctionnalité spécifique."
+
+#: includes/ParcelPanel.php:2656
+msgid "What did you expect?"
+msgstr "A quoi vous attendiez-vous ?"
+
+#: includes/ParcelPanel.php:2654
+msgid "It didn't work as expected."
+msgstr "Ça n'a pas fonctionné comme prévu."
+
+#: includes/ParcelPanel.php:2649
+msgid "Would you like us to assist you?"
+msgstr "Souhaitez-vous une assistance ?"
+
+#: includes/ParcelPanel.php:2647
+msgid "I couldn't get the plugin to work."
+msgstr "Je n'ai pas réussi à faire fonctionner le plugin."
+
+#: includes/ParcelPanel.php:2642
+msgid "Could you tell us a bit more?"
+msgstr "Pouvez-vous nous en dire un peu plus ?"
+
+#: includes/ParcelPanel.php:2640
+msgid "I no longer need the plugin."
+msgstr "Je n'ai plus besoin du plugin."
+
+#: includes/Action/Lang.php:2463 includes/Action/Lang.php:2592
+#: includes/views/settings-page.php:173
+msgid "Rename order status \"Completed\" to \"Shipped\""
+msgstr "Renommer le statut de la commande \"Terminé\" en \"Expédié\""
+
+#: includes/Emails/WC_Email_Customer_PP_Partial_Shipped_Order.php:28
+msgid "Your {site_title} order is now partially shipped"
+msgstr "Votre commande {site_title} est maintenant partiellement expédiée"
+
+#: includes/ParcelPanel.php:1623
+msgid "Support"
+msgstr "Assistance"
+
+#: includes/ParcelPanel.php:1622
+msgid "Docs"
+msgstr "Docs"
+
+#: includes/Action/Lang.php:2590
+msgid "Add"
+msgstr "Ajouter"
+
+#: includes/Action/ShopOrder.php:98
+msgid "Revert \"Shipped\" to \"Completed\""
+msgstr "Remplacer \"Expédié\" par \"Terminé\"."
+
+#: includes/Action/ShopOrder.php:96
+msgid "Edit tracking"
+msgstr "Suivi des modifications"
+
+#: includes/Action/ShopOrder.php:95
+msgid "Add tracking"
+msgstr "Ajouter le suivi"
+
+#: includes/Action/ShopOrder.php:43
+msgctxt "Order status"
+msgid "Completed"
+msgstr "Terminée"
+
+#. translators: %s: search order status label
+#: includes/ParcelPanel.php:1062 includes/ParcelPanel.php:1068
+#: includes/ParcelPanel.php:1074
+msgid "Change status to %s"
+msgstr "Changer le statut en %s"
+
+#. translators: %s: replace with Partially Shipped Count
+#: includes/ParcelPanel.php:922
+msgid "Partially Shipped <span class=\"count\">(%s)</span>"
+msgid_plural "Partially Shipped <span class=\"count\">(%s)</span>"
+msgstr[0] "Partiellement expédié <span class=\"count\">(%s)</span>"
+msgstr[1] "Partiellement Expédiés <span class=\"count\">(%s)</span>"
+
+#: includes/Action/Lang.php:2476 includes/Action/ShopOrder.php:45
+#: includes/ParcelPanel.php:916 includes/ParcelPanel.php:966
+#: includes/ParcelPanel.php:991
+msgid "Partially Shipped"
+msgstr "Partiellement expédié"
+
+#: includes/ParcelPanel.php:905
+msgid "Change status to shipped"
+msgstr "Changer le statut en expédié"
+
+#. translators: %s is param.
+#. translators: %s: replace with Shipped Count
+#: includes/ParcelPanel.php:885 includes/ParcelPanel.php:936
+msgid "Shipped <span class=\"count\">(%s)</span>"
+msgid_plural "Shipped <span class=\"count\">(%s)</span>"
+msgstr[0] "Expédié <span class=\"count\">(%s)</span>"
+msgstr[1] "Expédiés <span class=\"count\">(%s)</span>"
+
+#: includes/Action/Lang.php:2474 includes/Action/ShopOrder.php:44
+#: includes/ParcelPanel.php:859 includes/ParcelPanel.php:930
+#: includes/ParcelPanel.php:967 includes/ParcelPanel.php:994
+msgid "Shipped"
+msgstr "Expédié"
+
+#: includes/Action/ShopOrder.php:697 includes/Action/ShopOrder.php:1147
+msgid "Invalid parameters."
+msgstr "Paramètres non valides."
+
+#. translators: %1$d is param.
+#: includes/Action/ShopOrder.php:229
+msgid "Shipment %1$d"
+msgstr "Expédition %1$d"
+
+#: includes/Action/ShopOrder.php:97
+msgid "Rename \"Completed\" to \"Shipped\""
+msgstr "Renommez \" Terminé \" en \" Envoyé \""
+
+#: includes/Action/ShopOrder.php:1340
+msgid "Tracking number already exists!"
+msgstr "Le numéro de suivi existe déjà !"
+
+#: includes/Action/ShopOrder.php:1327
+msgid "Unsupported operation."
+msgstr "Opération non supportée."
+
+#: includes/Action/ShopOrder.php:1312
+msgid "Tracking data not found."
+msgstr "Données de suivi introuvables."
+
+#. translators: %s is param.
+#: includes/Action/ShopOrder.php:247 includes/Action/ShopOrder.php:283
+msgid "Shipped on %s"
+msgstr "Expédié le %s"
+
+#: includes/Action/Lang.php:1527 includes/ParcelPanel.php:2444
+msgid "Connected successfully"
+msgstr "Connecté avec succès"
+
+#: includes/ParcelPanel.php:2334
+msgid "Upgrade failed."
+msgstr "La mise à jour a échoué."
+
+#. translators: %1$s is plan %2$s is order count.
+#: includes/views/account-page.php:57
+msgid "You are on the ParcelPanel %1$s plan and have %2$s cycle."
+msgstr "Vous êtes sur le plan ParcelPanel %1$s et avez %2$s cycle."
+
+#: includes/ParcelPanel.php:2944
+msgid "Required fields cannot be empty."
+msgstr "Les champs requis ne peuvent pas être vides."
+
+#: includes/ParcelPanel.php:1533
+msgid "Shipments - ParcelPanel"
+msgstr "Expéditions - ParcelPanel"
+
+#: includes/Action/Lang.php:1707 includes/views/tracking-page.php:216
+#: includes/views/tracking-page.php:337
+msgid "Learn more"
+msgstr "En savoir plus"
+
+#: includes/Action/Lang.php:1623 templates/emails/email-order-details.php:82
+msgid "Quantity"
+msgstr "Quantité"
+
+#: includes/Action/Lang.php:1653 includes/Action/Lang.php:2460
+#: includes/views/settings-page.php:147 includes/views/settings-page.php:197
+msgid "View example"
+msgstr "Voir un exemple"
+
+#: includes/Action/Lang.php:2139 includes/views/tracking-page.php:395
+msgid "Turn your tracking page into a marketing channel to make more sales."
+msgstr "Transformez votre page de suivi en un canal de marketing pour réaliser davantage de ventes."
+
+#: includes/Action/Lang.php:2069 includes/Action/Lang.php:2189
+#: includes/Action/Lang.php:2564 includes/Action/Lang.php:2720
+#: includes/views/tracking-page.php:390
+msgid "Product recommendation"
+msgstr "Recommandations de produits"
+
+#: includes/Action/Lang.php:2124 includes/views/tracking-page.php:315
+msgid "Add one custom tracking info with time interval to reduce customer anxiety when the package was stuck in shipping, and it will be shown if the tracking info hasn't updated for the days you set."
+msgstr "Ajoutez une information de suivi personnalisée avec un intervalle de temps pour réduire l'anxiété du client lorsque le colis est bloqué pendant l'expédition. Cette information sera affichée si l'information de suivi n'a pas été mise à jour pendant les jours que vous avez définis."
+
+#: includes/Action/Lang.php:76 includes/Action/Lang.php:2123
+#: includes/Action/Lang.php:2198 includes/views/tracking-page.php:314
+msgid "Custom tracking info"
+msgstr "Informations sur le suivi personnalisé"
+
+#: includes/Action/Lang.php:2067 includes/Action/Lang.php:2718
+#: includes/views/tracking-page.php:209 includes/views/tracking-page.php:215
+msgid "Custom shipment status"
+msgstr "Statut des expéditions personnalisées"
+
+#: includes/Action/Lang.php:1613
+msgid "Apply"
+msgstr "Appliquer"
+
+#: includes/Action/Lang.php:2365
+msgid "Date shipped"
+msgstr "Date d'expédition"
+
+#: includes/Action/Lang.php:2107 includes/views/tracking-page.php:181
+msgid "e.g. China,Aliexpress,Chinese cities. Separate with comma."
+msgstr "Par exemple, Chine, Aliexpress, Chinese cities. Séparez-les par une virgule."
+
+#: includes/Action/Lang.php:2326 includes/views/shipments-page.php:62
+msgid "Exporting:"
+msgstr "Exportation :"
+
+#: includes/Action/Lang.php:1987 includes/Action/Lang.php:2294
+#: includes/ParcelPanel.php:1534 includes/views/shipments-page.php:26
+msgid "Shipments"
+msgstr "Expéditions"
+
+#: includes/Action/Lang.php:2303
+msgid "Filter by date"
+msgstr "Filtrer par date"
+
+#: includes/Action/Lang.php:2309
+msgid "Re-sync"
+msgstr "Re-synchroniser"
+
+#: includes/Action/Lang.php:1626
+msgid "Filter"
+msgstr "Filtre"
+
+#. Author URI of the plugin
+#: parcelpanel.php
+msgid "https://www.parcelpanel.com"
+msgstr "https://www.parcelpanel.com"
+
+#: includes/Libs/Notice.php:332
+msgid "Action failed. Please refresh the page and retry."
+msgstr "L'action a échoué. Veuillez rafraîchir la page et réessayer."
+
+#: includes/ParcelPanel.php:2428
+msgid "Already bound."
+msgstr "Déjà lié."
+
+#: includes/ParcelPanel.php:2417 includes/ParcelPanel.php:2434
+msgid "Failed to connect."
+msgstr "Échec de la connexion."
+
+#: includes/ParcelPanel.php:2408
+msgid "You are not allowed."
+msgstr "Vous n'êtes pas autorisé."
+
+#: includes/Action/Lang.php:1610 includes/views/notices/quota-remain.php:20
+msgid "Dismiss"
+msgstr "Ignorer"
+
+#. translators: %s: Order date
+#. translators: %s Order date
+#: templates/emails/plain/shipment-notice.php:39
+#: templates/emails/shipment-notice-2.php:29
+#: templates/emails/shipment-notice.php:29
+msgid "Here are the details of your order placed on %s:"
+msgstr "Voici les détails de votre commande passée sur %s:"
+
+#. translators: %1$s: Site title, %2$s: Order pay link
+#: templates/emails/plain/shipment-notice.php:31
+msgid "An order has been created for you on %1$s. Your invoice is below, with a link to make payment when you’re ready: %2$s"
+msgstr "Une commande a été créée pour vous sur %1$s. Votre facture se trouve ci-dessous, avec un lien pour effectuer le paiement lorsque vous êtes prêt : %2$s"
+
+#. translators: %s: Customer first name
+#: templates/emails/plain/shipment-notice.php:25
+msgid "Hi %s,"
+msgstr "Bonjour %s,"
+
+#: includes/Action/Lang.php:2161 includes/views/tracking-page.php:554
+msgid "HTML bottom of page"
+msgstr "HTML en bas de page"
+
+#: includes/Action/Lang.php:2160 includes/views/tracking-page.php:546
+msgid "HTML top of page"
+msgstr "HTML en haut de page"
+
+#: includes/Action/Lang.php:2156 includes/views/tracking-page.php:534
+msgid "CSS"
+msgstr "CSS"
+
+#: includes/views/tracking-page.php:530
+msgid "Custom CSS and HTML"
+msgstr "CSS et HTML personnalisés"
+
+#: includes/Action/Lang.php:2137 includes/views/tracking-page.php:377
+#: includes/views/tracking-page.php:521
+msgid "Add another"
+msgstr "Ajouter encore"
+
+#: includes/Action/Lang.php:2152 includes/views/tracking-page.php:496
+msgid "Tracking info (after translation)"
+msgstr "Infos de suivi (après traduction)"
+
+#: includes/Action/Lang.php:2151 includes/views/tracking-page.php:493
+msgid "Tracking info (before translation)"
+msgstr "Infos de suivi (avant traduction)"
+
+#: includes/Action/Lang.php:2150 includes/views/tracking-page.php:489
+msgid "Note: this feature distinguishes the strings based on Space, please don't forget the comma and period when you do the translation."
+msgstr "Remarque : cette fonction distingue les chaînes de caractères en fonction de l'espace, n'oubliez pas la virgule et le point lorsque vous effectuez la traduction."
+
+#: includes/Action/Lang.php:2149 includes/views/tracking-page.php:486
+msgid "Here you can manually translate the tracking detailed info by yourself."
+msgstr "Ici, vous pouvez traduire manuellement les informations détaillées du suivi par vous-même."
+
+#: includes/views/tracking-page.php:483
+msgid "Manually translate tracking detailed info"
+msgstr "Traduction manuelle des informations détaillées sur le suivi"
+
+#: includes/views/tracking-page.php:471
+msgid "time_format"
+msgstr "format de l'heure"
+
+#: includes/views/tracking-page.php:463
+msgid "date_format"
+msgstr "format de la date"
+
+#: includes/Action/Lang.php:2108 includes/views/tracking-page.php:459
+msgid "Date and time format"
+msgstr "Format de l'heure et la date"
+
+#: includes/views/tracking-page.php:449
+msgid "Text below"
+msgstr "Texte en dessous"
+
+#: includes/views/tracking-page.php:191
+msgid "Tracking page translations"
+msgstr "Page de suivi des traductions"
+
+#: includes/Action/Lang.php:2106 includes/views/tracking-page.php:178
+msgid "Hide keywords"
+msgstr "Masquer les mots-clés"
+
+#: includes/views/tracking-page.php:164
+msgid "Show map on your tracking page when the address is correctly recognized"
+msgstr "Afficher la carte sur la page de suivi lorsque l'adresse est correctement reconnue."
+
+#: includes/Action/Lang.php:2102 includes/views/tracking-page.php:160
+msgid "Map coordinates"
+msgstr "Coordonnées de la carte"
+
+#: includes/views/tracking-page.php:153
+msgid "Show widget"
+msgstr "Afficher le widget"
+
+#: includes/Action/Lang.php:2101 includes/views/tracking-page.php:150
+msgid "Google translate widget"
+msgstr "Widget Google translate"
+
+#: includes/views/tracking-page.php:142
+msgid "Show tracking detailed info on your tracking page"
+msgstr "Afficher les informations détaillées sur le suivi sur votre page de suivi"
+
+#: includes/views/tracking-page.php:139
+msgid "Tracking detailed info"
+msgstr "Informations détaillées sur le suivi"
+
+#: includes/views/tracking-page.php:132
+msgid "Show the product and quantity contents of the package"
+msgstr "Montrer le produit et la quantité contenus dans l'emballage"
+
+#: includes/views/tracking-page.php:129
+msgid "Package contents details"
+msgstr "Détails du contenu de l'emballage"
+
+#: includes/views/tracking-page.php:121
+msgid "Show tracking number on your tracking page"
+msgstr "Afficher le numéro de suivi sur votre page de suivi"
+
+#: includes/views/tracking-page.php:108
+msgid "Carrier details"
+msgstr "Détails du transporteur"
+
+#: includes/Action/Lang.php:2086 includes/views/tracking-page.php:101
+msgid "By tracking number"
+msgstr "Par numéro de suivi"
+
+#: includes/views/settings-page.php:219
+msgid "Enable frequently-used couriers if you exactly know which couriers you are using. If not, please just leave this empty, the system will automatically recognize suitable couriers for you."
+msgstr "Activez les coursiers fréquemment utilisés si vous savez exactement quels coursiers vous utilisez. Si ce n'est pas le cas, laissez cette option vide, le système reconnaîtra automatiquement les transporteurs appropriés pour vous."
+
+#: includes/Action/Lang.php:2461 includes/views/settings-page.php:155
+#: includes/views/settings-page.php:205
+msgid "Select order status to show the track button"
+msgstr "Sélectionnez le statut de la commande pour afficher le bouton de suivi"
+
+#: includes/Action/Lang.php:2458 includes/views/settings-page.php:139
+msgid "Add a track button to orders history page (Actions column)"
+msgstr "Ajouter un bouton de suivi à la page d'historique des commandes (colonne Actions)"
+
+#: includes/Action/Lang.php:1634 includes/Action/Lang.php:2185
+#: includes/views/settings-page.php:115
+msgid "Failed attempt"
+msgstr "Tentative échouée"
+
+#: includes/Action/Lang.php:61 includes/Action/Lang.php:1633
+#: includes/Action/Lang.php:2184 includes/views/settings-page.php:101
+msgid "Exception"
+msgstr "Exception"
+
+#: includes/Action/Lang.php:60 includes/Action/Lang.php:1630
+#: includes/Action/Lang.php:1950 includes/Action/Lang.php:2122
+#: includes/Action/Lang.php:2183 includes/Action/Lang.php:2585
+#: includes/Action/ShopOrder.php:48 includes/ParcelPanel.php:944
+#: includes/ParcelPanel.php:971 includes/ParcelPanel.php:999
+#: includes/views/settings-page.php:87 includes/views/tracking-page.php:306
+msgid "Delivered"
+msgstr "Livré"
+
+#: includes/Action/Lang.php:1631 includes/Action/Lang.php:2121
+#: includes/Action/Lang.php:2182 includes/views/settings-page.php:73
+#: includes/views/tracking-page.php:296
+msgid "Out for delivery"
+msgstr "En attente de livraison"
+
+#: includes/Action/Lang.php:2456 includes/views/settings-page.php:63
+#: includes/views/settings-page.php:77 includes/views/settings-page.php:91
+#: includes/views/settings-page.php:105 includes/views/settings-page.php:119
+msgid "Manage template"
+msgstr "Gérer le modèle"
+
+#: includes/Action/Lang.php:1629 includes/Action/Lang.php:2120
+#: includes/Action/Lang.php:2181 includes/views/settings-page.php:59
+#: includes/views/tracking-page.php:286
+msgid "In transit"
+msgstr "En cours de traitement"
+
+#: includes/Action/Lang.php:2455 includes/views/settings-page.php:54
+msgid "This feature will allow you to send email notifications based on ParcelPanel shipment status."
+msgstr "Cette fonction vous permettra d'envoyer des notifications par courriel en fonction du statut de l'envoi de ParcelPanel."
+
+#: includes/Action/Lang.php:2454 includes/views/settings-page.php:50
+msgid "ParcelPanel shipping email notifications"
+msgstr "Notifications d'expédition par courriel de ParcelPanel"
+
+#: includes/Action/Lang.php:2453 includes/views/settings-page.php:40
+msgid "Select order status to show the tracking section"
+msgstr "Sélectionnez l'état de la commande pour afficher la section de suivi"
+
+#: includes/Action/Lang.php:2452 includes/views/settings-page.php:29
+msgid "Add an order tracking section to WooCommerce email notifications"
+msgstr "Ajouter une section de suivi des commandes aux notifications par courriel de WooCommerce"
+
+#: includes/Action/Lang.php:2450 includes/views/settings-page.php:22
+msgid "Delivery notifications"
+msgstr "Notifications de livraison"
+
+#: includes/Action/Lang.php:1878 includes/views/home-page.php:50
+msgid "Import tracking number of your orders"
+msgstr "Importation du numéro de suivi de vos commandes"
+
+#: includes/views/home-page.php:44 includes/views/integration-page.php:116
+msgid "Contact us."
+msgstr "Contactez-nous."
+
+#: includes/Action/Lang.php:1850 includes/views/home-page.php:44
+msgid "Looks not so good?"
+msgstr "Ça ne semble pas si bien que ça ?"
+
+#: includes/Action/Lang.php:1849 includes/views/home-page.php:43
+msgid "Preview tracking page"
+msgstr "Aperçu de la page de suivi"
+
+#. translators: %1$s is url html %2$s is url html.
+#: includes/views/home-page.php:40
+msgid "Don’t know how to do this? Please follow %1$sthis instruction%2$s."
+msgstr "Vous ne savez pas comment faire ? Veuillez suivre %1$sces instructions%2$s."
+
+#. translators: %1$s is tracking url.
+#: includes/views/home-page.php:34
+msgid "Your branded tracking page is ready, the URL is %1$s, add it to your store menus so your customers can track orders there."
+msgstr "Votre page de suivi de marque est prête, l'URL est %1$s, ajoutez-la aux menus de votre magasin pour que vos clients puissent y suivre leurs commandes."
+
+#: includes/Action/Lang.php:1846 includes/views/home-page.php:29
+msgid "Add tracking page to your storefront"
+msgstr "Ajouter une page de suivi à votre vitrine"
+
+#: includes/views/home-page.php:24
+msgid "Welcome to Parcel Panel"
+msgstr "Bienvenue sur Parcel Panel"
+
+#: includes/views/common/header.php:11
+msgid "ParcelPanel logo"
+msgstr "Logo ParcelPanel"
+
+#: includes/Action/Lang.php:2658 includes/views/account-page.php:161
+msgid "Current plan"
+msgstr "Plan actuel"
+
+#: includes/views/account-page.php:138
+msgid "Note: ParcelPanel counts the quota based on the number of your orders synced to ParcelPanel and offers unlimited order lookups."
+msgstr "Remarque : ParcelPanel compte le quota en fonction du nombre de vos commandes synchronisées avec ParcelPanel et offre un nombre illimité de consultations de commandes."
+
+#: includes/views/account-page.php:137
+msgid "If you want to change your plan, the remaining quota of current plan will be added to the new plan."
+msgstr "Si vous voulez changer de plan, le quota restant du plan actuel sera ajouté au nouveau plan."
+
+#: includes/views/account-page.php:136
+msgid "Plan"
+msgstr "Plan"
+
+#. translators: %1$s is quota.
+#: includes/views/account-page.php:102 includes/views/account-page.php:126
+msgid "Note: Remaining means you have %1$s available quota."
+msgstr "Remarque : \"Restant\" signifie que vous avez %1$s de quota disponible."
+
+#: includes/Emails/WC_Email_Shipping_Notice.php:285
+msgid "Additional content"
+msgstr "Contenu supplémentaire"
+
+#: includes/Emails/WC_Email_Shipping_Notice.php:277
+msgid "Email heading"
+msgstr "Intitulé du courriel"
+
+#: includes/Action/Lang.php:2549
+#: includes/Emails/WC_Email_Shipping_Notice.php:269
+msgid "Subject"
+msgstr "Objet"
+
+#: includes/Action/Lang.php:2596
+#: includes/Emails/WC_Email_Shipping_Notice.php:265
+msgid "Enable this email notification"
+msgstr "Activez cette notification par courriel"
+
+#: includes/Emails/WC_Email_Shipping_Notice.php:263
+msgid "Enable/Disable"
+msgstr "Activer/Désactiver"
+
+#. translators: %s: list of placeholders
+#: includes/Emails/WC_Email_Shipping_Notice.php:260
+msgid "Available placeholders: %s"
+msgstr "Espaces réservés disponibles : %s"
+
+#: includes/Emails/WC_Email_Shipping_Notice.php:250
+msgid "Tracking Information"
+msgstr "Informations de suivi"
+
+#: includes/Emails/WC_Email_Shipping_Notice.php:240
+msgid "Thanks for shopping with us."
+msgstr "Merci pour votre commande chez nous."
+
+#: includes/Emails/WC_Email_Customer_PP_Out_For_Delivery.php:40
+msgid "Your order is out for delivery"
+msgstr "Votre commande est en cours de livraison"
+
+#: includes/Emails/WC_Email_Customer_PP_Out_For_Delivery.php:29
+msgid "A shipment from order {order_number} is out for delivery"
+msgstr "Une expédition de la commande {order_number} est prête à être livrée"
+
+#: includes/Emails/WC_Email_Customer_PP_Out_For_Delivery.php:11
+msgid "ParcelPanel Out for delivery emails are sent to customers when the shipment has arrived at the local point and is out for delivery."
+msgstr "Les courriels d'avis de passage de ParcelPanel sont envoyés aux clients lorsque l'envoi est arrivé au point local et est prêt à être livré."
+
+#: includes/Emails/WC_Email_Customer_PP_Out_For_Delivery.php:10
+msgid "ParcelPanel Out for delivery"
+msgstr "ParcelPanel En attente de livraison"
+
+#: includes/Emails/WC_Email_Customer_PP_In_Transit.php:29
+msgid "A shipment from order {order_number} is in transit"
+msgstr "Une livraison de la commande {order_number} est en transit"
+
+#: includes/Emails/WC_Email_Customer_PP_In_Transit.php:11
+msgid "ParcelPanel In transit emails are sent to customers when the shipment is on the way."
+msgstr "ParcelPanel Les courriels en transit sont envoyés aux clients lorsque leur expédition est en cours."
+
+#: includes/Emails/WC_Email_Customer_PP_In_Transit.php:10
+msgid "ParcelPanel In transit"
+msgstr "ParcelPanel En transit"
+
+#. translators: %1$s is the date, %2$s is the filename, %3$s is the total
+#. number of tracking numbers, %4$s is the number of failed uploads.
+#: includes/ParcelPanel.php:1844 includes/ParcelPanel.php:1904
+msgid "view details."
+msgstr "Voir les détails."
+
+#. translators: %1$s is the date, %2$s is the filename, %3$s is the total
+#. number of tracking numbers, %4$s is the number of failed uploads.
+#: includes/ParcelPanel.php:1843 includes/ParcelPanel.php:1903
+msgid "%1$s Uploaded %2$s, %3$s tracking numbers, failed to upload %4$s,"
+msgstr "%1$s a téléchargé %2$s, %3$s numéros de suivi, échec du téléchargement de %4$s,"
+
+#: includes/Action/Lang.php:1880 includes/Action/Lang.php:2301
+#: includes/Action/Lang.php:2330 includes/Action/Lang.php:2394
+#: includes/ParcelPanel.php:1841 includes/ParcelPanel.php:1901
+#: includes/views/home-page.php:58 includes/views/shipments-page.php:35
+msgid "Import tracking number"
+msgstr "Numéro de suivi des importations"
+
+#: includes/views/account-page.php:44
+msgid "Account"
+msgstr "Compte"
+
+#: includes/Action/Lang.php:2449 includes/ParcelPanel.php:1540
+#: includes/views/settings-page.php:17
+msgid "Settings"
+msgstr "Paramètres"
+
+#: includes/ParcelPanel.php:1539
+msgid "Settings - ParcelPanel"
+msgstr "Paramètres - ParcelPanel"
+
+#: includes/ParcelPanel.php:1528 includes/views/tracking-page.php:19
+msgid "Tracking Page"
+msgstr "Page de suivi"
+
+#: includes/ParcelPanel.php:1527
+msgid "Tracking Page - ParcelPanel"
+msgstr "Page de suivi - ParcelPanel"
+
+#: includes/ParcelPanel.php:1516 includes/ParcelPanel.php:1522
+msgid "Home"
+msgstr "Accueil"
+
+#: includes/Action/Lang.php:1755 includes/ParcelPanel.php:1499
+msgid "ParcelPanel"
+msgstr "ParcelPanel"
+
+#: includes/ParcelPanel.php:1498 includes/ParcelPanel.php:1515
+#: includes/ParcelPanel.php:1521
+msgid "Home - ParcelPanel"
+msgstr "Accueil - ParcelPanel"
+
+#: includes/Action/Upload.php:29
+#: includes/Libs/Import/TrackingNumberCSVImporter.php:136
+msgid "Invalid file type. The importer supports CSV and TXT file formats."
+msgstr "Type de fichier non valide. L'importateur prend en charge les formats de fichier CSV et TXT."
+
+#: includes/Action/Upload.php:25
+msgid "File is empty. Please upload something more substantial. This error could also be caused by uploads being disabled in your php.ini or by post_max_size being defined as smaller than upload_max_filesize in php.ini."
+msgstr "Le fichier est vide. Veuillez télécharger un fichier plus important. Cette erreur peut également être causée par la désactivation des téléchargements dans votre php.ini ou par la définition de post_max_size plus petite que upload_max_filesize dans le php.ini."
+
+#: includes/Action/ShopOrder.php:170 includes/Action/ShopOrder.php:182
+msgid "Add tracking number"
+msgstr "Ajouter le numéro de suivi"
+
+#: includes/Emails/WC_Email_Customer_PP_In_Transit.php:40
+msgid "Your order is in transit"
+msgstr "Votre commande est en transit"
+
+#: includes/Action/Lang.php:1501
+msgid "Saved successfully"
+msgstr "Sauvegardé avec succès"
+
+#. Author of the plugin
+#: parcelpanel.php includes/ParcelPanel.php:2008 includes/ParcelPanel.php:2018
+msgid "Parcel Panel"
+msgstr "Parcel Panel"
+
+#. Plugin URI of the plugin
+#: parcelpanel.php
+msgid "https://docs.parcelpanel.com/woocommerce"
+msgstr "https://docs.parcelpanel.com/woocommerce"
+
+#: includes/views/tracking-page.php:448
+msgid "Text above"
+msgstr "Texte ci-dessus"
+
+#: includes/views/tracking-page.php:445
+msgid "Use these fields to add additional content above and below the order lookup section."
+msgstr "Utilisez ces champs pour ajouter du contenu supplémentaire au-dessus et au-dessous de la section de consultation des commandes."
+
+#: includes/views/tracking-page.php:441
+msgid "Additional text setting"
+msgstr "Réglage du texte supplémentaire"
+
+#: includes/Action/Lang.php:1965 includes/Action/Lang.php:2130
+#: includes/Action/Lang.php:2558 includes/views/tracking-page.php:342
+#: includes/views/tracking-page.php:408
+msgid "Enable this feature"
+msgstr "Activer cette fonction"
+
+#: includes/views/tracking-page.php:337
+msgid "Set an estimated time period that will be displayed on your tracking page, to show your customers when they will receive their orders."
+msgstr "Définissez une période de temps estimée qui sera affichée sur votre page de suivi, afin de montrer à vos clients quand ils recevront leurs commandes."
+
+#: includes/Action/Lang.php:2068 includes/Action/Lang.php:2423
+#: includes/Action/Lang.php:2719 includes/views/tracking-page.php:332
+msgid "Estimated delivery time"
+msgstr "Délai de livraison estimé"
+
+#: includes/Action/Lang.php:2119 includes/Action/Lang.php:2178
+#: includes/views/tracking-page.php:276
+msgid "Order ready"
+msgstr "Commande prête"
+
+#: includes/Action/Lang.php:2117 includes/views/tracking-page.php:237
+msgid "Create additional steps to inform customers of your process prior to shipping"
+msgstr "Créez des étapes supplémentaires pour informer les clients de votre processus avant l'expédition"
+
+#: includes/Action/Lang.php:54 includes/Action/Lang.php:2118
+#: includes/Action/Lang.php:2177 includes/views/tracking-page.php:231
+msgid "Ordered"
+msgstr "Commandé"
+
+#: includes/views/tracking-page.php:220
+msgid "Add custom status"
+msgstr "Ajouter un statut personnalisé"
+
+#: includes/views/integration-page.php:62
+msgid "Learn more."
+msgstr "En savoir plus."
+
+#: includes/views/tracking-page.php:216
+msgid "Add custom status(up to 3) with time interval and description, to timely inform customers about the progress of their orders before you fulfill them."
+msgstr "Ajoutez des statuts personnalisés (jusqu'à 3) avec un intervalle de temps et une description, afin d'informer les clients de l'état d'avancement de leurs commandes avant de les exécuter."
+
+#: includes/Action/Lang.php:2383
+msgid "Details:"
+msgstr "Détails:"
+
+#: includes/Action/Lang.php:2382
+msgid "Failed:"
+msgstr "Échec :"
+
+#: includes/Action/Lang.php:2381
+msgid "Succeeded:"
+msgstr "Réussi :"
+
+#: includes/Action/Lang.php:2380
+msgid "Total tracking numbers:"
+msgstr "Numéros de suivi total :"
+
+#: includes/Action/Lang.php:2379
+msgid "Import file name:"
+msgstr "Nom du fichier d'importation :"
+
+#: includes/Action/Lang.php:2329
+msgid "back"
+msgstr "Retour"
+
+#: includes/Action/Lang.php:2377
+msgid "Import records"
+msgstr "Importer des enregistrements"
+
+#: includes/Action/Lang.php:2369
+msgid "Uploading:"
+msgstr "Téléchargement :"
+
+#: includes/Action/Lang.php:2470 includes/views/settings-page.php:217
+msgid "Courier matching"
+msgstr "Correspondance de courrier"
+
+#: includes/Action/Lang.php:2457 includes/views/settings-page.php:133
+msgid "Account page tracking"
+msgstr "Suivi des pages du compte"
+
+#: includes/Action/Lang.php:1881
+msgid "How to import tracking number with a CSV file?"
+msgstr "Comment importer le numéro de suivi avec un fichier CSV ?"
+
+#: includes/Emails/WC_Email_Customer_PP_Failed_Attempt.php:40
+msgid "Your order has a failed delivery attempt"
+msgstr "La tentative de livraison de votre commande a échoué"
+
+#: includes/Emails/WC_Email_Customer_PP_Failed_Attempt.php:11
+msgid "ParcelPanel Failed attempt emails are sent to customers when the carrier attempt to deliver the shipment but failed."
+msgstr "ParcelPanel Les e-mails de tentative échouée sont envoyés aux clients lorsque le transporteur tente de livrer l'envoi mais échoue."
+
+#: includes/Emails/WC_Email_Customer_PP_Failed_Attempt.php:10
+msgid "ParcelPanel Failed attempt"
+msgstr "Échec de la tentative ParcelPanel"
+
+#: includes/Emails/WC_Email_Customer_PP_Exception.php:39
+msgid "Your order has a delivery exception"
+msgstr "Votre commande a une exception de livraison"
+
+#: includes/Action/Lang.php:2085 includes/views/tracking-page.php:100
+msgid "By order number and email"
+msgstr "Par numéro de commande et courriel"
+
+#: includes/views/tracking-page.php:97
+msgid "Look up options"
+msgstr "Rechercher des options"
+
+#: includes/views/tracking-page.php:85
+msgid "UI styles"
+msgstr "Styles IU"
+
+#: includes/Action/Lang.php:2077 includes/views/tracking-page.php:71
+msgid "Progress bar color"
+msgstr "Couleur de la barre de progression"
+
+#: includes/Action/Lang.php:2076 includes/views/tracking-page.php:54
+msgid "Theme container width"
+msgstr "Largeur du conteneur du thème"
+
+#: includes/views/tracking-page.php:48
+msgid "Display options"
+msgstr "Options d'affichage"
+
+#: includes/Action/Lang.php:2063 includes/Action/Lang.php:2388
+#: includes/Action/Lang.php:2481 includes/Action/Lang.php:2523
+#: includes/views/tracking-page.php:27 includes/views/tracking-page.php:571
+msgid "Save changes"
+msgstr "Enregistrer les modifications"
+
+#: includes/Action/Lang.php:1640 includes/views/settings-page.php:291
+msgid "Disable"
+msgstr "Désactiver"
+
+#: includes/Action/Lang.php:1639 includes/views/settings-page.php:254
+#: includes/views/settings-page.php:268
+msgid "Enable"
+msgstr "Activer"
+
+#. translators: %1$s is count.
+#: includes/views/settings-page.php:250 includes/views/settings-page.php:287
+msgid "%1$s selected"
+msgstr "%1$s sélectionné"
+
+#. translators: %1$s is listTotal.
+#. translators: %1$s is length.
+#: includes/views/settings-page.php:244 includes/views/settings-page.php:281
+msgid "Showing %1$s couriers"
+msgstr "Affichage de %1$s courriers"
+
+#. translators: %1$s is length %2$s is listTotal.
+#: includes/views/settings-page.php:237
+msgid "Showing %1$s of %2$s couriers"
+msgstr "Affichage de %1$s de %2$s courriers"
+
+#: includes/views/settings-page.php:227
+msgid "Search courier"
+msgstr "Recherche de courrier"
+
+#: includes/Action/Lang.php:1638 includes/views/settings-page.php:224
+msgid "Disabled"
+msgstr "Désactivé"
+
+#: includes/Action/Lang.php:1637 includes/views/settings-page.php:224
+msgid "Enabled"
+msgstr "Activé"
+
+#: includes/Emails/WC_Email_Customer_PP_Exception.php:11
+msgid "ParcelPanel Exception emails are sent to customers when the shipment might have been sent back to the sender, damaged, or lost."
+msgstr "Les e-mails d'exception de ParcelPanel sont envoyés aux clients lorsque l'envoi a pu être renvoyé à l'expéditeur, endommagé ou perdu."
+
+#: includes/Emails/WC_Email_Customer_PP_Exception.php:10
+msgid "ParcelPanel Exception"
+msgstr "Exception ParcelPanel"
+
+#: includes/Emails/WC_Email_Customer_PP_Delivered.php:39
+msgid "Your order has been delivered"
+msgstr "Votre commande a été livrée"
+
+#: includes/Emails/WC_Email_Customer_PP_Delivered.php:11
+msgid "ParcelPanel Delivered emails are sent to customers when the shipment has been delivered."
+msgstr "Les e-mails de Livraison de ParcelPanel sont envoyés aux clients lorsque la livraison a été effectuée."
+
+#: includes/Emails/WC_Email_Customer_PP_Delivered.php:10
+msgid "ParcelPanel Delivered"
+msgstr "Livraison de ParcelPanel"
+
+#: includes/ParcelPanel.php:2379
+msgid "Courier providers sync failed."
+msgstr "La synchronisation des fournisseurs de courrier a échoué."
+
+#: includes/ParcelPanel.php:2238 includes/ParcelPanel.php:2253
+#: includes/ParcelPanel.php:2287 includes/ParcelPanel.php:2301
+msgid "Failed to connect to ParcelPanel."
+msgstr "Échec de la connexion à ParcelPanel."
+
+#: includes/Action/TrackingNumber.php:156
+msgid "File is empty."
+msgstr "Le fichier est vide"
+
+#: includes/Action/Lang.php:1516 includes/Action/Lang.php:2098
+#: includes/Action/Lang.php:2166 includes/Action/Lang.php:2316
+#: includes/Action/Lang.php:2361 includes/Action/ShopOrder.php:92
+#: includes/Action/ShopOrder.php:2075 includes/views/tracking-page.php:118
+msgid "Tracking number"
+msgstr "Numéro de suivi"
+
+#: includes/Action/Lang.php:2321 includes/Action/ShopOrder.php:1963
+#: includes/Action/ShopOrder.php:1984 includes/Action/ShopOrder.php:2076
+msgid "Shipment status"
+msgstr "Statut de la livraison"
+
+#: includes/Action/ShopOrder.php:1152
+msgid "Deleted successfully"
+msgstr "Supprimé avec succès"
+
+#: includes/Action/Lang.php:1819 includes/Action/ShopOrder.php:232
+msgid "Delete"
+msgstr "Supprimer"
+
+#. translators: %1$d is param.
+#: includes/Action/Lang.php:1697 includes/Action/ShopOrder.php:230
+msgid "Edit"
+msgstr "Modifier"
+
+#: includes/views/account-page.php:74
+msgid "The ParcelPanel server is busy. Please try again later!"
+msgstr "Le serveur de ParcelPanel est occupé. Veuillez réessayer plus tard !"
+
+#. translators: %1$s is plan %2$s is order count %3$s is time.
+#: includes/views/account-page.php:66
+msgid "You are on the ParcelPanel %1$s plan and have %2$s cycle. Next cycle will reset on %3$s."
+msgstr "Vous êtes sur le plan ParcelPanel %1$s et avez %2$s de cycle. Le prochain cycle sera remis à zéro le %3$s."
+
+#: includes/views/account-page.php:47
+msgid "Current plan info"
+msgstr "Infos sur le plan actuel"
+
+#: includes/Libs/Singleton.php:49
+msgid "Unserializing instances of this class is forbidden."
+msgstr "La désérialisation des instances de cette classe est interdite."
+
+#. translators: %s: image URL
+#: includes/Libs/Import/TrackingNumberCSVImporter.php:1787
+msgid "Unable to use image \"%s\"."
+msgstr "Impossible d'utiliser l'image \"%s\"."
+
+#. translators: %s: image URL
+#: includes/Libs/Import/TrackingNumberCSVImporter.php:1778
+msgid "Not able to attach \"%s\"."
+msgstr "Impossible de joindre \"%s\"."
+
+#: includes/Emails/WC_Email_Shipping_Notice.php:296
+msgid "Choose which format of email to send."
+msgstr "Choisissez le format de l'e-mail à envoyer."
+
+#: includes/Emails/WC_Email_Shipping_Notice.php:294
+msgid "Email type"
+msgstr "Type d'email"
+
+#: includes/Emails/WC_Email_Shipping_Notice.php:288
+msgid "N/A"
+msgstr "N/A"
+
+#: includes/Emails/WC_Email_Shipping_Notice.php:286
+msgid "Text to appear below the main email content."
+msgstr "Texte qui s’affiche en dessous du contenu principal de l’email."
+
+#: includes/Action/ShopOrder.php:238
+msgid "Tracking order"
+msgstr "Suivi de la commande"
+
+#: includes/Action/Lang.php:1612 includes/Action/Lang.php:1664
+#: includes/Action/ShopOrder.php:102 includes/views/account-page.php:39
+#: includes/views/notices/admin-plugins-feedback.php:93
+#: includes/views/notices/feedback-admin.php:81
+msgid "Cancel"
+msgstr "Annuler"
+
+#: includes/Action/Lang.php:2475
+msgid "Completed"
+msgstr "Terminée"
+
+#: includes/Action/ShopOrder.php:151
+msgid "Y-m-d"
+msgstr "A-m-j"
+
+#: includes/views/tracking-page.php:111
+msgid "Show carrier name and logo on your tracking page"
+msgstr "Affichez le nom et le logo du transporteur sur votre page de suivi"
+
+#: includes/Action/Lang.php:1657 includes/Action/Lang.php:2062
+#: includes/Action/Lang.php:2451 includes/views/settings-page.php:23
+#: includes/views/tracking-page.php:24 includes/views/tracking-page.php:568
+msgid "Preview"
+msgstr "Prévisualiser"
+
+#: includes/Action/Lang.php:45 includes/Action/Lang.php:2167
+msgid "Track"
+msgstr "Piste"
+
+#. Plugin Name of the plugin
+#: parcelpanel.php
+msgid "Parcel Panel Order Tracking for WooCommerce"
+msgstr "Parcel Panel Order Tracking for WooCommerce"
+
+#: includes/Action/Lang.php:2680 includes/Action/Lang.php:2695
+#: includes/Action/ShopOrder.php:89 includes/views/account-page.php:18
+msgid "This can't be undone!"
+msgstr "Cette action ne peut pas être annulée！"
+
+#: includes/Emails/WC_Email_Customer_PP_Delivered.php:28
+msgid "A shipment from order {order_number} has been delivered"
+msgstr "Une livraison de la commande {numéro de commande} a été effectuée"
+
+#: includes/Emails/WC_Email_Customer_PP_Exception.php:28
+msgid "A shipment from order {order_number} has a delivery exception"
+msgstr "Une expédition de la commande {order_number} a une exception de livraison"
+
+#: includes/Emails/WC_Email_Customer_PP_Failed_Attempt.php:29
+msgid "A shipment from order {order_number} has a failed delivery attempt"
+msgstr "La tentative de livraison de la commande {order_number} a échoué."
+
+#: includes/Action/Lang.php:1622 includes/Action/Lang.php:2304
+#: includes/Action/Lang.php:2317 includes/Action/Lang.php:2362
+msgid "Courier"
+msgstr "Courrier"

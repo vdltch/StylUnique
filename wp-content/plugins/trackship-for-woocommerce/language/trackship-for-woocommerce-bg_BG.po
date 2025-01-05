@@ -1,0 +1,1626 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TrackShip for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-19 09:42+0000\n"
+"PO-Revision-Date: 2024-09-24 11:50+0000\n"
+"Last-Translator: \n"
+"Language-Team: Bulgarian\n"
+"Language: bg_BG\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.9; wp-6.5.3\n"
+"X-Domain: trackship-for-woocommerce"
+
+#: includes/views/dashboard.php:118
+msgid "Account Dashboard"
+msgstr "Табло за управление на акаунта"
+
+#: includes/smswoo/class-smswoo-admin.php:303
+msgid "Account SID"
+msgstr "SID на акаунта"
+
+#: includes/views/dashboard.php:162
+msgid "Action Needed"
+msgstr "Необходимо е действие"
+
+#: includes/views/logs.php:56
+#: includes/shipments/views/trackship_shipments.php:30
+msgid "Actions"
+msgstr "Действия"
+
+#: includes/views/dashboard.php:80
+msgid "Active"
+msgstr "Активен"
+
+#: includes/views/shipments.php:28
+msgid "Active Shipments"
+msgstr "Активни пратки"
+
+#: includes/views/map-providers.php:54
+msgid "Add mapping"
+msgstr "Добавете картографиране"
+
+#: includes/smswoo/class-smswoo-admin.php:517
+msgid "Add template id for this SMS"
+msgstr "Добавете идентификатор на шаблон за този SMS"
+
+#: includes/smswoo/class-smswoo-admin.php:518
+msgid ""
+"Add template variables that used for this SMS, add variables like this:- "
+"{shipment_status}, {tracking_number}"
+msgstr ""
+"Добавете шаблонни променливи, използвани за този SMS, добавете променливи "
+"като тези:- {shipment_status}, {tracking_number}"
+
+#: includes/html/class-wc-trackship-html.php:130
+msgid "Add the [trackship-track-order] shortcode in the selected page."
+msgstr "Добавете краткия код [trackship-track-order] в избраната страница."
+
+#: includes/views/notifications.php:21
+msgid "Admin Notifications"
+msgstr "Административни известия"
+
+#: includes/smswoo/class-smswoo-admin.php:381
+msgid "Admin Phone Number"
+msgstr "Телефонен номер на администратор"
+
+#: includes/views/logs.php:23
+msgid "All Notifications"
+msgstr "Всички известия"
+
+#: includes/views/shipments.php:27
+msgid "All Shipments"
+msgstr "Всички пратки"
+
+#: includes/views/shipments.php:95
+msgid "All shipping providers"
+msgstr "Всички доставчици на доставка"
+
+#: includes/views/logs.php:31
+msgid "All Types"
+msgstr "Всички видове"
+
+#: includes/class-wc-trackship-admin.php:425
+msgid ""
+"Allow users to opt-out of receiving Shipment status notifications on the "
+"Tracking page and Shipment status emails."
+msgstr ""
+"Позволете на потребителите да се откажат от получаване на известия за "
+"състоянието на пратката на страницата за проследяване и имейли за "
+"състоянието на пратката."
+
+#: includes/smswoo/services/class-smswoo-twilio.php:111
+#: includes/smswoo/services/class-smswoo-twilio.php:181
+#: includes/smswoo/services/class-smswoo-msg91.php:156
+msgid "An error has occurred while sending the sms"
+msgstr "Възникна грешка при изпращане на sms"
+
+#. %s: search for a tag
+#: includes/smswoo/services/class-smswoo-nexmo.php:108
+#: includes/smswoo/services/class-smswoo-nexmo.php:168
+#: includes/smswoo/services/class-smswoo-clicksend.php:96
+#: includes/smswoo/services/class-smswoo-clicksend.php:102
+#, php-format
+msgid "An error has occurred: %s"
+msgstr "Възникна грешка: %s"
+
+#: includes/smswoo/services/class-smswoo-clicksend.php:118
+msgid ""
+"An error has occurred: Clicksend is not supported for phone number "
+"validation on checkout, Please contact support"
+msgstr ""
+"Възникна грешка: Clicksend не се поддържа за валидиране на телефонен номер "
+"при плащане. Моля, свържете се с екипа за поддръжка"
+
+#: includes/class-wc-trackship-admin.php:229 includes/views/header2.php:59
+msgid "Analytics"
+msgstr "Анализ"
+
+#: includes/smswoo/class-smswoo-admin.php:343
+#: includes/smswoo/class-smswoo-admin.php:365
+msgid "API Authorization Key"
+msgstr "Ключ за оторизация на API"
+
+#: includes/smswoo/class-smswoo-admin.php:336
+msgid "API key"
+msgstr "API ключ"
+
+#: includes/smswoo/class-smswoo-admin.php:329
+msgid "API Username"
+msgstr "API потребителско име"
+
+#: includes/views/shipments.php:110
+msgid "Apply"
+msgstr "Приложи"
+
+#: includes/smswoo/class-smswoo-admin.php:310
+msgid "Auth Token"
+msgstr "Токен за удостоверяване"
+
+#: includes/views/dashboard.php:148
+msgid "Available Balance"
+msgstr "Наличен баланс"
+
+#: includes/class-wc-trackship-actions.php:662
+#: includes/class-wc-trackship-actions.php:713
+#: includes/class-wc-trackship-admin.php:1288
+#: includes/smswoo/class-smswoo-admin.php:541
+#: includes/customizer/trackship-customizer.php:214
+#: includes/customizer/trackship-customizer.php:821
+#: includes/views/shipments.php:36
+msgid "Available For Pickup"
+msgstr "Предлага се за вземане"
+
+#: includes/customizer/trackship-customizer.php:828
+msgid "Available for Pickup Reminder"
+msgstr "Налично за напомняне за получаване"
+
+#: includes/smswoo/admin-html/plugin_sidebar_placeholders.php:21
+msgid "Available placeholders"
+msgstr "Налични заместители"
+
+#: includes/customizer/trackship-customizer.php:875
+msgid "Available placeholders:"
+msgstr "Налични заместители:"
+
+#: includes/customizer/trackship-customizer.php:846
+#: includes/customizer/trackship-customizer.php:856
+msgid "Available variables:"
+msgstr "Налични променливи:"
+
+#: includes/views/shipments.php:107
+msgid "Bulk actions"
+msgstr "Групови действия"
+
+#: includes/customizer/trackship-customizer.php:532
+#: includes/customizer/trackship-customizer.php:624
+msgid "Button color"
+msgstr "Цвят на копчето"
+
+#: includes/customizer/trackship-customizer.php:541
+#: includes/customizer/trackship-customizer.php:633
+msgid "Button font color"
+msgstr "Цвят на шрифта на бутона"
+
+#: includes/customizer/trackship-customizer.php:642
+msgid "Button radius"
+msgstr "Радиус на бутона"
+
+#: includes/customizer/trackship-customizer.php:761
+msgid "Button text"
+msgstr "Текст на бутона"
+
+#: includes/class-wc-trackship-actions.php:667
+#: includes/class-wc-trackship-actions.php:746
+msgid "Carrier Unsupported"
+msgstr "Операторът не се поддържа"
+
+#: includes/class-wc-trackship-admin.php:409
+msgid "Choose on which order emails to include the shipment tracking info"
+msgstr ""
+"Изберете кои имейли за поръчка да включите информацията за проследяване на "
+"пратката"
+
+#: includes/customizer/trackship-customizer.php:664
+msgid "Classic"
+msgstr "Класически"
+
+#: trackship-for-woocommerce.php:282
+msgid "Connect a Store"
+msgstr "Свържете магазин"
+
+#: includes/views/trackship-integration.php:27 includes/views/header2.php:37
+msgid "Connect your store"
+msgstr "Свържете вашия магазин"
+
+#: includes/customizer/trackship-customizer.php:896
+msgid "Content Display"
+msgstr "Дисплей на съдържанието"
+
+#: includes/customizer/trackship-customizer.php:403
+msgid "Content Type & Text"
+msgstr "Тип съдържание и текст"
+
+#: includes/class-wc-trackship-front.php:591
+#: includes/views/front/tracking_page_header.php:54
+msgid "Copy Tracking page link"
+msgstr "Копиране на страница за проследяване"
+
+#: includes/shipments/views/trackship_shipments.php:26
+msgid "Customer"
+msgstr "Клиент"
+
+#: includes/html/class-wc-trackship-html.php:77
+msgid "Customize"
+msgstr "Персонализирайте"
+
+#: includes/html/class-wc-trackship-html.php:147
+msgid "Customize the Tracking Widget"
+msgstr "Персонализирайте притурката за проследяване"
+
+#: includes/class-wc-trackship-admin.php:223 includes/views/header2.php:34
+#: includes/views/header2.php:44
+msgid "Dashboard"
+msgstr "Табло"
+
+#: includes/views/tools.php:17
+msgid "Delete notifications logs"
+msgstr "Изтрийте дневниците с известия"
+
+#: includes/views/tools.php:16
+msgid "Delete notifications logs more than 30 days"
+msgstr "Изтрийте регистрационните файлове с известия за повече от 30 дни"
+
+#: includes/class-wc-trackship-actions.php:664
+#: includes/class-wc-trackship-actions.php:707
+#: includes/class-wc-trackship-admin.php:660
+#: includes/class-wc-trackship-admin.php:678
+#: includes/class-wc-trackship-admin.php:1330
+#: includes/smswoo/class-smswoo-admin.php:547
+#: includes/customizer/trackship-customizer.php:220
+#: includes/customizer/trackship-customizer.php:827
+#: includes/views/shipments.php:34 includes/views/dashboard.php:84
+msgid "Delivered"
+msgstr "Доставено"
+
+#. %s: search number of order
+#: includes/class-wc-trackship-admin.php:666
+#, php-format
+msgid "Delivered <span class=\"count\">(%s)</span>"
+msgid_plural "Delivered <span class=\"count\">(%s)</span>"
+msgstr[0] "Доставено <span class=\"count\">(%s)</span>"
+msgstr[1] "Доставено <span class=\"count\">(%s)</span>"
+
+#: includes/class-wc-trackship-front.php:655
+#: includes/views/front/preview_enhanced_tracking_page.php:75
+msgid "Delivered on"
+msgstr "Доставено на"
+
+#: includes/views/front/tracking_page_header.php:84
+msgid "Delivery Date"
+msgstr "Дата на доставка"
+
+#: includes/shipments/views/trackship_shipments.php:28
+msgid "Delivery date"
+msgstr "Дата на доставка"
+
+#: includes/class-wc-trackship-actions.php:665
+#: includes/class-wc-trackship-actions.php:722
+#: includes/class-wc-trackship-admin.php:1302
+#: includes/smswoo/class-smswoo-admin.php:543
+#: includes/customizer/trackship-customizer.php:216
+#: includes/customizer/trackship-customizer.php:823
+msgid "Delivery Failure"
+msgstr "Неуспешна доставка"
+
+#: includes/shipments/views/trackship_shipments.php:29
+msgid "Delivery number"
+msgstr "Номер за доставка"
+
+#: includes/views/front/enhanced_shipment_details_notifications.php:14
+#: includes/views/front/tracking_page_header.php:35
+msgid "Delivery tracking Number"
+msgstr "Номер за проследяване на доставката"
+
+#: includes/views/front/layout1_tracking_details.php:52
+#: includes/views/front/layout1_tracking_details.php:171
+msgid "Destination Details"
+msgstr "Подробности за дестинацията"
+
+#: includes/views/front/enhanced_shipment_details_notifications.php:8
+msgid "Details"
+msgstr "Подробности"
+
+#: includes/customizer/trackship-customizer.php:421
+#: includes/customizer/trackship-customizer.php:440
+msgid "Display Options"
+msgstr "Опции на дисплея"
+
+#: includes/customizer/trackship-customizer.php:924
+msgid "Display product image"
+msgstr "Показване на изображението на продукта"
+
+#: includes/customizer/trackship-customizer.php:906
+msgid "Display shipped products"
+msgstr "Покажете изпратените продукти"
+
+#: includes/customizer/trackship-customizer.php:934
+msgid "Display shipping address"
+msgstr "Показване на адреса за доставка"
+
+#: includes/customizer/trackship-customizer.php:560
+msgid "Display Shipping provider logo"
+msgstr "Показване на логото на доставчика на доставка"
+
+#: includes/customizer/trackship-customizer.php:730
+#: includes/customizer/trackship-customizer.php:966
+msgid "Display TrackShip branding"
+msgstr "Показване на марката TrackShip"
+
+#: includes/views/header2.php:69
+msgid "Documentation"
+msgstr "Документация"
+
+#: templates/tracking/tracking-form.php:111
+msgid "Email address"
+msgstr "Имейл адрес"
+
+#: includes/customizer/trackship-customizer.php:384
+#: includes/customizer/trackship-customizer.php:787
+#: includes/customizer/trackship-customizer.php:865
+msgid "Email Content"
+msgstr "Съдържание на имейл"
+
+#: includes/customizer/trackship-customizer.php:855
+msgid "Email heading"
+msgstr "Заглавие на имейла"
+
+#: includes/customizer/trackship-customizer.php:363
+#: includes/customizer/trackship-customizer.php:364
+#: includes/views/notifications.php:15
+#: includes/views/front/preview_tracking_page.php:205
+msgid "Email Notifications"
+msgstr "Известия по имейл"
+
+#: includes/class-wc-trackship-front.php:967
+msgid "Email notifications"
+msgstr "Известия по имейл"
+
+#: includes/customizer/trackship-customizer.php:845
+msgid "Email subject"
+msgstr "Тема на имейла"
+
+#: includes/customizer/trackship-customizer.php:815
+msgid "Email type"
+msgstr "Тип имейл"
+
+#: includes/views/logs.php:32
+msgid "Emails"
+msgstr "Имейли"
+
+#: includes/customizer/trackship-customizer.php:1171
+#, php-format
+#| msgid "Enable  %1$s email"
+msgid "Enable %1$s email"
+msgstr "Активирайте %1$s имейл"
+
+#: includes/class-wc-trackship-admin.php:432
+msgid ""
+"Enable a Custom Order Status Delivered that will be set automatically when "
+"all the order shipments are delivered"
+msgstr ""
+"Активирайте персонализирано състояние на поръчката Доставено, което ще се "
+"задава автоматично, когато всички пратки на поръчката бъдат доставени"
+
+#: includes/class-wc-trackship-admin.php:416
+msgid "Enable a shipment status filter on orders admin"
+msgstr ""
+"Активирайте филтър за състоянието на пратката в администратора на поръчките"
+
+#: includes/customizer/trackship-customizer.php:149
+msgid "Enable email"
+msgstr "Активиране на имейл"
+
+#: includes/class-wc-trackship-admin.php:429
+msgid "Enable Order Delivery Automation"
+msgstr "Активирайте автоматизацията за доставка на поръчки"
+
+#: includes/class-wc-trackship-admin.php:439
+msgid "Enable shipment status notification for order created by Amazon"
+msgstr ""
+"Активирайте известието за състоянието на пратката за поръчка, създадена от "
+"Amazon"
+
+#: includes/customizer/trackship-customizer.php:697
+msgid "Enable tracking # link to carrier"
+msgstr "Активиране на проследяване # връзка към оператора"
+
+#: includes/class-wc-trackship-admin.php:1249
+msgid "Enable Tracking Page"
+msgstr "Активиране на страницата за проследяване"
+
+#: includes/class-wc-trackship-admin.php:422
+msgid "Enable unsubscribe (opt-out) from Shipment status notifications"
+msgstr "Активирайте отписване (отказ) от известия за статус на пратка"
+
+#: includes/smswoo/class-smswoo-admin.php:382
+#: includes/smswoo/class-smswoo-admin.php:383
+msgid "Enter admin phone number with country code."
+msgstr "Въведете телефонен номер на администратор с кода на държавата."
+
+#: includes/class-wc-trackship-front.php:655
+#: templates/emails/tracking-info.php:50
+#: includes/views/front/preview_enhanced_tracking_page.php:75
+#: includes/views/front/tracking_page_header.php:84
+msgid "Est. Delivery Date"
+msgstr "Прогнозно Дата на доставка"
+
+#: includes/class-wc-trackship-actions.php:669
+#: includes/class-wc-trackship-admin.php:1316
+#: includes/smswoo/class-smswoo-admin.php:545
+#: includes/customizer/trackship-customizer.php:218
+#: includes/customizer/trackship-customizer.php:825
+#: includes/views/shipments.php:32
+msgid "Exception"
+msgstr "Изключение"
+
+#: includes/class-wc-trackship-exception-shipments.php:172
+msgid "Exception shipment"
+msgstr "Пратка по изключение"
+
+#: includes/views/notifications.php:96
+msgid "Exception Shipments"
+msgstr "Пратки по изключение"
+
+#: includes/class-wc-trackship-admin.php:801
+msgid "Exception Shipments Notifications"
+msgstr "Известия за пратки по изключение"
+
+#: includes/class-wc-trackship-actions.php:764
+msgid "Expired"
+msgstr "Просрочен"
+
+#: includes/class-wc-trackship-actions.php:675
+msgid "Filter by shipment status"
+msgstr "Филтрирайте по статус на пратка"
+
+#: includes/customizer/trackship-customizer.php:587
+msgid "Font color"
+msgstr "Цвят на шрифта"
+
+#: includes/customizer/trackship-customizer.php:742
+msgid "General options"
+msgstr "Общи опции"
+
+#: includes/views/settings.php:38
+msgid "General Settings"
+msgstr "Основни настройки"
+
+#: includes/class-wc-trackship-actions.php:592
+#: includes/class-wc-trackship-actions.php:1018
+#: includes/class-wc-trackship-admin.php:548 includes/views/tools.php:13
+msgid "Get Shipment Status"
+msgstr "Вземете статус на пратката"
+
+#: includes/views/shipments.php:108
+msgid "Get shipment status"
+msgstr "Получете статус на пратката"
+
+#: includes/views/header2.php:75
+msgid "Get Support"
+msgstr "Получавам подкрепа"
+
+#: includes/customizer/trackship-customizer.php:882
+msgid "Google analytics link tracking"
+msgstr "Проследяване на връзки в Google Analytics"
+
+#: includes/customizer/trackship-customizer.php:266
+msgid ""
+"Hi there. we thought you'd like to know that your recent order from "
+"{site_title} is pending for pickup"
+msgstr ""
+"Здрасти. решихме, че бихте искали да знаете, че скорошната ви поръчка от "
+"{site_title} чака получаване"
+
+#: includes/customizer/trackship-customizer.php:721
+msgid "Hide delivery tracking number"
+msgstr "Скриване на номера за проследяване на доставката"
+
+#: includes/customizer/trackship-customizer.php:713
+msgid "Hide shipping from-to"
+msgstr "Скриване на доставката от до"
+
+#: includes/customizer/trackship-customizer.php:705
+msgid "Hide the shipping provider logo"
+msgstr "Скриване на логото на доставчика на доставка"
+
+#: includes/customizer/trackship-customizer.php:677
+msgid "Hide tracking events"
+msgstr "Скриване на проследяващи събития"
+
+#. %s: search for a tag
+#: includes/smswoo/class-smswoo-admin.php:258
+#: includes/smswoo/class-smswoo-admin.php:263
+#: includes/smswoo/class-smswoo-admin.php:268
+#: includes/smswoo/class-smswoo-admin.php:273
+#: includes/smswoo/class-smswoo-admin.php:278
+#: includes/smswoo/class-smswoo-admin.php:283
+#, php-format
+msgid "How to find your %s credential"
+msgstr "Как да намерите вашите идентификационни данни за %s"
+
+#: includes/customizer/trackship-customizer.php:474
+#: includes/customizer/trackship-customizer.php:690
+msgid "Icons"
+msgstr "Икони"
+
+#: includes/class-wc-trackship-actions.php:661
+#: includes/class-wc-trackship-actions.php:698
+#: includes/class-wc-trackship-admin.php:1281
+#: includes/smswoo/class-smswoo-admin.php:540
+#: includes/customizer/trackship-customizer.php:213
+#: includes/customizer/trackship-customizer.php:820
+#: includes/views/shipments.php:29
+msgid "In Transit"
+msgstr "Транзитно"
+
+#: includes/views/dashboard.php:130
+msgid ""
+"Include shipment tracking details in your WooCommerce orders, enabling "
+"customers to effortlessly monitor their orders. Shipment tracking "
+"information will be accessible within customers' accounts, located in the "
+"order section, and will also be included in the WooCommerce order completion "
+"email."
+msgstr ""
+"Включете подробности за проследяване на пратката във вашите поръчки в "
+"WooCommerce, което позволява на клиентите да наблюдават без усилие своите "
+"поръчки. Информацията за проследяване на пратката ще бъде достъпна в "
+"акаунтите на клиентите, разположени в секцията за поръчки, и също ще бъде "
+"включена в имейла за завършване на поръчка на WooCommerce."
+
+#: includes/views/dashboard.php:134
+msgid "Install Shipment Tracking plugin"
+msgstr "Инсталирайте плъгина за проследяване на пратки"
+
+#: includes/views/content.php:24
+msgid "Integrations"
+msgstr "Интеграции"
+
+#: includes/class-wc-trackship-actions.php:670
+msgid "Invalid Tracking"
+msgstr "Невалидно проследяване"
+
+#: templates/emails/tswc-tpi-email-order-details.php:35
+#: templates/emails/tswc-email-order-details.php:35
+#: includes/customizer/trackship-customizer.php:345
+#: includes/views/front/layout1_tracking_details.php:10
+msgid "Items in this shipment"
+msgstr "Артикули в тази пратка"
+
+#: includes/class-wc-trackship-front.php:704
+msgid "Journey"
+msgstr "Пътуване"
+
+#: includes/smswoo/class-smswoo-admin.php:289
+msgid "Key"
+msgstr "Ключ"
+
+#: includes/class-wc-trackship-actions.php:731
+msgid "Label Cancelled"
+msgstr "Етикетът е анулиран"
+
+#: includes/views/dashboard.php:99
+msgid "Last 30 days"
+msgstr "Последните 30 дни"
+
+#: includes/views/dashboard.php:104
+msgid "Last 60 days"
+msgstr "Последните 60 дни"
+
+#: includes/class-wc-trackship-actions.php:965
+msgid "Last event date: "
+msgstr "Дата на последното събитие:"
+
+#: includes/class-wc-trackship-late-shipments.php:178
+msgid "Late shipment"
+msgstr "Късна пратка"
+
+#: includes/views/shipments.php:37 includes/views/notifications.php:68
+msgid "Late Shipments"
+msgstr "Закъснели пратки"
+
+#: includes/views/dashboard.php:62
+msgid "Late Shipments for last 30 days"
+msgstr "Закъснели пратки за последните 30 дни"
+
+#: includes/class-wc-trackship-admin.php:800
+msgid "Late Shipments Notifications"
+msgstr "Известия за закъснели пратки"
+
+#: includes/shipments/views/trackship_shipments.php:25
+msgid "Latest Event"
+msgstr "Последното събитие"
+
+#: includes/customizer/trackship-customizer.php:506
+#: includes/customizer/trackship-customizer.php:615
+msgid "Links color"
+msgstr "Цвят на връзките"
+
+#: includes/class-wc-trackship-admin.php:227 includes/views/header2.php:36
+#: includes/views/header2.php:54
+msgid "Logs"
+msgstr "Дневници"
+
+#: includes/views/map-providers.php:9
+#| msgid "Map Shipping Providers"
+msgid "Map Shipping Carriers"
+msgstr "Карта на доставчиците на доставка"
+
+#: includes/views/tools.php:32
+msgid "Migration"
+msgstr "миграция"
+
+#: includes/customizer/trackship-customizer.php:1203
+msgid "Mockup Order"
+msgstr "Поръчка на макет"
+
+#: includes/customizer/trackship-customizer.php:665
+msgid "Modern"
+msgstr "Модерен"
+
+#: includes/views/dashboard.php:94
+msgid "Month to date"
+msgstr "Месец до момента"
+
+#: includes/smswoo/admin-html/plugin_sidebar_placeholders.php:31
+msgid "More info"
+msgstr "Повече информация"
+
+#: includes/class-wc-trackship-actions.php:465
+#: includes/class-wc-trackship-actions.php:974
+#: includes/html/class-wc-trackship-html.php:130
+msgid "more info"
+msgstr "повече информация"
+
+#: includes/views/dashboard.php:181
+msgid "No action needed for Shipments"
+msgstr "Не е необходимо действие за пратки"
+
+#: includes/smswoo/services/class-smswoo-nexmo.php:100
+#: includes/smswoo/services/class-smswoo-nexmo.php:160
+#: includes/smswoo/services/class-smswoo-twilio.php:101
+#: includes/smswoo/services/class-smswoo-twilio.php:171
+#: includes/smswoo/services/class-smswoo-clicksend.php:90
+msgid "No answer"
+msgstr "Без отговор"
+
+#: includes/smswoo/services/class-smswoo-twilio.php:118
+#: includes/smswoo/services/class-smswoo-msg91.php:163
+msgid "No answer code"
+msgstr "Няма код за отговор"
+
+#: includes/smswoo/services/class-smswoo-twilio.php:186
+msgid "No response code"
+msgstr "Няма код за отговор"
+
+#: includes/views/content.php:19
+#: includes/views/front/enhanced_shipment_details_notifications.php:40
+#: includes/views/front/layout1_tracking_details.php:11
+msgid "Notifications"
+msgstr "Известия"
+
+#: includes/class-wc-trackship-admin.php:841
+msgid "Notifications detail"
+msgstr "Подробности за известията"
+
+#: includes/smswoo/class-smswoo-admin.php:317
+msgid "Notifications Type (SMS/WhatsApp)"
+msgstr "Тип известия (SMS/WhatsApp)"
+
+#: includes/class-wc-trackship-admin.php:456
+msgid "Number of days for late shipments"
+msgstr "Брой дни за закъснели пратки"
+
+#: includes/class-wc-trackship-actions.php:701
+#: includes/class-wc-trackship-admin.php:1309
+#: includes/smswoo/class-smswoo-admin.php:544
+#: includes/customizer/trackship-customizer.php:217
+#: includes/customizer/trackship-customizer.php:824
+#: includes/views/shipments.php:33
+msgid "On Hold"
+msgstr "На изчакване"
+
+#: includes/class-wc-trackship-on-hold-shipments.php:172
+msgid "On Hold shipment"
+msgstr "Задържана пратка"
+
+#: includes/views/notifications.php:124
+msgid "On Hold Shipments"
+msgstr "Задържани пратки"
+
+#: includes/class-wc-trackship-admin.php:802
+msgid "On Hold Shipments Notifications"
+msgstr "Известия за задържани пратки"
+
+#: includes/views/front/tracking_page_header.php:45
+msgid "Order"
+msgstr "Поръчка"
+
+#: includes/integration/class-automatewoo-delivered-trigger.php:17
+msgid "Order Delivered"
+msgstr "Поръчката е доставена"
+
+#: templates/tracking/tracking-form.php:104
+msgid "Order Details"
+msgstr "подробности за поръчката"
+
+#: templates/tracking/tracking-form.php:111
+msgid "Order Email"
+msgstr "Имейл за поръчка"
+
+#: templates/tracking/tracking-form.php:110
+msgid "Order ID"
+msgstr "Идент. № на поръчката"
+
+#: includes/class-wc-trackship-actions.php:767
+msgid "Order id not found"
+msgstr "Поръчката не е намерена"
+
+#: includes/class-wc-trackship-admin.php:845
+#: templates/tracking/tracking-form.php:110
+#: templates/emails/exception-shipment-email.php:16
+#: templates/emails/late-shipment-email.php:16
+#: templates/emails/on-hold-shipment-email.php:16
+msgid "Order Number"
+msgstr "Номер на поръчка"
+
+#: includes/class-wc-trackship-front.php:364
+msgid "Order Processing"
+msgstr "Обработка на поръчки"
+
+#: includes/class-wc-trackship-admin.php:408
+msgid "Order statuses to trigger TrackShip "
+msgstr "Статуси на поръчките за задействане на TrackShip"
+
+#: templates/tracking/tracking-form.php:116
+msgid "Order tracking number."
+msgstr "Номер за проследяване на поръчката."
+
+#: includes/views/front/layout1_tracking_details.php:108
+#: includes/views/front/layout1_tracking_details.php:196
+#: includes/views/front/enhanced_tracking_events.php:70
+msgid "Origin Details"
+msgstr "Подробности за произход"
+
+#: includes/html/class-wc-trackship-html.php:124
+msgid "Other"
+msgstr "Друго"
+
+#: includes/class-wc-trackship-actions.php:663
+#: includes/class-wc-trackship-actions.php:710
+#: includes/class-wc-trackship-admin.php:1295
+#: includes/smswoo/class-smswoo-admin.php:542
+#: includes/customizer/trackship-customizer.php:215
+#: includes/customizer/trackship-customizer.php:822
+#: includes/views/shipments.php:30
+msgid "Out For Delivery"
+msgstr "Извън за доставка"
+
+#: includes/class-wc-trackship-front.php:701
+msgid "Overview"
+msgstr "Преглед"
+
+#: includes/class-wc-trackship-actions.php:658
+#: includes/class-wc-trackship-actions.php:740
+msgid "Pending Update"
+msgstr "Чакаща актуализация"
+
+#: includes/class-wc-trackship-actions.php:464
+#: includes/class-wc-trackship-actions.php:972
+#| msgid ""
+#| "Pending TrackShip is a temporary status that will display for a few "
+#| "minutes until we update the order with the first tracking event from the "
+#| "shipping provider. Please refresh the orders admin in 2-3 minutes."
+msgid ""
+"Pending Update is a temporary status that will display for a few minutes "
+"until we update the order with the first tracking event from the shipping "
+"provider. Please refresh the orders admin in 2-3 minutes."
+msgstr ""
+"Pending TrackShip е временно състояние, което ще се показва за няколко "
+"минути, докато не актуализираме поръчката с първото проследяващо събитие от "
+"доставчика на доставка. Моля, опреснете администратора на поръчките след 2-3 "
+"минути."
+
+#: includes/customizer/trackship-customizer.php:221
+msgid "Pickup Reminder"
+msgstr "Напомняне за получаване"
+
+#: includes/class-wc-trackship-admin.php:1338
+msgid "Pickup reminder"
+msgstr "Напомняне за вземане"
+
+#: includes/smswoo/class-smswoo-admin.php:240
+#| msgid "Please choose SMS provider from Dropown."
+msgid "Please choose SMS gateway from Dropown."
+msgstr "Моля, изберете доставчик на SMS от Dropown."
+
+#: includes/class-wc-trackship-admin.php:122
+msgid "Please connect your store with trackship.com."
+msgstr "Моля, свържете вашия магазин с trackship.com."
+
+#. %s: search for a tag
+#: trackship-for-woocommerce.php:112
+#, php-format
+msgid ""
+"Please install and activate %1$sWooCommerce%2$s for TrackShip for "
+"WooCommerce!"
+msgstr ""
+"Моля, инсталирайте и активирайте %1$sWooCommerce%2$s за TrackShip за "
+"WooCommerce!"
+
+#: includes/views/map-providers.php:57
+#: includes/smswoo/admin-html/settings_tab.php:21
+msgid "Please note: "
+msgstr "Моля обърнете внимание:"
+
+#: includes/class-wc-trackship-admin.php:126
+msgid "Please refresh the page and try again."
+msgstr "Моля, опреснете страницата и опитайте отново."
+
+#: includes/class-wc-trackship-front.php:368
+msgid "Please try again after you receive the shipping confirmation email."
+msgstr ""
+"Моля, опитайте отново, след като получите имейла за потвърждение на "
+"доставката."
+
+#: includes/class-wc-trackship-front.php:557
+#: includes/class-wc-trackship-front.php:622
+#: templates/tracking/tracking-form.php:127
+#: includes/views/front/preview_tracking_page.php:216
+#: includes/views/front/preview_enhanced_tracking_page.php:164
+msgid "Powered by "
+msgstr "Задвижвани от"
+
+#: includes/class-wc-trackship-actions.php:660
+#: includes/class-wc-trackship-actions.php:704 includes/views/shipments.php:31
+msgid "Pre Transit"
+msgstr "Предварителен транзит"
+
+#: includes/class-wc-trackship-admin.php:796
+msgid "Priority Support"
+msgstr "Приоритетна поддръжка"
+
+#: includes/customizer/trackship-customizer.php:473
+#: includes/customizer/trackship-customizer.php:689
+msgid "Progress bar"
+msgstr "Лента за напредък"
+
+#: includes/class-wc-trackship-admin.php:829
+msgid "Providers list Updated"
+msgstr "Списъкът на доставчиците е актуализиран"
+
+#: includes/class-wc-trackship-admin.php:461
+#: includes/class-wc-trackship-admin.php:483
+#: includes/class-wc-trackship-admin.php:505
+msgid "Recipient(s)"
+msgstr "Получател(и)"
+
+#: includes/class-wc-trackship-admin.php:798
+msgid "Remove TrackShip’s branding"
+msgstr "Премахнете марката на TrackShip"
+
+#: includes/class-wc-trackship-actions.php:668
+#: includes/class-wc-trackship-actions.php:716
+#: includes/class-wc-trackship-admin.php:1323
+#: includes/smswoo/class-smswoo-admin.php:546
+#: includes/customizer/trackship-customizer.php:219
+#: includes/customizer/trackship-customizer.php:826
+#: includes/views/shipments.php:35
+msgid "Return To Sender"
+msgstr "Връщане към подателя"
+
+#: includes/views/dashboard.php:70
+msgid "Return To Sender for last 30 days"
+msgstr "Връщане към подателя за последните 30 дни"
+
+#: includes/smswoo/class-smswoo-admin.php:502
+#: includes/views/map-providers.php:13 includes/views/settings.php:43
+#: includes/views/tracking-page.php:13 includes/views/notifications.php:71
+#: includes/views/notifications.php:99 includes/views/notifications.php:127
+#: includes/smswoo/admin-html/settings_tab.php:12
+msgid "Save & close"
+msgstr "Запазете и затворете"
+
+#: includes/smswoo/class-smswoo-admin.php:74
+msgid "Save Changes"
+msgstr "Запазите промените"
+
+#: includes/customizer/trackship-customizer.php:104
+msgid "Saved"
+msgstr "Запазено"
+
+#: includes/views/logs.php:36
+msgid "Search"
+msgstr "Търсене"
+
+#: includes/views/shipments.php:118
+msgid "Search by Tracking Number, Shipping carrier, Order number"
+msgstr "Търсене по номер за проследяване, превозвач, номер на поръчка"
+
+#: includes/smswoo/class-smswoo-admin.php:296
+msgid "Secret"
+msgstr "Тайна"
+
+#: includes/class-wc-trackship-front.php:263
+msgid "Security verification failed, please refresh page and try again."
+msgstr ""
+"Проверката за сигурност не бе успешна, моля, опреснете страницата и опитайте "
+"отново."
+
+#: includes/class-wc-trackship-admin.php:1255
+msgid "Select tracking page:"
+msgstr "Изберете страница за проследяване:"
+
+#: includes/class-wc-trackship-admin.php:467
+#: includes/class-wc-trackship-admin.php:489
+#: includes/class-wc-trackship-admin.php:511
+msgid "Send email at"
+msgstr "Изпратете имейл на"
+
+#: includes/class-wc-trackship-admin.php:1331
+#: includes/smswoo/class-smswoo-admin.php:495
+msgid "Send only when all shipments for the order are delivered"
+msgstr "Изпращайте само когато всички пратки за поръчката са доставени"
+
+#: includes/smswoo/class-smswoo-admin.php:373
+msgid "Sender phone number / Sender ID"
+msgstr "Телефонен номер на подателя / ID на подател"
+
+#: includes/smswoo/class-smswoo-sms-notification.php:229
+msgid "Sent"
+msgstr "Изпратено"
+
+#: includes/customizer/trackship-customizer.php:953
+msgid "Set Pickup reminder notifications(in days)"
+msgstr "Задаване на известия за напомняне за получаване (в дни)"
+
+#: trackship-for-woocommerce.php:282 includes/class-wc-trackship-admin.php:231
+#: includes/views/content.php:14 includes/views/header2.php:35
+#: includes/views/header2.php:64
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/shipments/views/trackship_shipments.php:24
+msgid "Ship City"
+msgstr "Корабният град"
+
+#: includes/shipments/views/trackship_shipments.php:21
+msgid "Ship from"
+msgstr "Изпращане от"
+
+#: includes/shipments/views/trackship_shipments.php:23
+msgid "Ship State"
+msgstr "Състояние на кораба"
+
+#: includes/shipments/views/trackship_shipments.php:22
+msgid "Ship to"
+msgstr "Доставка до"
+
+#. %s: search for a tag
+#: includes/class-wc-trackship-front.php:488
+#, php-format
+msgid "Shipment %1$s"
+msgstr "Пратка %1$s"
+
+#: includes/views/front/layout1_tracking_details.php:9
+msgid "Shipment Progress"
+msgstr "Напредък на доставката"
+
+#: includes/class-wc-trackship-actions.php:388
+#: includes/class-wc-trackship-admin.php:846
+#: templates/emails/late-shipment-email.php:17 includes/views/logs.php:51
+#: includes/shipments/views/trackship_shipments.php:20
+msgid "Shipment status"
+msgstr "Състояние на пратката"
+
+#: includes/class-wc-trackship-admin.php:225 includes/views/header2.php:33
+#: includes/views/header2.php:49
+msgid "Shipments"
+msgstr "пратки"
+
+#: includes/class-wc-trackship-admin.php:799
+msgid "Shipments Dashboard"
+msgstr "Табло за управление на пратки"
+
+#: includes/views/dashboard.php:57
+msgid ""
+"shipments from the last 30 days that haven't been automatically tracked. To "
+"start tracking these past orders, simply click here"
+msgstr ""
+"пратки от последните 30 дни, които не са били автоматично проследени. За да "
+"започнете да проследявате тези минали поръчки, просто щракнете тук"
+
+#: includes/class-wc-trackship-actions.php:728
+#: includes/class-wc-trackship-actions.php:743
+#: templates/emails/tracking-info.php:81
+#: includes/views/front/enhanced_tracking_events.php:16
+#: includes/views/front/tracking_page_header.php:66
+msgid "Shipped"
+msgstr "Изпратен"
+
+#: includes/shipments/views/trackship_shipments.php:16
+msgid "Shipped date"
+msgstr "Дата на изпращане"
+
+#: includes/customizer/trackship-customizer.php:915
+msgid "Shipped products header text"
+msgstr "Текст на заглавката на изпратените продукти"
+
+#: includes/analytics/class-wc-trackship-analytics.php:52
+msgid "Shipping & Delivery"
+msgstr "Доставка и доставка"
+
+#: includes/class-wc-trackship-admin.php:803
+msgid "Shipping & Delivery Analytics"
+msgstr "Анализ на доставка и доставка"
+
+#: includes/views/dashboard.php:189
+msgid "Shipping & Delivery Overview"
+msgstr "Преглед на доставка и доставка"
+
+#: templates/emails/shipping-email-addresses.php:33
+#: includes/customizer/trackship-customizer.php:346
+msgid "Shipping address"
+msgstr "Адрес за доставка"
+
+#: includes/customizer/trackship-customizer.php:943
+msgid "Shipping address header text"
+msgstr "Текст на заглавката на адреса за доставка"
+
+#: includes/shipments/views/trackship_shipments.php:19
+msgid "Shipping carrier"
+msgstr "Превозвач"
+
+#: templates/emails/exception-shipment-email.php:19
+#: templates/emails/late-shipment-email.php:20
+#: templates/emails/on-hold-shipment-email.php:19
+msgid "Shipping days"
+msgstr "Дни за доставка"
+
+#: templates/emails/exception-shipment-email.php:17
+#: templates/emails/late-shipment-email.php:18
+#: templates/emails/on-hold-shipment-email.php:17
+#: includes/views/map-providers.php:25
+msgid "Shipping provider"
+msgstr "Доставчик на доставка"
+
+#: includes/class-wc-trackship-actions.php:773
+msgid "Shipping provider not found"
+msgstr "Доставчикът не е намерен"
+
+#: includes/shipments/views/trackship_shipments.php:27
+msgid "Shipping time"
+msgstr "Време за доставка"
+
+#: includes/customizer/trackship-customizer.php:676
+msgid "Show all events"
+msgstr "Показване на всички събития"
+
+#: includes/customizer/trackship-customizer.php:753
+msgid "Show both order details and Tracking number"
+msgstr ""
+"Показване както на подробностите за поръчката, така и на номера за "
+"проследяване"
+
+#: includes/customizer/trackship-customizer.php:678
+msgid "Show last events & expand"
+msgstr "Показване на последните събития и разширяване"
+
+#: includes/customizer/trackship-customizer.php:754
+msgid "show only Order details"
+msgstr "показва само подробности за поръчката"
+
+#: includes/customizer/trackship-customizer.php:755
+msgid "show only Tracking details"
+msgstr "показва само подробности за проследяване"
+
+#. %s: search for a count
+#: includes/views/map-providers.php:59
+#, php-format
+msgid ""
+"Since AST PRO is installed, the shipping provider name mapping is done on "
+"the shipping provider settings (WooCommerce > Shipment Tracking > "
+"%1$sShipping Providers%2$s)"
+msgstr ""
+"Тъй като AST PRO е инсталиран, съпоставянето на името на доставчика на "
+"доставка се извършва в настройките на доставчика на доставка (WooCommerce > "
+"Проследяване на пратка > %1$sДоставчици на доставка%2$s)"
+
+#: includes/customizer/trackship-customizer.php:475
+#: includes/customizer/trackship-customizer.php:691
+msgid "Single icon"
+msgstr "Единична икона"
+
+#: includes/views/logs.php:33
+msgid "SMS"
+msgstr "СМС"
+
+#: includes/smswoo/class-smswoo-admin.php:239
+#: includes/smswoo/class-smswoo-admin.php:247
+msgid "SMS gateways"
+msgstr "SMS шлюзове"
+
+#: includes/class-wc-trackship-admin.php:797
+#: includes/views/notifications.php:18
+msgid "SMS Notifications"
+msgstr "SMS известия"
+
+#: includes/class-wc-trackship-front.php:972
+msgid "SMS notifications"
+msgstr "SMS известия"
+
+#: includes/class-wc-trackship-admin.php:1362
+#: includes/smswoo/admin-html/settings_tab.php:8
+msgid "SMS Settings"
+msgstr "Настройки за SMS"
+
+#: includes/class-wc-trackship-admin.php:804
+#| msgid "Starting from $9 a month"
+msgid "Starting from $11 a month"
+msgstr "Започвайки от $11 на месец"
+
+#: includes/class-wc-trackship-admin.php:851 includes/views/logs.php:55
+msgid "Status"
+msgstr "Състояние"
+
+#: includes/class-wc-trackship-actions.php:782
+msgid "Store is conneted with different account"
+msgstr "Магазинът е свързан с различен акаунт"
+
+#: includes/class-wc-trackship-actions.php:779
+msgid "Store is not Connected to TrackShip"
+msgstr "Магазинът не е свързан с TrackShip"
+
+#: includes/customizer/trackship-customizer.php:431
+msgid "Style & Colors"
+msgstr "Стил и цветове"
+
+#: includes/class-wc-trackship-admin.php:823
+#: includes/class-wc-trackship-admin.php:831
+msgid "Sync TrackShip Providers"
+msgstr "Синхронизиране на доставчици на TrackShip"
+
+#: includes/class-wc-trackship-admin.php:827
+msgid ""
+"Syncing the TrackShip providers list add or updates the pre-set TrackShip "
+"providers and will not effect custom shipping providers."
+msgstr ""
+"Синхронизирането на списъка с доставчици на TrackShip добавя или актуализира "
+"предварително зададените доставчици на TrackShip и няма да засегне "
+"персонализираните доставчици."
+
+#: includes/customizer/trackship-customizer.php:748
+msgid "Tabs display"
+msgstr "Показване на раздели"
+
+#: includes/smswoo/class-smswoo-admin.php:517
+msgid "Template ID"
+msgstr "ID на шаблона"
+
+#: includes/smswoo/class-smswoo-admin.php:518
+msgid "Template variables"
+msgstr "Шаблонни променливи"
+
+#: includes/customizer/trackship-customizer.php:724
+msgid ""
+"The delivery tracking number will display if the shipment is getting a "
+"different tracking number at the destination country from the local postal "
+"service (i.e 4PX -> USPS)"
+msgstr ""
+"Номерът за проследяване на доставката ще се покаже, ако пратката получи "
+"различен номер за проследяване в държавата на местоназначение от местната "
+"пощенска услуга (т.е. 4PX -> USPS)"
+
+#: includes/class-wc-trackship-exception-shipments.php:178
+msgid "The following shipments are exception:"
+msgstr "Изключение правят следните пратки:"
+
+#: includes/class-wc-trackship-late-shipments.php:184
+msgid "The following shipments are late:"
+msgstr "Следните пратки закъсняват:"
+
+#: includes/class-wc-trackship-on-hold-shipments.php:178
+msgid "The following shipments are On Hold:"
+msgstr "Следните пратки са на изчакване:"
+
+#: includes/class-wc-trackship-front.php:286
+#: includes/class-wc-trackship-front.php:296
+msgid ""
+"The order/shipment you're trying to track has not been shipped yet or the "
+"order number entered is incorrect."
+msgstr ""
+"Поръчката/пратката, която се опитвате да проследите, все още не е изпратена "
+"или въведеният номер на поръчката е неправилен."
+
+#: includes/class-wc-trackship-actions.php:579
+msgid ""
+"The shipment status updates will run in the background, please refresh the "
+"page in a few minutes."
+msgstr ""
+"Актуализациите на състоянието на пратката ще се изпълняват на заден план, "
+"моля, опреснете страницата след няколко минути."
+
+#: includes/views/map-providers.php:23
+msgid ""
+"This feature lets you align shipping providers from external shipping "
+"services with those on TrackShip. You can match the names of the Shipping "
+"Providers you receive from your shipping company with TrackShip’s provider "
+"names."
+msgstr ""
+"Тази функция ви позволява да синхронизирате доставчиците на доставки от "
+"външни услуги за доставка с тези на TrackShip. Можете да съпоставите имената "
+"на доставчиците, които получавате от вашата спедиторска компания, с имената "
+"на доставчиците на TrackShip."
+
+#: includes/smswoo/class-smswoo-admin.php:374
+msgid "This field appears as a from or Sender ID"
+msgstr "Това поле се появява като от или идентификатор на подател"
+
+#: includes/customizer/trackship-customizer.php:883
+msgid "This will be appended to URL in the email content"
+msgstr "Това ще бъде добавено към URL в съдържанието на имейла"
+
+#: includes/class-wc-trackship-admin.php:848 includes/views/logs.php:52
+msgid "Time"
+msgstr "Време"
+
+#: includes/class-wc-trackship-admin.php:849 includes/views/logs.php:53
+msgid "To"
+msgstr "Да се"
+
+#: templates/tracking/tracking-form.php:109
+msgid "To track your order, enter your order number and email address:"
+msgstr ""
+"За да проследите поръчката си, въведете номера на поръчката и имейл адреса "
+"си:"
+
+#: templates/tracking/tracking-form.php:115
+msgid ""
+"To track your order, please enter the tracking number you received in the "
+"shipping confirmation email"
+msgstr ""
+"За да проследите поръчката си, моля, въведете номера за проследяване, който "
+"сте получили в имейла за потвърждение на доставката"
+
+#: includes/views/content.php:29
+msgid "Tools"
+msgstr "Инструменти"
+
+#: includes/views/dashboard.php:76
+msgid "Total Shipments"
+msgstr "Общо пратки"
+
+#: includes/class-wc-trackship-actions.php:456
+#: includes/class-wc-trackship-actions.php:462
+#: includes/class-wc-trackship-actions.php:970
+#: includes/class-wc-trackship-actions.php:981
+msgid "Track"
+msgstr "Следа"
+
+#: includes/customizer/trackship-customizer.php:550
+msgid "Track Button radius"
+msgstr "Радиус на бутона за проследяване"
+
+#: includes/customizer/trackship-customizer.php:522
+msgid "Track button text"
+msgstr "Текст на бутона за проследяване"
+
+#: includes/customizer/trackship-customizer.php:288
+msgid "Track Order"
+msgstr "Проследяване на поръчка"
+
+#: includes/class-wc-trackship-admin.php:191
+msgid "Track Shipment"
+msgstr "Проследяване на пратка"
+
+#: includes/customizer/trackship-customizer.php:280
+msgid "Track your order"
+msgstr "Проследете поръчката си"
+
+#: includes/customizer/trackship-customizer.php:466
+#: includes/customizer/trackship-customizer.php:684
+msgid "Tracker type"
+msgstr "Тип тракер"
+
+#: includes/class-wc-trackship-admin.php:1361
+msgid "Tracking Analytics"
+msgstr "Анализ за проследяване"
+
+#: includes/customizer/trackship-customizer.php:671
+msgid "Tracking event display"
+msgstr "Проследяващ дисплей на събитието"
+
+#: includes/views/front/layout1_tracking_details.php:44
+msgid "Tracking information is not available, please try again later."
+msgstr ""
+"Информацията за проследяване не е налична, моля, опитайте отново по-късно."
+
+#: includes/views/front/enhanced_tracking_events.php:40
+msgid ""
+"Tracking is still not yet available for this shipment, please try again "
+"later."
+msgstr ""
+"Проследяването все още не е налично за тази пратка, моля, опитайте отново по-"
+"късно."
+
+#: includes/views/shipments.php:38 includes/views/dashboard.php:88
+msgid "Tracking Issues"
+msgstr "Проблеми с проследяването"
+
+#: includes/views/dashboard.php:66
+msgid "Tracking Issues for last 30 days"
+msgstr "Проблеми с проследяването за последните 30 дни"
+
+#: includes/class-wc-trackship-admin.php:847
+#: templates/tracking/tracking-form.php:106
+#: templates/tracking/tracking-form.php:116
+#: templates/emails/exception-shipment-email.php:18
+#: templates/emails/late-shipment-email.php:19
+#: templates/emails/on-hold-shipment-email.php:18
+#: includes/shipments/views/trackship_shipments.php:18
+msgid "Tracking Number"
+msgstr "Номер за проследяване"
+
+#: includes/class-wc-trackship-actions.php:770
+msgid "Tracking number not found"
+msgstr "Номерът за проследяване не е намерен"
+
+#: includes/customizer/trackship-customizer.php:393
+#: includes/customizer/trackship-customizer.php:659
+#: includes/views/tracking-page.php:8
+msgid "Tracking Page"
+msgstr "Страница за проследяване"
+
+#: includes/customizer/trackship-customizer.php:373
+#: includes/customizer/trackship-customizer.php:374
+msgid "Tracking Page Widget"
+msgstr "Притурка за проследяване на страница"
+
+#: includes/customizer/trackship-customizer.php:412
+#: includes/customizer/trackship-customizer.php:460
+msgid "Tracking Widget"
+msgstr "Проследяваща джаджа"
+
+#. Description of the plugin
+msgid ""
+"TrackShip for WooCommerce integrates TrackShip into your WooCommerce Store "
+"and auto-tracks your orders, automates your post-shipping workflow and "
+"allows you to provide a superior Post-Purchase experience to your customers."
+msgstr ""
+"TrackShip за WooCommerce интегрира TrackShip във вашия WooCommerce Store и "
+"автоматично проследява вашите поръчки, автоматизира вашия работен процес "
+"след изпращане и ви позволява да предоставите превъзходно изживяване след "
+"покупка на вашите клиенти."
+
+#: includes/views/logs.php:13
+msgid "TrackShip logs table does not exist, Please try after few minutes"
+msgstr ""
+"Таблицата с регистрационни файлове на TrackShip не съществува, моля, "
+"опитайте след няколко минути"
+
+#: includes/views/map-providers.php:26
+msgid "TrackShip Provider"
+msgstr "Доставчик на TrackShip"
+
+#: includes/views/shipments.php:18 includes/views/dashboard.php:26
+msgid "TrackShip Shipments table does not exist, Please try after few minutes"
+msgstr ""
+"Таблицата с пратки на TrackShip не съществува, моля, опитайте след няколко "
+"минути"
+
+#: includes/class-wc-trackship-admin.php:850 includes/views/logs.php:54
+msgid "Type"
+msgstr "Тип"
+
+#: includes/class-wc-trackship-front.php:210
+#: includes/class-wc-trackship-front.php:228
+msgid "Unable to locate the order."
+msgstr "Не може да се намери поръчката."
+
+#: includes/class-wc-trackship-front.php:216
+msgid "Unable to locate the order. or Invalid order key"
+msgstr "Не може да се намери поръчката. или Невалиден ключ за поръчка"
+
+#: includes/class-wc-trackship-actions.php:749
+msgid "Unauthorized"
+msgstr "Неоторизиран"
+
+#: includes/class-wc-trackship-actions.php:659
+#: includes/class-wc-trackship-actions.php:725
+msgid "Unknown"
+msgstr "Неизвестен"
+
+#: includes/trackship-email-manager.php:330
+#: includes/customizer/class-trackship-email-preview.php:186
+msgid "Unsubscribe"
+msgstr "Отписване"
+
+#: includes/shipments/views/trackship_shipments.php:17
+msgid "Updated at"
+msgstr "Актуализиран на"
+
+#: includes/views/tools.php:31
+msgid "Updating tracking details during migration from older to newer version."
+msgstr ""
+"Актуализиране на детайлите за проследяване по време на миграция от по-стара "
+"към по-нова версия."
+
+#: includes/class-wc-trackship-admin.php:807
+msgid "UPGRADE TO PRO"
+msgstr "НАДГРАЙД ДО ПРОФ"
+
+#: includes/views/dashboard.php:118
+msgid "Upgrade to Pro"
+msgstr "Надстройте до Pro"
+
+#: includes/class-wc-trackship-admin.php:792
+msgid "Upgrade to TrackShip Pro"
+msgstr "Надстройте до TrackShip Pro"
+
+#: includes/class-wc-trackship-actions.php:776
+msgid "User not found for this key"
+msgstr "Потребителят не е намерен за този ключ"
+
+#: includes/views/tools.php:24
+msgid "Verify DB Structure"
+msgstr "Проверете структурата на DB"
+
+#: includes/views/tools.php:23
+msgid "Verify if all TrackShip database tables are present."
+msgstr "Проверете дали всички таблици на базата данни TrackShip присъстват."
+
+#: includes/views/dashboard.php:209
+msgid "View detailed stats"
+msgstr "Вижте подробна статистика"
+
+#: includes/views/front/preview_tracking_page.php:173
+#: includes/views/front/layout1_tracking_details.php:165
+msgid "view less"
+msgstr "гледай по-малко"
+
+#: includes/views/front/preview_tracking_page.php:172
+#: includes/views/front/layout1_tracking_details.php:164
+msgid "view more"
+msgstr "Виж повече"
+
+#: includes/class-wc-trackship-actions.php:984
+msgid "View Shipment log"
+msgstr "Преглед на дневника на пратката"
+
+#: includes/views/front/enhanced_shipment_details_notifications.php:27
+#: includes/views/front/preview_enhanced_tracking_page.php:131
+msgid "View your order details"
+msgstr "Вижте подробностите за вашата поръчка"
+
+#. %s: search for a orders
+#: includes/views/tools.php:13
+#, php-format
+#| msgid ""
+#| "We detected %1$s Shipped orders from the last 30 days that were not sent "
+#| "to TrackShip, you can bulk send them to TrackShip"
+msgid ""
+"We detected %1$s Shipments from the last 30 days that were not sent to "
+"TrackShip, you can bulk send them to TrackShip"
+msgstr ""
+"Открихме %1$s изпратени поръчки от последните 30 дни, които не бяха "
+"изпратени до TrackShip, можете да ги изпратите групово до TrackShip"
+
+#. %s: search for a count
+#: includes/class-wc-trackship-exception-shipments.php:175
+msgid "We detected %d Exception shipments:"
+msgstr "Открихме %d пратки по изключение:"
+
+#. %s: search for a count
+#: includes/class-wc-trackship-late-shipments.php:181
+msgid "We detected %d late shipments:"
+msgstr "Открихме %d закъснели пратки:"
+
+#. %s: search for a count
+#: includes/class-wc-trackship-on-hold-shipments.php:175
+msgid "We detected %d On Hold shipments:"
+msgstr "Открихме %d задържани пратки:"
+
+#. %s: replace with Partially Shipped order count
+#: includes/class-wc-trackship-admin.php:929
+#, php-format
+msgid ""
+"We detected %s orders that use the Delivered order status, You can reassign "
+"these orders to a different status"
+msgstr ""
+"Открихме %s поръчки, които използват статуса на Доставена поръчка. Можете да "
+"присвоите на тези поръчки различен статус"
+
+#. %s: search for a total_orders
+#: includes/class-wc-trackship-admin.php:547
+#, php-format
+#| msgid ""
+#| "We detected %s Shipped orders from the last 30 days that were not sent to "
+#| "TrackShip, you can bulk send them to TrackShip"
+msgid ""
+"We detected %s Shipments from the last 30 days that were not sent to "
+"TrackShip, you can bulk send them to TrackShip"
+msgstr ""
+"Открихме %s изпратени поръчки от последните 30 дни, които не бяха изпратени "
+"до TrackShip, можете да ги изпратите групово до TrackShip"
+
+#: includes/customizer/trackship-customizer.php:578
+msgid "Widget Background color"
+msgstr "Цвят на фона на джаджа"
+
+#: includes/customizer/trackship-customizer.php:479
+msgid "Widget background color"
+msgstr "Цвят на фона на джаджа"
+
+#: includes/customizer/trackship-customizer.php:596
+msgid "Widget Border color"
+msgstr "Цвят на рамката на джаджата"
+
+#: includes/customizer/trackship-customizer.php:497
+msgid "Widget border color"
+msgstr "Цвят на границата на джаджа"
+
+#: includes/customizer/trackship-customizer.php:605
+msgid "Widget Border radius"
+msgstr "Радиус на границата на Widget"
+
+#: includes/customizer/trackship-customizer.php:488
+msgid "Widget font color"
+msgstr "Цвят на шрифта на джаджа"
+
+#: includes/customizer/trackship-customizer.php:449
+msgid "Widget Form"
+msgstr "Форма за джаджи"
+
+#: includes/customizer/trackship-customizer.php:653
+msgid "Widget Layout"
+msgstr "Оформление на джаджа"
+
+#: includes/customizer/trackship-customizer.php:572
+msgid "Widget Style"
+msgstr "Стил на джаджа"
+
+#: includes/customizer/trackship-customizer.php:996
+#: includes/customizer/trackship-customizer.php:1036
+msgid "You are customizing"
+msgstr "Вие персонализирате"
+
+#. %s: search for a tag
+#: includes/smswoo/admin-html/settings_tab.php:23
+#, php-format
+#| msgid ""
+#| "You can edit the SMS provider from the SMS for WooCommerce "
+#| "%1$ssettings%2$s"
+msgid ""
+"You can edit the SMS gateways from the SMS for WooCommerce %1$ssettings%2$s"
+msgstr ""
+"Можете да редактирате доставчика на SMS от SMS за WooCommerce "
+"%1$ssettings%2$s"
+
+#: includes/class-wc-trackship-front.php:392
+msgid "You have been unsubscribed from shipment status emails."
+msgstr "Отписани сте от имейли за състоянието на пратката."
+
+#. %s: search for a tag
+#: trackship-for-woocommerce.php:126
+#, php-format
+msgid ""
+"You must have a %1$sShipment Tracking plugin%2$s installed to use TrackShip "
+"for WooCommerce."
+msgstr ""
+"Трябва да имате инсталиран плъгин %1$sShipment Tracking%2$s, за да "
+"използвате TrackShip за WooCommerce."
+
+#: includes/views/dashboard.php:128
+msgid ""
+"You must have a Shipment Tracking plugin installed to use TrackShip for "
+"WooCommerce."
+msgstr ""
+"Трябва да имате инсталиран плъгин за проследяване на пратки, за да "
+"използвате TrackShip за WooCommerce."
+
+#: includes/class-wc-trackship-front.php:367
+msgid ""
+"Your order is being processed, the tracking details will be available once "
+"it's Shipped."
+msgstr ""
+"Вашата поръчка се обработва, данните за проследяване ще бъдат налични, след "
+"като бъде изпратена."
+
+#: includes/class-wc-trackship-actions.php:179
+#: includes/smswoo/class-smswoo-admin.php:443
+msgid "Your settings have been successfully saved."
+msgstr "Вашите настройки са запазени успешно."

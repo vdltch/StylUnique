@@ -1,0 +1,2572 @@
+# Translation of Plugins - PDF Invoices &amp; Packing Slips for WooCommerce - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - PDF Invoices &amp; Packing Slips for WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-11-29 09:00:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - PDF Invoices &amp; Packing Slips for WooCommerce - Stable (latest release)\n"
+
+#: includes/views/advanced-tools.php:264
+msgid "Delete documents"
+msgstr "Supprimer des documents"
+
+#: includes/views/advanced-tools.php:237
+msgid "All"
+msgstr "Tout"
+
+#: includes/views/advanced-tools.php:226
+msgid "This tool will delete existing documents within the selected order date range."
+msgstr "Cet outil supprimera les documents existants dans la plage de dates de commande sélectionnée."
+
+#: includes/views/advanced-tools.php:225
+msgid "Delete existing documents"
+msgstr "Supprimer des documents existants"
+
+#: includes/views/advanced-tools.php:215
+msgid "Renumber documents"
+msgstr "Renuméroter les documents"
+
+#: includes/views/advanced-tools.php:209 includes/views/advanced-tools.php:258
+msgid "To:"
+msgstr "À‎ :"
+
+#: includes/views/advanced-tools.php:206 includes/views/advanced-tools.php:210
+#: includes/views/advanced-tools.php:255 includes/views/advanced-tools.php:259
+msgid "(as: yyyy-mm-dd)"
+msgstr "(comme : aaaa-mm-jj)"
+
+#: includes/views/advanced-tools.php:205 includes/views/advanced-tools.php:254
+msgid "From:"
+msgstr "De :"
+
+#: includes/views/advanced-tools.php:185 includes/views/advanced-tools.php:233
+msgid "Select"
+msgstr "Sélectionner"
+
+#: includes/views/advanced-tools.php:182 includes/views/advanced-tools.php:230
+msgid "Document type:"
+msgstr "Type de document :"
+
+#. translators: step-by-step instructions
+#: includes/views/advanced-tools.php:174
+msgid "Set the <strong>next document number</strong> setting %s to the number you want to use for the first document. "
+msgstr "Définissez le paramètre %s du <strong>numéro du document suivant</strong> au numéro que vous souhaitez utiliser pour le premier document. "
+
+#: includes/views/advanced-tools.php:169
+msgid "This tool will renumber existing documents within the selected order date range, while keeping the assigned document date."
+msgstr "Cet outil renumérotera les documents existants dans la plage de dates de commande sélectionnée, tout en conservant la date assignée au document."
+
+#: includes/views/advanced-tools.php:168
+msgid "Renumber existing documents"
+msgstr "Renuméroter les documents existants"
+
+#: includes/views/advanced-tools.php:163
+msgid "<strong>DANGER ZONE:</strong> Create a backup before using these tools, the actions they perform are irreversible!"
+msgstr "<strong>Zone de danger :</strong> Créez une sauvegarde avant d’utiliser ces outils, les actions qu’ils effectuent sont irréversibles !"
+
+#: includes/views/advanced-status.php:324
+msgid "Path"
+msgstr "Chemin"
+
+#: includes/views/advanced-numbers.php:44
+msgid "Please select a number store!"
+msgstr "Veuillez sélectionner un numéro de magasin !"
+
+#: includes/views/advanced-numbers.php:37
+msgid "Search number"
+msgstr "Rechercher par numéro"
+
+#: includes/views/advanced-numbers.php:34
+msgid "Numbers may have been assigned to orders before this."
+msgstr "Il est possible que des numéros aient été assignés à des commandes avant cela."
+
+#. translators: chose table title
+#: includes/views/advanced-numbers.php:29
+msgid "Below is a list of all the document numbers generated since the last reset (which happens when you set the <strong>next %s number</strong> value in the settings)."
+msgstr "Vous trouverez ci-dessous une liste de tous les numéros de documents générés depuis la dernière réinitialisation (qui se produit lorsque vous définissez la valeur du <strong>prochain numéro %s </strong> dans les réglages)."
+
+#: includes/views/advanced-numbers.php:22
+msgid "This document is currently using the main invoice number sequence."
+msgstr "Ce document utilise actuellement la séquence principale des numéros de facture."
+
+#: includes/views/advanced-numbers.php:5
+msgid "Choose a number store"
+msgstr "Choisissez un registre de numéros"
+
+#: includes/tables/class-wcpdf-number-store-list-table.php:124
+msgid "Order Status"
+msgstr "État de la commande"
+
+#: includes/tables/class-wcpdf-number-store-list-table.php:123
+msgid "Order"
+msgstr "Commande"
+
+#: includes/tables/class-wcpdf-number-store-list-table.php:121
+msgid "Calculated"
+msgstr "Calculé"
+
+#: includes/tables/class-wcpdf-number-store-list-table.php:120
+msgid "Type"
+msgstr "Type"
+
+#: includes/tables/class-wcpdf-number-store-list-table.php:119
+msgid "Number"
+msgstr "Nombre"
+
+#: includes/tables/class-wcpdf-number-store-list-table.php:96
+msgid "Unknown"
+msgstr "Inconnu"
+
+#: includes/tables/class-wcpdf-number-store-list-table.php:80
+msgid "Refund:"
+msgstr "Remboursement :"
+
+#: includes/settings/class-wcpdf-settings-upgrade.php:67
+msgid "Handle document translations with WPML, Polylang, Weglot, TranslatePress or GTranslate."
+msgstr "Traitez les traductions de documents avec WPML, Polylang, Weglot, TranslatePress ou GTranslate."
+
+#: includes/settings/class-wcpdf-settings-upgrade.php:46
+msgid "Proforma Invoice, Credit Note & Receipt"
+msgstr "Facture pro forma, note de crédit et reçu"
+
+#: includes/settings/class-wcpdf-settings-debug.php:881
+msgid "Enables the danger zone tools. The actions performed by these tools are irreversible!"
+msgstr "Active les outils de la zone de danger. Les actions effectuées par ces outils sont irréversibles !"
+
+#: includes/settings/class-wcpdf-settings-debug.php:875
+msgid "Enable danger zone tools"
+msgstr "Activer les outils de la zone de danger"
+
+#: includes/settings/class-wcpdf-settings-debug.php:510
+msgid "documents renumbered."
+msgstr "documents renumérotés."
+
+#: includes/settings/class-wcpdf-settings-debug.php:510
+msgid "documents deleted."
+msgstr "documents supprimés."
+
+#: includes/settings/class-wcpdf-settings-debug.php:498
+msgid "One or more request parameters missing."
+msgstr "Un ou plusieurs paramètres de demande manquent."
+
+#: includes/settings/class-wcpdf-settings-debug.php:916
+msgid "Numbers"
+msgstr "Nombres"
+
+#: includes/documents/class-wcpdf-invoice.php:300
+msgid "Displays a due date below the order data."
+msgstr "Affiche une date d’échéance sous les données de la commande."
+
+#: includes/documents/class-wcpdf-invoice.php:298
+msgid "30 days"
+msgstr "30 jours"
+
+#: includes/documents/class-wcpdf-invoice.php:297
+msgid "7 days"
+msgstr "7 jours"
+
+#: includes/documents/class-wcpdf-invoice.php:296
+msgid "1 day"
+msgstr "1 jour"
+
+#: includes/documents/class-wcpdf-invoice.php:288
+msgid "Display due date"
+msgstr "Afficher la date d’échéance"
+
+#: includes/class-wcpdf-settings.php:196
+msgid "Advanced"
+msgstr "Avancé"
+
+#: includes/class-wcpdf-main.php:1667
+#: includes/documents/abstract-wcpdf-order-document.php:652
+msgid "Due Date:"
+msgstr "Date d’échéance :"
+
+#: includes/class-wcpdf-assets.php:264
+msgid "Please select a document type"
+msgstr "Veuillez sélectionner un type de document"
+
+#. translators: legacy addon name
+#: woocommerce-pdf-invoices-packingslips.php:522
+msgid "While updating the PDF Invoices & Packing Slips for WooCommerce plugin we've noticed our legacy %s add-on was active on your site. This functionality is now incorporated into the core plugin. We've deactivated the add-on for you, and you are free to uninstall it."
+msgstr "Lors de la mise à jour de l’extension PDF Invoices & Packing Slips for WooCommerce, nous avons remarqué que notre ancien module %s était actif sur votre site. Cette fonctionnalité est maintenant incorporée dans le cœur de l’extension. Nous avons désactivé le module pour vous, et vous êtes libre de le désinstaller."
+
+#: ubl/Settings/TaxesSettings.php:200
+msgid "Services outside scope of tax"
+msgstr "Services hors champ d’application de la taxe"
+
+#: ubl/Settings/TaxesSettings.php:199
+msgid "Higher rate"
+msgstr "Taux plus élevé"
+
+#: ubl/Settings/TaxesSettings.php:198
+msgid "Free export item, tax not charged"
+msgstr "Article d’exportation gratuit, sans taxe"
+
+#: ubl/Settings/TaxesSettings.php:197
+msgid "Exempt from tax"
+msgstr "Exonéré de taxe"
+
+#: ubl/Settings/TaxesSettings.php:196
+msgid "Duty paid by supplier"
+msgstr "Droits payés par le fournisseur"
+
+#: ubl/Settings/TaxesSettings.php:195
+msgid "Transferred (VAT)"
+msgstr "Transféré (TVA)"
+
+#: ubl/Settings/TaxesSettings.php:194
+msgid "Value Added Tax (VAT) due from a previous invoice"
+msgstr "Taxe sur la valeur ajoutée (TVA) due sur une facture précédente"
+
+#: ubl/Settings/TaxesSettings.php:193
+msgid "Value Added Tax (VAT) not now due for payment"
+msgstr "Taxe sur la valeur ajoutée (TVA) non encore exigible"
+
+#: ubl/Settings/TaxesSettings.php:192
+msgid "Exempt for resale"
+msgstr "Exonération lors de la revente"
+
+#: ubl/Settings/TaxesSettings.php:191
+msgid "Mixed tax rate"
+msgstr "Taux d’imposition mixte"
+
+#: ubl/Settings/TaxesSettings.php:190
+msgid "Zero rated goods"
+msgstr "Marchandises à taux zéro"
+
+#: ubl/Settings/TaxesSettings.php:189
+msgid "Lower rate"
+msgstr "Taux inférieur"
+
+#: ubl/Settings/TaxesSettings.php:188
+msgid "Standard rate"
+msgstr "Taux standard"
+
+#: ubl/Settings/TaxesSettings.php:173
+msgid "Valuation deposit"
+msgstr "Dépôt d’évaluation"
+
+#: ubl/Settings/TaxesSettings.php:172
+msgid "Tonnage taxes"
+msgstr "Taxes au tonnage"
+
+#: ubl/Settings/TaxesSettings.php:171
+msgid "Turnover tax"
+msgstr "Taxe sur le chiffre d’affaires"
+
+#: ubl/Settings/TaxesSettings.php:169
+msgid "Alcohol mark tax"
+msgstr "Taxe sur les marques d’alcool"
+
+#: ubl/Settings/TaxesSettings.php:168
+msgid "Shifted wage tax"
+msgstr "Shifted wage tax (UN/EDIFACT)"
+
+#: ubl/Settings/TaxesSettings.php:167
+msgid "Surtax"
+msgstr "Surtaxe"
+
+#: ubl/Settings/TaxesSettings.php:166
+msgid "Suspended duty"
+msgstr "Suspension des frais de douane jusqu’à la mise en vente"
+
+#: ubl/Settings/TaxesSettings.php:165
+msgid "State/provincial sales tax"
+msgstr "Taxe de vente nationale/provinciale"
+
+#: ubl/Settings/TaxesSettings.php:164
+msgid "Shifted social securities"
+msgstr "Shifted social securities (UN/EDIFACT)"
+
+#: ubl/Settings/TaxesSettings.php:163
+msgid "Special construction tax"
+msgstr "Taxe spéciale de construction"
+
+#: ubl/Settings/TaxesSettings.php:162
+msgid "Preference duty"
+msgstr "Frais de douane réduits pour les pays préférentiels"
+
+#: ubl/Settings/TaxesSettings.php:160
+msgid "Provisional duty bond"
+msgstr "Caution douanière provisoire"
+
+#: ubl/Settings/TaxesSettings.php:159
+msgid "Other taxes"
+msgstr "Autres taxes"
+
+#: ubl/Settings/TaxesSettings.php:158
+msgid "Miscellaneous cash deposit"
+msgstr "Dépôt en espèces divers"
+
+#: ubl/Settings/TaxesSettings.php:157
+msgid "Monetary compensatory amount"
+msgstr "Montant compensatoire monétaire"
+
+#: ubl/Settings/TaxesSettings.php:156
+msgid "Lust tax"
+msgstr "Taxe LUST (américaine)"
+
+#: ubl/Settings/TaxesSettings.php:155
+msgid "Local sales tax"
+msgstr "Taxe de vente locale"
+
+#: ubl/Settings/TaxesSettings.php:154
+msgid "Light dues payable"
+msgstr "Taxe sur les navires faisant escale"
+
+#: ubl/Settings/TaxesSettings.php:153
+msgid "Local construction tax"
+msgstr "Taxe de construction locale"
+
+#: ubl/Settings/TaxesSettings.php:152
+msgid "Business license fee"
+msgstr "Frais de licence d’entreprise"
+
+#: ubl/Settings/TaxesSettings.php:151
+msgid "Individual tax"
+msgstr "Impôt de particuliers"
+
+#: ubl/Settings/TaxesSettings.php:150
+msgid "Import tax"
+msgstr "Taxe à l’importation"
+
+#: ubl/Settings/TaxesSettings.php:149
+msgid "Illuminants tax"
+msgstr "Illuminants Tax (UN/EDIFACT)"
+
+#: ubl/Settings/TaxesSettings.php:148
+msgid "General construction tax"
+msgstr "Taxe générale de construction"
+
+#: ubl/Settings/TaxesSettings.php:147
+msgid "Free"
+msgstr "Gratuit"
+
+#: ubl/Settings/TaxesSettings.php:146
+msgid "Federal excise tax"
+msgstr "Droits d’accise fédéraux"
+
+#: ubl/Settings/TaxesSettings.php:145
+msgid "Agricultural export rebate"
+msgstr "Remise à l’exportation de produits agricoles"
+
+#: ubl/Settings/TaxesSettings.php:144
+msgid "Excise duty"
+msgstr "Droits d’accises"
+
+#: ubl/Settings/TaxesSettings.php:143
+msgid "Environmental tax"
+msgstr "Taxe environnementale"
+
+#: ubl/Settings/TaxesSettings.php:142
+msgid "Countervailing duty"
+msgstr "Droit compensateur"
+
+#: ubl/Settings/TaxesSettings.php:141
+msgid "Customs duty"
+msgstr "Droits de douane"
+
+#: ubl/Settings/TaxesSettings.php:140
+msgid "Commodity specific tax"
+msgstr "Taxe spécifique aux produits de base"
+
+#: ubl/Settings/TaxesSettings.php:139
+msgid "Paper consortium tax (Italy)"
+msgstr "Taxe sur le consortium du papier (Italie)"
+
+#: ubl/Settings/TaxesSettings.php:138
+msgid "Car tax"
+msgstr "Taxe sur les véhicules"
+
+#: ubl/Settings/TaxesSettings.php:137
+msgid "Agricultural levy"
+msgstr "Prélèvement agricole"
+
+#: ubl/Settings/TaxesSettings.php:136
+msgid "Stamp duty (Imposta di Bollo)"
+msgstr "Droit de timbre (Imposta di Bollo)"
+
+#: ubl/Settings/TaxesSettings.php:135
+msgid "Anti-dumping duty"
+msgstr "Droit antidumping"
+
+#: ubl/Settings/TaxesSettings.php:134
+msgid "Special tax"
+msgstr "Taxe spéciale"
+
+#: ubl/Settings/TaxesSettings.php:133
+msgid "Mineral oil tax"
+msgstr "Taxe sur les huiles minérales"
+
+#: ubl/Settings/TaxesSettings.php:132
+msgid "Tax on replacement part"
+msgstr "Taxe sur les pièces de rechange"
+
+#: ubl/Settings/TaxesSettings.php:131
+msgid "Canadian provincial sales tax"
+msgstr "Taxe de vente provinciale canadienne"
+
+#: ubl/Settings/TaxesSettings.php:130
+msgid "Quebec sales tax"
+msgstr "Taxe de vente du Québec"
+
+#: ubl/Settings/TaxesSettings.php:129
+msgid "Harmonised sales tax, Canadian"
+msgstr "Taxe de vente harmonisée, canadienne"
+
+#: ubl/Settings/TaxesSettings.php:128
+msgid "Coffee tax"
+msgstr "Taxe sur le café"
+
+#: ubl/Settings/TaxesSettings.php:127
+msgid "Energy fee"
+msgstr "Taxe sur l’énergie"
+
+#: ubl/Settings/TaxesSettings.php:126
+msgid "Tobacco tax"
+msgstr "Taxe sur le tabac"
+
+#: ubl/Settings/TaxesSettings.php:125
+msgid "Provisional countervailing duty bond"
+msgstr "Caution provisoire pour droits compensateurs"
+
+#: ubl/Settings/TaxesSettings.php:124
+msgid "Provisional countervailing duty cash"
+msgstr "Droits compensateurs provisoires en espèces"
+
+#: ubl/Settings/TaxesSettings.php:123
+msgid "Petroleum tax"
+msgstr "Taxe sur les produits pétroliers"
+
+#: ubl/Settings/TaxesSettings.php:122
+msgid "Goods and services tax (GST)"
+msgstr "Taxe sur les produits et services (TPS)"
+
+#: ubl/Settings/TaxesSettings.php:121
+msgid "Value added tax (VAT)"
+msgstr "Taxe sur la valeur ajoutée (TVA)"
+
+#: ubl/Settings/TaxesSettings.php:111 ubl/Settings/TaxesSettings.php:178
+msgid "Default"
+msgstr "Par défaut"
+
+#: ubl/Settings/TaxesSettings.php:97
+msgid "Tax class default"
+msgstr "Classe d’impôt par défaut"
+
+#: ubl/Settings/TaxesSettings.php:91
+msgid "No taxes found for this class."
+msgstr "Aucune taxe n’a été trouvée pour cette catégorie d’impôt."
+
+#: ubl/Settings/TaxesSettings.php:55
+msgid "Tax Category"
+msgstr "Catégorie taxe"
+
+#: ubl/Settings/TaxesSettings.php:54
+msgid "Tax Scheme"
+msgstr "Régime fiscal"
+
+#: ubl/Settings/TaxesSettings.php:53
+msgid "Rate&nbsp;%"
+msgstr "Taux&nbsp;%"
+
+#: ubl/Settings/TaxesSettings.php:52
+msgid "City"
+msgstr "Ville"
+
+#: ubl/Settings/TaxesSettings.php:51
+msgid "Postcode / ZIP"
+msgstr "Code postal"
+
+#: ubl/Settings/TaxesSettings.php:50
+msgid "State code"
+msgstr "Code état"
+
+#: ubl/Settings/TaxesSettings.php:49
+msgid "Country&nbsp;code"
+msgstr "Code pays"
+
+#: ubl/Settings/TaxesSettings.php:24
+msgid "Standard"
+msgstr "Standard"
+
+#: includes/settings/class-wcpdf-settings-ubl.php:154
+msgid "UBL settings"
+msgstr "Réglages UBL"
+
+#. translators: 1. General Settings, 2. UBL Settings
+#: includes/settings/class-wcpdf-settings-ubl.php:152
+msgid "You've enabled UBL output for a document, but some essential details are missing. Please ensure you've added your VAT and CoC numbers in the %1$s. Also, specify your tax rates in the %2$s."
+msgstr "Vous avez activé la sortie UBL pour un document, mais certains détails essentiels manquent. Veuillez vous assurer que vous avez ajouté vos numéros de TVA et de CdC dans le champ %1$s. Spécifiez également vos taux d’imposition dans le champ %2$s."
+
+#: includes/settings/class-wcpdf-settings-ubl.php:27
+msgid "Taxes classification"
+msgstr "Classification des taxes"
+
+#: includes/settings/class-wcpdf-settings-general.php:190
+msgid "Shop Chamber of Commerce Number"
+msgstr "Numéro de la chambre de commerce du magasin"
+
+#: includes/settings/class-wcpdf-settings-general.php:177
+msgid "Shop VAT Number"
+msgstr "Numéro de TVA du magasin"
+
+#: includes/settings/class-wcpdf-settings-debug.php:655
+msgid "UBL Taxes"
+msgstr "Impôts UBL"
+
+#: includes/documents/class-wcpdf-invoice.php:580
+msgid "Include the PDF Invoice file encrypted in the UBL file."
+msgstr "Inclure le fichier PDF de la facture crypté dans le fichier UBL."
+
+#: includes/documents/class-wcpdf-invoice.php:574
+msgid "Include encrypted PDF:"
+msgstr "Inclure un PDF crypté :"
+
+#: includes/class-wcpdf-settings.php:188
+msgid "UBL"
+msgstr "UBL"
+
+#: includes/class-wcpdf-assets.php:87
+msgid "You have to select order(s) first!"
+msgstr "Vous devez d’abord sélectionner des commandes !"
+
+#: includes/class-wcpdf-admin.php:702
+msgid "UBL documents require the correspondent PDF to be generated first."
+msgstr "Les documents UBL exigent que le PDF correspondant soit d’abord généré."
+
+#: includes/class-wcpdf-admin.php:495
+msgid "Create UBL"
+msgstr "Créer l’UBL"
+
+#: includes/settings/class-wcpdf-settings-debug.php:744
+msgid "Custom external URLs not allowed."
+msgstr "Les URL externes personnalisées ne sont pas autorisées."
+
+#: includes/settings/class-wcpdf-settings-debug.php:731
+msgid "Select a frontend page to be used to redirect users when the document access is denied."
+msgstr "Sélectionnez une page d’interface publique à utiliser pour rediriger les utilisateurs/utilisatrices lorsque l’accès au document est refusé."
+
+#: includes/settings/class-wcpdf-settings-debug.php:729
+msgid "Custom page (enter below)"
+msgstr "Page personnalisée (à saisir ci-dessous)"
+
+#: includes/settings/class-wcpdf-settings-debug.php:728
+msgid "My Account page"
+msgstr "Page « Mon compte »"
+
+#: includes/settings/class-wcpdf-settings-debug.php:727
+msgid "Login page"
+msgstr "Page « Connexion »"
+
+#: includes/settings/class-wcpdf-settings-debug.php:726
+msgid "Blank page with message (default)"
+msgstr "Page blanche avec message (par défaut)"
+
+#: includes/settings/class-wcpdf-settings-debug.php:718
+msgid "Document access denied redirect page"
+msgstr "Page de redirection sur le refus d’accès au document"
+
+#. translators: document type
+#: includes/documents/class-wcpdf-invoice.php:374
+msgid "<strong>Note</strong>: Changes made to the number format will only be reflected on new orders. Also, if you have already created a custom %s number format with a filter, the above settings will be ignored."
+msgstr "<strong>Note</strong> : Les modifications apportées au format des nombres sont uniquement prises en compte pour les nouvelles commandes. En outre, si vous avez déjà créé un format de nombre %s personnalisé avec un filtre, les réglages ci-dessus seront ignorés."
+
+#: includes/settings/class-wcpdf-settings-debug.php:905
+msgid "Document can be accessed by everyone with the link."
+msgstr "Le document est accessible à tous avec le lien."
+
+#: includes/settings/class-wcpdf-settings-debug.php:901
+msgid "Document can be accessed by logged in and guest users."
+msgstr "Le document est accessible aux utilisateurs/utilisatrices connectés et aux utilisateurs/utilisatrices invités."
+
+#: includes/settings/class-wcpdf-settings-debug.php:897
+msgid "Document can be accessed by logged in users only."
+msgstr "Le document n’est accessible qu’aux utilisateur·ice·s connecté·e·s."
+
+#: includes/settings/class-wcpdf-settings-debug.php:896
+msgid "Logged in"
+msgstr "Connecté·e"
+
+#: includes/settings/class-wcpdf-settings-debug.php:701
+#: includes/settings/class-wcpdf-settings-debug.php:904
+msgid "Full"
+msgstr "Complet"
+
+#: includes/settings/class-wcpdf-settings-debug.php:700
+#: includes/settings/class-wcpdf-settings-debug.php:900
+msgid "Guest"
+msgstr "Invité·e"
+
+#: includes/settings/class-wcpdf-settings-debug.php:699
+msgid "Logged in (recommended)"
+msgstr "Connecté·e (recommandé)"
+
+#: includes/settings/class-wcpdf-settings-debug.php:691
+msgid "Document link access type"
+msgstr "Type d’accès au lien du document"
+
+#. translators: settings type
+#: includes/settings/class-wcpdf-settings-debug.php:484
+msgid "An error occurred when trying to reset the %s settings."
+msgstr "Une erreur s’est produite lors de la réinitialisation des réglages %s."
+
+#. translators: settings type
+#: includes/settings/class-wcpdf-settings-debug.php:476
+msgid "%s settings reset successfully!"
+msgstr "Réglages de %s bien réinitialisés !"
+
+#. translators: settings type
+#: includes/settings/class-wcpdf-settings-debug.php:464
+msgid "%s settings are already reset!"
+msgstr "Les réglages de %s ont déjà été réinitialisés !"
+
+#. translators: settings type
+#: includes/settings/class-wcpdf-settings-debug.php:451
+msgid "%s settings reset not supported!"
+msgstr "La réinitialisation des réglages %s n’est pas prise en charge !"
+
+#: includes/settings/class-wcpdf-settings-debug.php:412
+msgid "Reset settings type is empty!"
+msgstr "Le type de réglages de réinitialisation est vide !"
+
+#: includes/views/advanced-numbers.php:39 includes/views/advanced-tools.php:123
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: includes/views/advanced-tools.php:110
+msgid "This will clear all your selected settings data. Please do a backup first using the export tool above."
+msgstr "Cette opération effacera toutes les données relatives aux réglages sélectionnés. Veuillez d’abord effectuer une sauvegarde à l’aide de l’outil d’exportation ci-dessus."
+
+#: includes/views/advanced-tools.php:109
+msgid "Reset Settings"
+msgstr "Réglages de réinitialisation"
+
+#: includes/class-wcpdf-main.php:413
+msgid "You do not have sufficient permissions to access this page. Reason: invalid nonce"
+msgstr "Vous ne disposez pas les droits suffisants pour accéder à cette page. Raison : nonce invalide"
+
+#: includes/class-wcpdf-main.php:407
+msgid "You do not have sufficient permissions to access this page. Reason: empty action"
+msgstr "Vous n’avez pas les droits suffisants pour accéder à cette page. Motif : action vide"
+
+#: includes/class-wcpdf-main.php:401
+msgid "You do not have sufficient permissions to access this page. Reason: empty access key"
+msgstr "Vous ne disposez pas les droits suffisants pour accéder à cette page. Raison : clé d’accès vide"
+
+#: includes/class-wcpdf-assets.php:263
+msgid "Are you sure you want to reset this settings? This cannot be undone."
+msgstr "Confirmez-vous vouloir réinitialiser ces réglages ? Ceci ne peut pas être annulé."
+
+#: includes/class-wcpdf-admin.php:860
+msgid "Hide details"
+msgstr "Masquer les détails"
+
+#: includes/class-wcpdf-admin.php:859
+msgid "View more details"
+msgstr "Voir plus de détails"
+
+#. translators: 1,2. template paths
+#: includes/settings/class-wcpdf-settings-general.php:79
+msgid "Want to use your own template? Copy all the files from %1$s to your (child) theme in %2$s to customize them"
+msgstr "Vous souhaitez utiliser votre propre modèle ? Copiez tous les fichiers de %1$s vers votre thème (enfant) dans %2$s pour les personnaliser"
+
+#. translators: learn more link
+#: includes/views/upgrade-table.php:55
+msgid "License not yet activated: %s"
+msgstr "La licence n’est pas encore activée : %s"
+
+#: includes/views/upgrade-table.php:51
+msgid "Currently installed"
+msgstr "Actuellement installé"
+
+#: includes/documents/class-wcpdf-invoice.php:438
+msgid "Enable invoice number search in the orders list"
+msgstr "Activer la recherche du numéro de facture dans la liste des commandes"
+
+#: includes/class-wcpdf-admin.php:731
+msgid "Invoice created via:"
+msgstr "Facture créée via :"
+
+#: includes/class-wcpdf-admin.php:728
+msgid "Invoice display date:"
+msgstr "Date d’affichage de la facture :"
+
+#: includes/class-wcpdf-admin.php:725
+msgid "Invoice date:"
+msgstr "Date de facture :"
+
+#: includes/class-wcpdf-admin.php:722
+msgid "Invoice number:"
+msgstr "Numéro de facture :"
+
+#: includes/views/upgrade-table.php:77
+msgid "Upgrade now"
+msgstr "Mettre à niveau maintenant"
+
+#: includes/views/upgrade-table.php:24
+msgid "Bundle"
+msgstr "Lot"
+
+#: includes/views/upgrade-table.php:23
+msgid "Premium Templates"
+msgstr "Modèles Premium"
+
+#: includes/views/upgrade-table.php:22
+msgid "Professional"
+msgstr "Professionnel"
+
+#: includes/views/upgrade-table.php:15
+msgid "If you have any questions feel free to send us an email at"
+msgstr "Si vous avez des questions, n’hésitez pas à nous envoyer un e-mail à"
+
+#: includes/views/upgrade-table.php:14
+msgid "A quick overview of the features our PDF Invoices & Packing Slips extensions have to offer."
+msgstr "Un aperçu rapide des fonctionnalités offertes par nos extensions PDF Invoices & Packing Slips."
+
+#: includes/views/upgrade-table.php:12
+msgid "Wait, there is more..."
+msgstr "Attendez, il y a plus..."
+
+#: includes/class-wcpdf-settings.php:201
+msgid "Upgrade"
+msgstr "Mise à niveau"
+
+#: includes/settings/class-wcpdf-settings-upgrade.php:122
+msgid "Easily change the look and feel of your documents by adding some custom CSS."
+msgstr "Modifiez facilement l’aspect et la convivialité de vos documents en ajoutant des feuilles de style CSS personnalisées."
+
+#: includes/settings/class-wcpdf-settings-upgrade.php:121
+msgid "Add styling"
+msgstr "Ajouter un style"
+
+#: includes/settings/class-wcpdf-settings-upgrade.php:117
+msgid "Make use of our Business or Modern template designs."
+msgstr "Utilisez nos modèles Business ou Modern."
+
+#: includes/settings/class-wcpdf-settings-upgrade.php:116
+msgid "Additional PDF templates"
+msgstr "Modèles PDF supplémentaires"
+
+#: includes/settings/class-wcpdf-settings-upgrade.php:109
+msgid "Display all sorts of data and apply conditional logic using Custom Blocks."
+msgstr "Affichez toutes sortes de données et appliquez une logique conditionnelle à l’aide de blocs personnalisés."
+
+#: includes/settings/class-wcpdf-settings-upgrade.php:106
+msgid "Add custom data to your documents"
+msgstr "Ajouter des données personnalisées à vos documents"
+
+#: includes/settings/class-wcpdf-settings-upgrade.php:99
+msgid "Fully customize the product table and totals table on your documents."
+msgstr "Personnalisez entièrement le tableau des produits et le tableau des totaux sur vos documents."
+
+#: includes/settings/class-wcpdf-settings-upgrade.php:96
+msgid "PDF Customizer"
+msgstr "Personnalisateur de PDF"
+
+#: includes/settings/class-wcpdf-settings-upgrade.php:91
+#: includes/settings/class-wcpdf-settings-upgrade.php:101
+#: includes/settings/class-wcpdf-settings-upgrade.php:111
+#: includes/views/upgrade-table.php:56
+msgid "Learn more"
+msgstr "En savoir plus"
+
+#: includes/settings/class-wcpdf-settings-upgrade.php:89
+msgid "Send a notification email to user specified addresses."
+msgstr "Envoi d’un e-mail de notification aux adresses spécifiées par l’utilisateur·rice."
+
+#: includes/settings/class-wcpdf-settings-upgrade.php:86
+msgid "Order notification email"
+msgstr "E-mail de notification de la commande"
+
+#: includes/settings/class-wcpdf-settings-upgrade.php:82
+msgid "Customize the address format of the billing and shipping addresses."
+msgstr "Personnaliser le format des adresses de facturation et d’expédition."
+
+#: includes/settings/class-wcpdf-settings-upgrade.php:81
+msgid "Custom address format"
+msgstr "Format d’adresse personnalisé"
+
+#: includes/settings/class-wcpdf-settings-upgrade.php:77
+msgid "Customize document titles and filenames right in the plugin settings."
+msgstr "Personnalisez les titres des documents et les noms de fichiers directement dans les réglages de l’extension."
+
+#: includes/settings/class-wcpdf-settings-upgrade.php:76
+msgid "Custom document titles and filenames"
+msgstr "Titres et noms de fichiers personnalisés"
+
+#: includes/settings/class-wcpdf-settings-upgrade.php:72
+msgid "Add up to three static files to your emails."
+msgstr "Ajoutez jusqu’à trois fichiers statiques à vos e-mails."
+
+#: includes/settings/class-wcpdf-settings-upgrade.php:71
+msgid "Attach static files"
+msgstr "Joindre des fichiers statiques"
+
+#: includes/settings/class-wcpdf-settings-upgrade.php:66
+msgid "Multilingual support"
+msgstr "Support multilingue"
+
+#: includes/settings/class-wcpdf-settings-upgrade.php:62
+msgid "Easily export documents for a specific date range."
+msgstr "Exportez facilement des documents pour une période donnée."
+
+#: includes/settings/class-wcpdf-settings-upgrade.php:61
+msgid "Bulk export"
+msgstr "Exporter par lot"
+
+#: includes/settings/class-wcpdf-settings-upgrade.php:57
+msgid "Automatically upload your documents via FTP/SFTP or to Dropbox."
+msgstr "Téléversez automatiquement vos documents via FTP/SFTP ou vers Dropbox."
+
+#: includes/settings/class-wcpdf-settings-upgrade.php:56
+msgid "Cloud storage upload"
+msgstr "Téléverser vers le stockage cloud"
+
+#: includes/settings/class-wcpdf-settings-upgrade.php:52
+msgid "Also attach the Packing Slip, Proforma Invoice and Credit Note to any of the outgoing emails."
+msgstr "Joignez également le bordereau d’expédition, la facture pro forma et la note de crédit à tous les e-mails sortants."
+
+#: includes/settings/class-wcpdf-settings-upgrade.php:51
+msgid "Attach to email"
+msgstr "Joindre à l’e-mail"
+
+#: includes/settings/class-wcpdf-settings-upgrade.php:47
+msgid "Update your workflow and handle refunds. Both Proforma & Credit Note documents can either follow the main invoice numbering or have their own separate number sequence."
+msgstr "Mettez à jour votre flux de travail et gérez les remboursements. Les documents pro forma et note de crédit peuvent suivre la numérotation principale de la facture ou avoir leur propre séquence de numéros."
+
+#: woocommerce-pdf-invoices-packingslips.php:436
+msgid "Download mPDF extension"
+msgstr "Télécharger l’extension mPDF"
+
+#: woocommerce-pdf-invoices-packingslips.php:435
+msgid "PDF Invoices & Packing Slips for WooCommerce detected that your current site locale is right-to-left (RTL) which the current PDF engine does not support it. Please consider installing our mPDF extension that is compatible."
+msgstr "PDF Invoices & Packing Slips for WooCommerce a détecté que la locale de votre site est de droite à gauche (RTL) et que le moteur PDF actuel ne la supporte pas. Veuillez envisager d’installer notre extension mPDF qui est compatible."
+
+#: includes/documents/class-wcpdf-invoice.php:495
+msgid "Adds a link in the order page to allow to remove the printed mark."
+msgstr "Ajoute un lien dans la page de commande pour permettre de supprimer la marque imprimée."
+
+#: includes/documents/class-wcpdf-invoice.php:489
+msgid "Unmark as printed"
+msgstr "Non marqué comme imprimé"
+
+#: includes/documents/class-wcpdf-invoice.php:483
+msgid "Allows you to mark the document as printed, manually (in the order page) or automatically (based on the document creation context you have selected)."
+msgstr "Permet de marquer le document comme imprimé, manuellement (dans la page de commande) ou automatiquement (en fonction du contexte de création du document que vous avez sélectionné)."
+
+#: includes/documents/class-wcpdf-invoice.php:478
+msgid "On order document data (number and/or date set manually)"
+msgstr "Données du document de commande (numéro et/ou date définis manuellement)"
+
+#: includes/documents/class-wcpdf-invoice.php:477
+msgid "On email attachment"
+msgstr "Sur les fichiers joints aux e-mails"
+
+#: includes/documents/class-wcpdf-invoice.php:476
+msgid "On my account"
+msgstr "Sur mon compte"
+
+#: includes/documents/class-wcpdf-invoice.php:475
+msgid "On bulk order action"
+msgstr "Sur l’action de commande groupée"
+
+#: includes/documents/class-wcpdf-invoice.php:474
+msgid "On single order action"
+msgstr "Sur l’action de commande unique"
+
+#: includes/documents/class-wcpdf-invoice.php:471
+msgid "Manually"
+msgstr "Manuellement"
+
+#: includes/documents/class-wcpdf-invoice.php:463
+msgid "Mark as printed"
+msgstr "Marquer comme imprimé"
+
+#. translators: 1. document type, 2. mark/unmark
+#: includes/class-wcpdf-main.php:1539
+msgid "Document of type %1$s for the selected order could not be %2$s as printed."
+msgstr "Le document de type %1$s de la commande sélectionnée n’a pas pu être %2$s imprimé."
+
+#. translators: 1. document title, 2. creation trigger
+#: includes/class-wcpdf-main.php:1366
+msgid "%1$s document unmark printed."
+msgstr "%1$s document non-marqué comme imprimé."
+
+#. translators: 1. document title, 2. creation trigger
+#: includes/class-wcpdf-main.php:1350
+msgid "%1$s document marked as printed via %2$s."
+msgstr "%1$s document marqué comme imprimé par %2$s."
+
+#: includes/class-wcpdf-main.php:1344
+msgid "manually"
+msgstr "manuellement"
+
+#: includes/class-wcpdf-admin.php:615
+msgid "Unmark"
+msgstr "Décocher"
+
+#: includes/class-wcpdf-admin.php:613
+msgid "Mark printed"
+msgstr "Marquer comme imprimé"
+
+#. translators: total scheduled actions
+#: includes/class-wcpdf-settings.php:953
+msgid "Only 1 scheduled action should exist for the yearly reset of the numbering system, but %s were found"
+msgstr "Il ne devrait y avoir qu’une seule action planifiée pour la remise à zéro annuelle du système de numérotation, mais %s ont été trouvées"
+
+#: includes/settings/class-wcpdf-settings-debug.php:654
+msgid "Debug"
+msgstr "Déboguer"
+
+#. translators: settings type
+#: includes/settings/class-wcpdf-settings-debug.php:400
+msgid "The %s settings file you are trying to import is identical to your current settings, therefore, the settings were not imported."
+msgstr "Le fichier de réglages %s que vous essayez d’importer est identique à vos réglages actuels, par conséquent, les réglages n’ont pas été importés."
+
+#. translators: settings type
+#: includes/settings/class-wcpdf-settings-debug.php:392
+msgid "%s settings imported successfully!"
+msgstr "Réglages de %s bien importés !"
+
+#: includes/settings/class-wcpdf-settings-debug.php:383
+msgid "Couldn't determine the settings option for the import!"
+msgstr "Impossible de déterminer l’option de réglage pour l’importation !"
+
+#: includes/settings/class-wcpdf-settings-debug.php:358
+msgid "The JSON file settings type is not supported on this store!"
+msgstr "Le type de réglages du fichier JSON n’est pas pris en charge par ce magasin !"
+
+#: includes/settings/class-wcpdf-settings-debug.php:347
+msgid "The JSON file data is corrupted!"
+msgstr "Les données du fichier JSON sont corrompues !"
+
+#: includes/settings/class-wcpdf-settings-debug.php:341
+msgid "JSON file not found!"
+msgstr "Fichier JSON introuvable !"
+
+#: includes/settings/class-wcpdf-settings-debug.php:334
+msgid "Failed to get contents from JSON file!"
+msgstr "Échec de la récupération du contenu du fichier JSON !"
+
+#: includes/settings/class-wcpdf-settings-debug.php:315
+msgid "Exported settings data is empty!"
+msgstr "Les données de réglages exportées sont vides !"
+
+#: includes/settings/class-wcpdf-settings-debug.php:278
+msgid "Export settings type is empty!"
+msgstr "Le type de réglages d’exportation est vide !"
+
+#: includes/views/advanced-tools.php:99
+msgid "Import"
+msgstr "Importer"
+
+#: includes/views/advanced-tools.php:94
+msgid "Import plugin settings in JSON format."
+msgstr "Importer les réglages de l’extension au format JSON."
+
+#: includes/views/advanced-tools.php:93
+msgid "Import Settings"
+msgstr "Importer les réglages"
+
+#: includes/views/advanced-tools.php:83
+msgid "Export"
+msgstr "Exporter"
+
+#: includes/views/advanced-tools.php:70
+msgid "Download plugin settings in JSON format to easily export your current setup."
+msgstr "Téléchargez les réglages de l’extension au format JSON pour exporter facilement votre configuration actuelle."
+
+#: includes/views/advanced-tools.php:69
+msgid "Export Settings"
+msgstr "Exporter les réglages"
+
+#: includes/views/advanced-tools.php:63
+msgid "Set up your basic invoice workflow via our Wizard."
+msgstr "Configurez votre flux de facturation de base à l’aide de notre assistant."
+
+#: includes/views/advanced-tools.php:50
+msgid "Clean up the PDF files stored in the temporary folder (used for email attachments)."
+msgstr "Nettoyer les fichiers PDF stockés dans le dossier temporaire (utilisé pour les fichiers joints aux e-mails)."
+
+#: includes/views/advanced-tools.php:39
+msgid "Reschedule yearly reset"
+msgstr "Replanifier la réinitialisation annuelle"
+
+#: includes/views/advanced-tools.php:36
+msgid "You seem to have the yearly reset enabled for one of your documents but the action that performs this isn't scheduled yet."
+msgstr "Vous semblez avoir activé la réinitialisation annuelle pour l’un de vos documents, mais l’action qui l’exécute n’est pas encore planifiée."
+
+#: includes/views/advanced-tools.php:22
+msgid "If you are experiencing issues with rendering fonts there might have been an issue during installation or upgrade."
+msgstr "Si vous rencontrez des problèmes de rendu des polices, il se peut qu’il y ait eu un problème lors de l’installation ou de la mise à jour."
+
+#: includes/views/advanced-tools.php:21
+msgid "Reinstall plugin fonts"
+msgstr "Réinstaller les polices de l’extension"
+
+#: includes/views/advanced-tools.php:12
+msgid "Generate temporary directory"
+msgstr "Création d’un répertoire temporaire"
+
+#: includes/views/advanced-tools.php:9
+msgid "For security reasons, it is preferable to use a random name for the temporary directory."
+msgstr "Pour des raisons de sécurité, il est préférable d’utiliser un nom aléatoire pour le répertoire temporaire."
+
+#: includes/views/advanced-tools.php:8
+msgid "Generate random temporary directory"
+msgstr "Générer un répertoire temporaire aléatoire"
+
+#: includes/settings/class-wcpdf-settings-debug.php:915
+msgid "Tools"
+msgstr "Outils"
+
+#: includes/class-wcpdf-assets.php:262
+msgid "Download"
+msgstr "Télécharger"
+
+#: includes/class-wcpdf-assets.php:118
+msgid "Preview"
+msgstr "Aperçu"
+
+#: includes/class-wcpdf-assets.php:188
+msgid "The number should be smaller than 2147483647. Please note you should add your next document number without prefix, suffix or padding."
+msgstr "Le nombre doit être inférieur à 2147483647. Veuillez noter que vous devez ajouter votre prochain numéro de document sans préfixe, suffixe ou remplissage."
+
+#. translators: total scheduled actions
+#: includes/views/advanced-status.php:237
+msgid "Only 1 scheduled action should exist, but %s were found"
+msgstr "Seulement 1 action planifiée devrait exister, mais %s ont été trouvées"
+
+#: includes/views/advanced-status.php:229
+msgid "Scheduled to: %s"
+msgstr "Planifié pour : %s"
+
+#: includes/views/advanced-status.php:219
+msgid "Yearly reset action not found"
+msgstr "Action de réinitialisation annuelle introuvable"
+
+#: includes/views/advanced-status.php:218
+msgid "Required to reset documents numeration"
+msgstr "Requis pour réinitialiser la numérotation des documents"
+
+#: includes/views/advanced-status.php:195
+#: includes/views/advanced-status.php:253
+msgid "Yearly reset"
+msgstr "Réinitialisation annuelle"
+
+#: includes/views/advanced-status.php:194
+msgid "Enabled"
+msgstr "Activé"
+
+#: includes/views/advanced-status.php:188
+msgid "Documents status"
+msgstr "État des documents"
+
+#: includes/settings/class-wcpdf-settings-debug.php:224
+msgid "Yearly reset numbering system rescheduled!"
+msgstr "Système de numérotation de réinitialisation annuelle replanifié !"
+
+#: includes/views/advanced-tools.php:35
+msgid "Reschedule the yearly reset of the numbering system"
+msgstr "Replanifier la réinitialisation annuelle du système de numérotation"
+
+#. translators: %s: Order ID
+#: includes/class-wcpdf-main.php:452
+msgid "Could not find the order #%s."
+msgstr "Impossible de trouver la commande #%s."
+
+#: includes/class-wcpdf-main.php:447
+msgid "You have to save the order before generating a PDF document for it."
+msgstr "Vous devez enregistrer la commande avant de générer un document PDF pour celle-ci."
+
+#: includes/views/extensions.php:55
+msgid "Get PDF Invoices & Packing Slips for WooCommerce Professional!"
+msgstr "Obtenez PDF Invoices & Packing Slips for WooCommerce Professional !"
+
+#: includes/views/extensions.php:45
+msgid "Supercharge PDF Invoices & Packing Slips for WooCommerce with the following features:"
+msgstr "Augmentez PDF Invoices & Packing Slips for WooCommerce avec les fonctionnalités suivantes :"
+
+#: includes/views/extensions.php:34
+msgid "Get PDF Invoices & Packing Slips for WooCommerce Bundle"
+msgstr "Obtenez le lot de PDF Invoices & Packing Slips for WooCommerce"
+
+#: includes/views/extensions.php:14
+msgid "Supercharge PDF Invoices & Packing Slips for WooCommerce with the all our premium extensions:"
+msgstr "Augmentez PDF Invoices & Packing Slips for WooCommerce avec toutes nos extensions premium :"
+
+#: includes/class-wcpdf-setup-wizard.php:143
+msgid "PDF Invoices & Packing Slips for WooCommerce &rsaquo; Setup Wizard"
+msgstr "PDF Invoices & Packing Slips for WooCommerce › Assistant de configuration"
+
+#: includes/class-wcpdf-admin.php:166
+msgid "New to PDF Invoices & Packing Slips for WooCommerce?"
+msgstr "Nouveau sur PDF Invoices & Packing Slips for WooCommerce ?"
+
+#. Plugin Name of the plugin
+#: woocommerce-pdf-invoices-packingslips.php
+#: includes/views/settings-page.php:18
+msgid "PDF Invoices & Packing Slips for WooCommerce"
+msgstr "PDF Invoices & Packing Slips for WooCommerce"
+
+#: includes/compatibility/class-wcpdf-compatibility-third-party-plugins.php:391
+#: includes/views/setup-wizard/display-options.php:73
+msgid "Invoice number"
+msgstr "N° de facture"
+
+#: includes/views/setup-wizard/display-options.php:52
+msgid "Invoice date"
+msgstr "Date de facture"
+
+#: includes/views/setup-wizard/display-options.php:43
+msgid "Phone number"
+msgstr "N° de téléphone"
+
+#: includes/views/setup-wizard/display-options.php:34
+msgid "Email address"
+msgstr "Adresse e-mail"
+
+#: includes/views/setup-wizard/display-options.php:13
+msgid "Shipping address"
+msgstr "Adresse de livraison"
+
+#: includes/documents/class-wcpdf-invoice.php:427
+msgid "Enable invoice date column in the orders list"
+msgstr "Activer la colonne de date de facturation dans la liste des commandes"
+
+#. translators: document type
+#: includes/documents/class-wcpdf-invoice.php:374
+msgid "Number format explained"
+msgstr "Explication du format du numéro"
+
+#. translators: document type
+#: includes/documents/class-wcpdf-invoice.php:374
+msgid "For more information about setting up the number format and see the available placeholders for the prefix and suffix, check this article:"
+msgstr "Pour plus d’informations sur la configuration du format numérique et consultez les espaces réservés disponibles pour le préfixe et le suffixe, consultez cet article :"
+
+#. translators: document type
+#: includes/documents/class-wcpdf-invoice.php:370
+msgid "Enter the number of digits you want to use as padding. For instance, enter <code>6</code> to display the %s number <code>123</code> as <code>000123</code>, filling it with zeros until the number set as padding is reached."
+msgstr "Saisir le nombre de chiffres que vous souhaitez utiliser comme remplissage. Par exemple, saisir <code>6</code> pour afficher le nombre %s, <code>123</code> pour <code>000123</code>, en remplissant avec des zéros jusqu’à ce que le nombre défini comme remplissage soit atteint."
+
+#: includes/documents/class-wcpdf-invoice.php:359
+msgid "If set, this value will be used as number suffix."
+msgstr "Si elle est définie, cette valeur sera utilisée comme suffixe numérique."
+
+#: includes/documents/class-wcpdf-invoice.php:354
+#: includes/documents/class-wcpdf-invoice.php:363
+msgid "Check the Docs article below to see all the available placeholders for prefix/suffix."
+msgstr "Consultez l’article de la documentation ci-dessous pour voir tous les textes inficatif disponibles pour le préfixe/suffixe."
+
+#. translators: 1. document type, 2-3 placeholders
+#: includes/documents/class-wcpdf-invoice.php:352
+#: includes/documents/class-wcpdf-invoice.php:361
+msgid "You can use the %1$s year and/or month with the %2$s or %3$s placeholders respectively."
+msgstr "Vous pouvez utiliser l’année et/ou le mois %1$s avec respectivement les texte indicatifs %2$s ou %3$s ."
+
+#: includes/documents/class-wcpdf-invoice.php:350
+msgid "If set, this value will be used as number prefix."
+msgstr "Si elle est définie, cette valeur sera utilisée comme préfixe numérique."
+
+#: includes/settings/class-wcpdf-settings-debug.php:756
+msgid "Changes the document links to a prettier URL scheme."
+msgstr "Modifie les liens du document en un schéma d’URL plus joli."
+
+#: includes/settings/class-wcpdf-settings-debug.php:750
+msgid "Pretty document links"
+msgstr "Jolis liens de documents"
+
+#: includes/class-wcpdf-assets.php:177
+msgid "Select a document in the dropdown menu above to edit its settings."
+msgstr "Choisir un document dans le menu déroulant ci-dessus pour modifier ses réglages."
+
+#: includes/class-wcpdf-assets.php:176
+msgid "Document settings"
+msgstr "Réglages du document"
+
+#: includes/documents/class-wcpdf-packing-slip.php:151
+msgid "Upgrade to our Professional extension to attach packing slips to any email!"
+msgstr "Mettre à niveau vers notre extension Pro pour joindre des bordereaux d’expédition à n’importe quel e-mail !"
+
+#: includes/class-wcpdf-admin.php:877
+msgid "You do not have sufficient permissions to edit this document."
+msgstr "Vous n’avez pas les droits nécessaires pour modifier cet document."
+
+#: includes/views/settings-page.php:113
+msgid "Show last order"
+msgstr "Afficher la dernière commande"
+
+#: includes/views/settings-page.php:111 includes/views/settings-page.php:114
+msgid "Search for an order"
+msgstr "Rechercher une commande"
+
+#: includes/views/settings-page.php:110
+msgid "Currently showing last order"
+msgstr "Affichage actuel de la dernière commande"
+
+#: includes/views/settings-page.php:108
+msgid "Clear search text"
+msgstr "Effacer le texte de recherche"
+
+#: includes/views/settings-page.php:107
+msgid "ID, email or name"
+msgstr "ID, e-mail ou nom"
+
+#. translators: error message
+#: includes/class-wcpdf-settings.php:463
+msgid "Error trying to get orders: %s"
+msgstr "Erreur lors de l’obtention des commandes : %s"
+
+#: includes/class-wcpdf-settings.php:456
+msgid "An error occurred when trying to process your request!"
+msgstr "Une erreur s’est produite lors de la tentative de traitement de votre demande !"
+
+#: includes/class-wcpdf-settings.php:453
+msgid "No order(s) found!"
+msgstr "Aucune commande(s) trouvée !"
+
+#: includes/class-wcpdf-settings.php:445
+#: includes/tables/class-wcpdf-number-store-list-table.php:122
+msgid "Date"
+msgstr "Date"
+
+#. translators: error message
+#: includes/class-wcpdf-settings.php:371
+msgid "Error trying to generate document: %s"
+msgstr "Erreur lors de la tentative de génération du document : %s"
+
+#: includes/class-wcpdf-settings.php:361
+msgid "No WooCommerce orders found! Please consider adding your first order to see this preview."
+msgstr "Aucune commandes WooCommerce trouvée ! Veuillez ajouter votre première commande pour voir cet aperçu."
+
+#. translators: order ID
+#: includes/class-wcpdf-settings.php:354
+msgid "Document not available for order #%s, try selecting a different order."
+msgstr "Document non disponible pour la commande #%s, essayez de sélectionner une commande différente."
+
+#: includes/class-wcpdf-settings.php:282
+msgid "Object found is not an order!"
+msgstr "L’objet trouvé n’est pas une commande !"
+
+#: includes/class-wcpdf-settings.php:279
+msgid "Order not found!"
+msgstr "Commande introuvable !"
+
+#: includes/settings/class-wcpdf-settings-debug.php:857
+msgid "Disables the document preview on the plugin settings pages."
+msgstr "Désactive l’aperçu du document sur les pages de réglages de l’extension."
+
+#: includes/settings/class-wcpdf-settings-debug.php:851
+msgid "Disable document preview"
+msgstr "Désactiver l’aperçu du document"
+
+#: includes/views/advanced-status.php:38
+msgid "Required if you have .webp images in your documents"
+msgstr "Nécessaire si vous avez des images .webp dans vos documents"
+
+#: includes/views/advanced-status.php:35
+msgid "Required when using .webp images"
+msgstr "Nécessaire lors de l’utilisation d’images .webp"
+
+#. Author of the plugin
+#: woocommerce-pdf-invoices-packingslips.php
+msgid "WP Overnight"
+msgstr "WP Overnight"
+
+#. Plugin URI of the plugin
+#: woocommerce-pdf-invoices-packingslips.php
+msgid "https://wpovernight.com/downloads/woocommerce-pdf-invoices-packing-slips-bundle/"
+msgstr "https://wpovernight.com/downloads/woocommerce-pdf-invoices-packing-slips-bundle/"
+
+#. translators: ★★★★★ (5-star)
+#: includes/views/settings-page.php:7
+msgid "If you like <strong>PDF Invoices & Packing Slips for WooCommerce</strong> please leave us a %s rating. A huge thank you in advance!"
+msgstr "Si vous aimez <strong>PDF Invoices & Packing Slips for WooCommerce</strong> veuillez nous laisser une %s note. Un grand merci d’avance !"
+
+#: includes/views/setup-wizard/shop-name.php:14
+msgid "Shop address"
+msgstr "Adresse de la boutique"
+
+#: includes/views/setup-wizard/shop-name.php:13
+msgid "Shop name"
+msgstr "Nom de la boutique"
+
+#: includes/views/advanced-status.php:158
+#: includes/views/advanced-status.php:165
+#: includes/views/advanced-status.php:204
+#: includes/views/advanced-status.php:205
+#: includes/views/advanced-status.php:270
+msgid "Yes"
+msgstr "Oui"
+
+#: includes/class-wcpdf-setup-wizard.php:163
+msgid "PDF Invoices & Packing Slips"
+msgstr "PDF Invoices & Packing Slips"
+
+#: woocommerce-pdf-invoices-packingslips.php:398
+msgid "Change MailPoet sending method to WordPress (default)"
+msgstr "Changer la méthode d’envoi MailPoet en WordPress (par défaut)"
+
+#: woocommerce-pdf-invoices-packingslips.php:397
+msgid "To fix this you should select <strong>The default WordPress sending method (default)</strong> on the <strong>Advanced tab</strong>."
+msgstr "Pour résoudre ce problème, vous devez sélectionner <strong>La méthode d’envoi WordPress par défaut (par défaut)</strong> dans l’<strong>onglet Avancé</strong>."
+
+#: woocommerce-pdf-invoices-packingslips.php:396
+msgid "When sending emails with MailPoet 3 and the active sending method is <strong>MailPoet Sending Service</strong> or <strong>Your web host / web server</strong>, MailPoet does not include the <strong>PDF Invoices & Packing Slips for WooCommerce</strong> attachments in the emails."
+msgstr "Lors de l’envoi d’e-mails avec MailPoet 3 et la méthode d’envoi active <strong>MailPoet Sending Service</strong> ou <strong>votre hébergeur/serveur web</strong>, MailPoet n’inclut pas les fichiers joints <strong>WooCommerce PDF Invoices & Packing Slips</strong> dans les e-mails."
+
+#: includes/views/advanced-status.php:92
+msgid "base64_decode disabled"
+msgstr "base64_decode désactivé"
+
+#: includes/settings/class-wcpdf-settings-callbacks.php:475
+msgid "The image resolution exceeds the recommended maximum of 600dpi. This will unnecessarily increase the size of your PDF files and could negatively affect performance."
+msgstr "La résolution de l’image dépasse le maximum recommandé de 600 dpi. Cela augmentera inutilement la taille de vos fichiers PDF et pourrait affecter négativement les performances."
+
+#: includes/settings/class-wcpdf-settings-general.php:331
+msgid "Custom"
+msgstr "Personnaliser"
+
+#: includes/documents/class-wcpdf-packing-slip.php:192
+msgid "Packing Slip Date:"
+msgstr "Date du bon de livraison :"
+
+#: includes/documents/class-wcpdf-packing-slip.php:184
+msgid "Packing Slip Number:"
+msgstr "N° bon de livraison :"
+
+#. translators: %s: document name
+#: includes/documents/abstract-wcpdf-order-document.php:643
+msgid "%s Date:"
+msgstr "%s date :"
+
+#. translators: %s: document name
+#: includes/documents/abstract-wcpdf-order-document.php:633
+msgid "%s Number:"
+msgstr "%s number :"
+
+#: includes/class-wcpdf-main.php:1455
+msgid "order document data (number and/or date set manually)"
+msgstr "données du document de la commande (numéro et/ou date définis manuellement)"
+
+#: includes/settings/class-wcpdf-settings-debug.php:839
+msgid "Log to order notes"
+msgstr "Enregistrer vers les notes du client"
+
+#. translators: directory path
+#: includes/views/advanced-status.php:365
+msgid "If the temporary folders were not automatically created by the plugin, verify that all the font files (from %s) are copied to the fonts folder. Normally, this is fully automated, but if your server has strict security settings, this automated copying may have been prohibited. In that case, you also need to make sure these folders get synchronized on plugin updates!"
+msgstr "Si les dossiers temporaires n’ont pas été créés automatiquement par l’extension, vérifiez que tous les fichiers de polices (de %s) sont copiés dans le dossier fonts. Normalement, cette opération est entièrement automatisée, mais si votre serveur a des réglages de sécurité stricts, cette copie automatique peut avoir été interdite. Dans ce cas, vous devez également vous assurer que ces dossiers sont synchronisés lors des mises à jour de l’extension !"
+
+#. translators: 1,2. directory paths, 3. UPLOADS, 4. wpo_wcpdf_tmp_path, 5.
+#. attachments, 6. dompdf, 7. fonts
+#: includes/views/advanced-status.php:349
+msgid "The central temp folder is %1$s. By default, this folder is created in the WordPress uploads folder (%2$s), which can be defined by setting %3$s in wp-config.php. Alternatively, you can control the specific folder for PDF invoices by using the %4$s filter. Make sure this folder is writable and that the subfolders %5$s, %6$s and %7$s are present (these will be created by the plugin if the central temp folder is writable)."
+msgstr "Le dossier temporaire central est %1$s. Par défaut, ce dossier est créé dans le dossier de téléversement de WordPress (%2$s), qui peut être défini par le réglage %3$s dans wp-config.php. Vous pouvez également contrôler le dossier spécifique pour les factures PDF en utilisant le filtre %4$s. Assurez-vous que ce dossier est accessible en écriture et que les sous-dossiers %5$s, %6$s et %7$s sont présents (ils seront créés par l’extension si le dossier temporaire central est accessible en écriture)."
+
+#: includes/views/advanced-status.php:318
+msgid "Write Permissions"
+msgstr "Autorisations d’écriture"
+
+#: includes/views/advanced-status.php:305
+msgid "DOMPDF fonts folder (needs to be writable for custom/remote fonts)"
+msgstr "Dossier des polices DOMPDF (doit être accessible en écriture pour les polices personnalisées/à distance)"
+
+#: includes/views/advanced-status.php:299
+msgid "Temporary DOMPDF folder"
+msgstr "Dossier temporaire DOMPDF"
+
+#: includes/views/advanced-status.php:293
+msgid "Temporary attachments folder"
+msgstr "Dossier des pièces jointes temporaires"
+
+#: includes/views/advanced-status.php:287
+msgid "Central temporary plugin folder"
+msgstr "Dossier temporaire principal de l’extension"
+
+#: includes/views/advanced-status.php:282
+msgid "Not writable"
+msgstr "Non accessible en écriture"
+
+#: includes/views/advanced-status.php:281
+msgid "Writable"
+msgstr "Accessible en écriture"
+
+#: includes/views/advanced-status.php:139
+msgid "Present"
+msgstr "Présent"
+
+#: includes/views/advanced-status.php:138
+msgid "Required"
+msgstr "Nécessaire"
+
+#: includes/views/advanced-status.php:132
+msgid "System Configuration"
+msgstr "Configuration du système"
+
+#. translators: <a> tags
+#: includes/views/advanced-status.php:125
+msgid "Download %1$sthis addon%2$s to enable backwards compatibility."
+msgstr "<br/>Téléchargez %1$scet extension%2$s pour permettre la rétrocompatibilité."
+
+#: includes/views/advanced-status.php:80
+msgid "allow_url_fopen disabled"
+msgstr "allow_url_fopen désactivé"
+
+#: includes/views/advanced-status.php:77
+msgid "Allow remote stylesheets and images"
+msgstr "Autoriser les feuilles de style et les images distantes"
+
+#. translators: <a> tags
+#: includes/views/advanced-status.php:72
+msgid "Recommended: 128MB (more for plugin-heavy setups<br/>See: %1$sIncreasing the WordPress Memory Limit%2$s"
+msgstr "Recommandé : 128 Mo (plus pour les installations à forte extension)<br/>Voir : %1$sAugmentation de la limite de mémoire de WordPress%2$s"
+
+#: includes/views/advanced-status.php:68
+msgid "Check PHP disable_functions"
+msgstr "Vérifier PHP disable_functions"
+
+#: includes/views/advanced-status.php:65
+msgid "Required to detect custom templates and to clear the temp folder periodically"
+msgstr "Nécessaire pour détecter les modèles personnalisés et pour vider périodiquement le dossier temporaire"
+
+#: includes/views/advanced-status.php:59
+msgid "Better with transparent PNG images"
+msgstr "Mieux avec les images PNG transparentes"
+
+#: includes/views/advanced-status.php:56 includes/views/advanced-status.php:62
+msgid "Recommended for better performances"
+msgstr "Recommandé pour de meilleures performances"
+
+#: includes/views/advanced-status.php:53
+msgid "For better performances"
+msgstr "Pour de meilleures performances"
+
+#: includes/views/advanced-status.php:50
+msgid "Recommended to compress PDF documents"
+msgstr "Recommandé pour compresser les documents PDF"
+
+#: includes/views/advanced-status.php:47
+msgid "To compress PDF documents"
+msgstr "Pour compresser des documents PDF"
+
+#: includes/views/advanced-status.php:32
+msgid "Required if you have images in your documents"
+msgstr "Requis si vous avez des images dans vos documents"
+
+#: includes/views/advanced-status.php:26
+msgid "Recommended, will use fallback functions"
+msgstr "Recommandé, utilisera des fonctions de repli"
+
+#: includes/views/advanced-status.php:13
+msgid "7.2+ (7.4 or higher recommended)"
+msgstr "7,2 + (7,4 ou supérieure recommandée)"
+
+#: includes/class-wcpdf-admin.php:1223
+msgid "Document is empty."
+msgstr "Le document est vide."
+
+#: includes/class-wcpdf-admin.php:1209
+msgid "Document does not exist."
+msgstr "Le document n’existe pas."
+
+#: includes/class-wcpdf-admin.php:1153
+msgid "An error occurred while deleting the document!"
+msgstr "Une erreur s’est produite lors de la suppression du document !"
+
+#: includes/class-wcpdf-admin.php:1152
+msgid "Document deleted!"
+msgstr "Le document a été supprimé !"
+
+#: includes/class-wcpdf-admin.php:1149
+msgid "An error occurred while regenerating the document!"
+msgstr "Une erreur s’est produite lors de la regénération du document !"
+
+#: includes/class-wcpdf-admin.php:1148
+msgid "Document regenerated!"
+msgstr "Document regeneré !"
+
+#: includes/class-wcpdf-admin.php:1145
+msgid "An error occurred while saving the document data!"
+msgstr "Une erreur s’est produite lors de la sauvegarde du document !"
+
+#: includes/class-wcpdf-admin.php:1144
+msgid "Document data saved!"
+msgstr "Donnée du document sauvegardée !"
+
+#: includes/class-wcpdf-admin.php:1120
+msgid "No permissions!"
+msgstr "Aucun droit !"
+
+#: includes/class-wcpdf-admin.php:1114
+msgid "Incomplete request!"
+msgstr "Demande incomplète !"
+
+#: includes/class-wcpdf-admin.php:1108
+msgid "Bad action!"
+msgstr "Mauvaise action !"
+
+#: includes/class-wcpdf-admin.php:1102
+msgid "Nonce expired!"
+msgstr "Nonce expiré !"
+
+#: includes/class-wcpdf-admin.php:932
+msgid "Cancel"
+msgstr "Annuler"
+
+#: includes/class-wcpdf-admin.php:931
+msgid "Save changes"
+msgstr "Sauvegarder les modifications"
+
+#. translators: 1. document title, 2. creation trigger
+#: includes/class-wcpdf-main.php:1313
+msgid "PDF %1$s created via %2$s."
+msgstr "PDF %1$s créé via %2$s."
+
+#: includes/class-wcpdf-main.php:1454
+msgid "email attachment"
+msgstr "pièce jointe"
+
+#: includes/class-wcpdf-main.php:1453
+msgid "my account"
+msgstr "Mon compte"
+
+#: includes/class-wcpdf-main.php:1451
+msgid "single order action"
+msgstr "action à commande unique"
+
+#: includes/class-wcpdf-main.php:1452
+msgid "bulk order action"
+msgstr "action de commande en gros"
+
+#: includes/class-wcpdf-admin.php:523
+msgid "Choose an email to send&hellip;"
+msgstr "Choisir un e-mail pour envoyer..."
+
+#. translators: document title
+#: includes/class-wcpdf-admin.php:872
+msgid "Set %s number & date"
+msgstr "Régler les numéros et date de %s "
+
+#: includes/class-wcpdf-admin.php:889
+msgid "unformatted!"
+msgstr "non formatée !"
+
+#. translators: <a> tags
+#: woocommerce-pdf-invoices-packingslips.php:245
+msgid "We strongly recommend to %1$supdate your PHP version%2$s."
+msgstr "Nous vous recommendons fortement de %1$smettre à jour votre version de PHP%2$s."
+
+#. translators: document title
+#: includes/class-wcpdf-main.php:1634
+msgid "Order %s Saved"
+msgstr "Commande %s enregistrée"
+
+#: includes/class-wcpdf-main.php:892
+msgid "Please check your directories write permissions or contact your hosting service provider."
+msgstr "Veuillez vérifier les permissions en écriture de vos répertoires ou contacter votre hébergeur."
+
+#. translators: 1. plugin name, 2. directory path
+#: includes/class-wcpdf-main.php:891
+msgid "The %1$s directory %2$s couldn't be created or is not writable!"
+msgstr "Le répertoire %1$s %2$s n’a pu être créé ou n’est pas accessible en écriture !"
+
+#: includes/class-wcpdf-admin.php:506
+msgid "PDF document data"
+msgstr "Données documents PDF"
+
+#: woocommerce-pdf-invoices-packingslips.php:338
+msgid "To protect them, you must click the button below."
+msgstr "Pour les protéger, vos devez cliquer sur le bouton ci-dessous."
+
+#: woocommerce-pdf-invoices-packingslips.php:339
+msgid "Generate random temporary folder name"
+msgstr "Générer un nom de dossier temporaire aléatoire"
+
+#. translators: zero number
+#: includes/documents/class-wcpdf-invoice.php:457
+msgid "Disable document when the order total is %s"
+msgstr "Désactiver lorsque le total de la commande est %s"
+
+#: includes/documents/class-wcpdf-invoice.php:259
+#: includes/documents/class-wcpdf-packing-slip.php:135
+msgid "Display customer notes"
+msgstr "Afficher les notes du client"
+
+#: includes/class-wcpdf-admin.php:734
+msgid "Notes (printed in the invoice):"
+msgstr "Notes (imprimées sur la facture) :"
+
+#. translators: directory path
+#: woocommerce-pdf-invoices-packingslips.php:337
+msgid "The PDF files in %s are not currently protected due to your site running on <strong>NGINX</strong>."
+msgstr "Les fichiers PDF de %s ne sont pas actuellement protégés, car votre site fonctionne avec <strong>NGINX</strong>."
+
+#: languages/strings.php:26 templates/Simple/invoice.php:131
+msgid "Notes"
+msgstr "Commentaires"
+
+#: includes/documents/class-wcpdf-invoice.php:228
+#: includes/views/setup-wizard/display-options.php:21
+msgid "Only when different from billing address"
+msgstr "Uniquement lorsqu’elle est différente de l’adresse de facturation"
+
+#: includes/documents/class-wcpdf-packing-slip.php:104
+msgid "Only when different from shipping address"
+msgstr "Uniquement lorsqu’elle est différente de l’adresse de livraison"
+
+#: includes/settings/class-wcpdf-settings-debug.php:821
+msgid "You can also add <code>&output=html</code> to the URL to apply this on a per-order basis."
+msgstr "Vous pouvez aussi ajouter <code>&output=html</code> à l’url pour l’appliquer à la demande."
+
+#: includes/settings/class-wcpdf-settings-documents.php:64
+#: includes/views/advanced-numbers.php:13
+msgid "untitled"
+msgstr "sans titre"
+
+#: includes/settings/class-wcpdf-settings-general.php:159
+msgid "Enter the total height of the logo in mm, cm or in and use a dot for decimals.<br/>For example: 1.15in or 40mm"
+msgstr "Saisir la hauteur totale du logo en mm, cm ou pouces (in) et utiliser le point pour les décimales.<br/>Par exemple : 1.15in ou 40mm."
+
+#: includes/settings/class-wcpdf-settings-general.php:151
+msgid "Logo height"
+msgstr "Hauteur du logo"
+
+#: includes/class-wcpdf-assets.php:89
+msgid "Are you sure you want to regenerate this document? This will make the document reflect the most current settings (such as footer text, document name, etc.) rather than using historical settings."
+msgstr "Êtes-vous sûr·e de vouloir régénérer ce document ? Cela produira un document prenant en compte les réglages les plus récents (comme le texte de pied de page, le nom du document, etc.) plutôt qu’en utilisant les réglages précédents."
+
+#. translators: 1. credit note title, 2. refund id
+#: includes/documents/abstract-wcpdf-order-document.php:506
+msgid "%s was regenerated"
+msgstr "%s a été régénérée."
+
+#. translators: 1. credit note title, 2. refund id
+#: includes/documents/abstract-wcpdf-order-document.php:506
+msgid "%1$s (refund #%2$s) was regenerated."
+msgstr "%1$s (remboursement #%2$s) a été régénérée."
+
+#: includes/documents/class-wcpdf-invoice.php:321
+msgid "More information"
+msgstr "Plus d’information"
+
+#: includes/documents/class-wcpdf-invoice.php:320
+msgid "Using the Order Number as invoice number is not recommended as this may lead to gaps in the invoice number sequence (even when order numbers are sequential)."
+msgstr "L’utilisation du numéro de commande en tant que numéro de facture n’est pas recommandée car cela pourrait entraîner des lacunes dans la séquence des numéros de facture (même lorsque les numéros de commande sont séquentiels)."
+
+#: includes/documents/class-wcpdf-invoice.php:319
+msgid "Warning!"
+msgstr "Avertissement !"
+
+#: includes/documents/class-wcpdf-invoice.php:315
+#: includes/views/setup-wizard/display-options.php:82
+msgid "Order Number"
+msgstr "N° de commande"
+
+#: includes/documents/abstract-wcpdf-order-document-methods.php:1307
+#: includes/documents/class-wcpdf-invoice.php:281
+#: includes/views/setup-wizard/display-options.php:61
+msgid "Order Date"
+msgstr "Date de commande"
+
+#: includes/documents/class-wcpdf-invoice.php:227
+#: includes/documents/class-wcpdf-invoice.php:279
+#: includes/documents/class-wcpdf-invoice.php:295
+#: includes/documents/class-wcpdf-invoice.php:313
+#: includes/documents/class-wcpdf-packing-slip.php:103
+#: includes/views/advanced-status.php:169
+#: includes/views/advanced-status.php:173
+#: includes/views/advanced-status.php:204
+#: includes/views/advanced-status.php:205
+#: includes/views/setup-wizard/display-options.php:20
+#: includes/views/setup-wizard/display-options.php:59
+#: includes/views/setup-wizard/display-options.php:80
+msgid "No"
+msgstr "Non"
+
+#: includes/views/setup-wizard/show-action-buttons.php:18
+msgid "Show action buttons"
+msgstr "Afficher les boutons d’actions"
+
+#: includes/views/setup-wizard/show-action-buttons.php:5
+msgid "(You can always change this setting later via the Screen Options menu)"
+msgstr "(vous pouvez toujours modifier ce réglage ultérieurement via le menu Options d’écran)"
+
+#: includes/views/setup-wizard/show-action-buttons.php:4
+msgid "Would you like to display the action buttons in your WooCommerce order list? The action buttons allow you to manually create a PDF."
+msgstr "Souhaitez-vous afficher les boutons d’action dans votre liste de commandes WooCommerce ? Les boutons d’action vous permettent de créer manuellement un PDF."
+
+#: includes/documents/class-wcpdf-invoice.php:214
+msgid "Select one or more statuses"
+msgstr "Sélectionnez un ou plusieurs états"
+
+#: includes/documents/class-wcpdf-invoice.php:205
+msgid "Disable for:"
+msgstr "Désactiver pour :"
+
+#: includes/class-wcpdf-setup-wizard.php:78
+#: includes/views/setup-wizard/show-action-buttons.php:3
+msgid "Action buttons"
+msgstr "Boutons d’action"
+
+#: includes/settings/class-wcpdf-settings-general.php:106
+msgid "<strong>Note:</strong> invoice numbers and dates are not affected by this setting and will still be generated."
+msgstr "<strong>Remarque :</strong> les numéros de facture et les dates ne sont pas affectés par ce paramètre et seront toujours générés."
+
+#: includes/settings/class-wcpdf-settings-general.php:106
+msgid "With test mode enabled, any document generated will always use the latest settings, rather than using the settings as configured at the time the document was first created."
+msgstr "Lorsque le mode test est activé, tout document généré utilisera toujours les derniers réglages, plutôt que les réglages tels que configurés au moment de la création du document."
+
+#: includes/settings/class-wcpdf-settings-general.php:100
+msgid "Test mode"
+msgstr "Mode Test"
+
+#: includes/class-wcpdf-admin.php:1254
+msgid "DEBUG output enabled"
+msgstr "Sortie déboguage activée"
+
+#: includes/documents/class-wcpdf-invoice.php:509
+msgid "<strong>Caution:</strong> enabling this will also mean that if you change your company name or address in the future, previously generated documents will also be affected."
+msgstr "<strong>Attention :</strong> cela signifie également que si vous modifiez le nom ou l’adresse de votre société à l’avenir, les documents générés précédemment seront également affectés."
+
+#: includes/documents/class-wcpdf-invoice.php:507
+msgid "When enabled, the document will always reflect the most current settings (such as footer text, document name, etc.) rather than using historical settings."
+msgstr "Lorsqu’activé, le document reflétera toujours les réglages les plus actuels (tels que le texte de pied de page, le nom du document, etc…) plutôt que d’utiliser les réglages historiques."
+
+#: includes/documents/class-wcpdf-invoice.php:501
+msgid "Always use most current settings"
+msgstr "Toujours utiliser les réglages les plus courants"
+
+#: includes/wcpdf-functions.php:353
+msgid "Error creating PDF, please contact the site owner."
+msgstr "Erreur lors de la création du PDF, veuillez contacter le propriétaire du site."
+
+#: includes/class-wcpdf-assets.php:88
+msgid "Are you sure you want to delete this document? This cannot be undone."
+msgstr "Confirmez vouloir supprimer ce document ? Ceci ne peut pas être annulé."
+
+#: includes/class-wcpdf-admin.php:167
+msgid "I am the wizard"
+msgstr "Je suis l’assistant"
+
+#: includes/class-wcpdf-admin.php:167 includes/views/advanced-tools.php:62
+#: includes/views/advanced-tools.php:64
+msgid "Run the Setup Wizard"
+msgstr "Lancer l’assistant de configuration"
+
+#: includes/class-wcpdf-admin.php:166
+msgid "Jumpstart the plugin by following our wizard!"
+msgstr "Lancez l’extension en suivant notre assistant !"
+
+#: includes/class-wcpdf-admin.php:323 includes/class-wcpdf-main.php:1277
+#: includes/documents/abstract-wcpdf-order-document-methods.php:1306
+#: includes/documents/class-wcpdf-invoice.php:280
+#: includes/views/setup-wizard/display-options.php:60
+msgid "Invoice Date"
+msgstr "Date de facturation"
+
+#: includes/settings/class-wcpdf-settings-debug.php:808
+msgid "Automatically clean up PDF files stored in the temporary folder (used for email attachments)"
+msgstr "Nettoyer automatiquement les fichiers PDF stockés dans le dossier temporaire (utilisé pour les fichiers joints à un e-mail)"
+
+#. translators: number of days
+#: includes/settings/class-wcpdf-settings-debug.php:804
+msgid "every %s days"
+msgstr "tous les %s jours"
+
+#: includes/settings/class-wcpdf-settings-debug.php:797
+msgid "Enable automatic cleanup"
+msgstr "Activer le nettoyage automatique"
+
+#. translators: %s: Document type
+#: includes/class-wcpdf-frontend.php:140
+msgid "Download %s (PDF)"
+msgstr "Télécharger %s (PDF)"
+
+#: includes/views/setup-wizard/shop-name.php:4
+msgid "Lets quickly setup your invoice. Please enter the name and address of your shop in the fields on the right."
+msgstr "Permet de configurer rapidement votre facture. Merci d’entrer le nom et l’adresse de votre boutique dans les champs sur la droite."
+
+#: includes/views/setup-wizard/shop-name.php:3
+msgid "Enter your shop name"
+msgstr "Saisissez le nom de votre boutique"
+
+#: includes/views/setup-wizard/paper-format.php:4
+msgid "Select the paper format for your invoice."
+msgstr "Sélectionnez le format de papier pour votre facture."
+
+#: includes/views/setup-wizard/logo.php:4
+msgid "Set the header image that will display on your invoice."
+msgstr "Définissez l’image d’entête qui s’affichera sur votre facture."
+
+#: includes/views/setup-wizard/good-to-go.php:6
+msgid "Happy selling!"
+msgstr "Bonnes ventes !"
+
+#: includes/views/setup-wizard/good-to-go.php:5
+msgid "Invoices & Packing Slips"
+msgstr "Factures et bons de livraison"
+
+#: includes/views/setup-wizard/good-to-go.php:4
+msgid "If you have any questions please have a look at our documentation:"
+msgstr "Si vous avez des questions, consultez notre documentation : "
+
+#: includes/views/setup-wizard/good-to-go.php:3
+msgid "You are good to go!"
+msgstr "Vous pouvez y aller !"
+
+#: includes/views/setup-wizard/display-options.php:4
+msgid "Select some additional display options for your invoice."
+msgstr "Sélectionnez des options d’affichage supplémentaires pour votre facture."
+
+#: includes/views/setup-wizard/attach-to.php:4
+msgid "Select to which emails you would like to attach your invoice."
+msgstr "Sélectionnez les e-mails que vous souhaitez joindre à votre facture."
+
+#: includes/views/setup-wizard/attach-to.php:3
+msgid "Attach to..."
+msgstr "Joindre aussi…"
+
+#: includes/class-wcpdf-setup-wizard.php:203
+msgid "Finish"
+msgstr "Terminer"
+
+#: includes/class-wcpdf-setup-wizard.php:201
+msgid "Skip this step"
+msgstr "Passer cette étape"
+
+#: includes/class-wcpdf-setup-wizard.php:200
+msgid "Next"
+msgstr "Suivant"
+
+#: includes/class-wcpdf-setup-wizard.php:195
+msgid "Previous"
+msgstr "Précédent"
+
+#: includes/class-wcpdf-setup-wizard.php:82
+msgid "Ready!"
+msgstr "Prêt !"
+
+#: includes/class-wcpdf-setup-wizard.php:74
+#: includes/views/setup-wizard/paper-format.php:3
+msgid "Paper format"
+msgstr "Format de papier"
+
+#: includes/class-wcpdf-setup-wizard.php:70
+#: includes/views/setup-wizard/display-options.php:3
+msgid "Display options"
+msgstr "Afficher les options"
+
+#: includes/class-wcpdf-setup-wizard.php:66
+msgid "Attachments"
+msgstr "Fichiers joints"
+
+#: includes/class-wcpdf-setup-wizard.php:62
+#: includes/views/setup-wizard/logo.php:3
+msgid "Your logo"
+msgstr "Votre Logo"
+
+#. translators: %s: email title
+#: includes/class-wcpdf-admin.php:1054
+msgid "%s email notification manually sent."
+msgstr "Notification par e-mail %s envoyée manuellement."
+
+#: languages/strings.php:9
+msgid "Send email"
+msgstr "Envoyer l’e-mail"
+
+#: includes/class-wcpdf-admin.php:544
+msgid "Save order & send email"
+msgstr "Enregistrer et envoyer un e-mail"
+
+#: includes/class-wcpdf-admin.php:472
+msgid "Send order email"
+msgstr "Envoyer un e-mail de commande"
+
+#. translators: <a> tags
+#: includes/views/attachment-settings-hint.php:11
+msgid "It looks like you haven't setup any email attachments yet, check the settings under <b>%1$sDocuments > Invoice%2$s</b>"
+msgstr "Il semble que vous n’avez pas encore configuré de fichiers joints pour les e-mails, vérifiez les réglages sous <b>%1$sDocuments > Facture%2$s</b>"
+
+#: includes/class-wcpdf-admin.php:125
+msgid "Actually, I have a complaint..."
+msgstr "En fait, j’ai une plainte..."
+
+#: includes/class-wcpdf-admin.php:124
+msgid "Already did!"
+msgstr "Déjà fait !"
+
+#: includes/class-wcpdf-admin.php:123
+msgid "Yes you deserve it!"
+msgstr "Oui vous le méritez !"
+
+#: includes/class-wcpdf-admin.php:121
+msgid "It would mean a lot to us if you would quickly give our plugin a 5-star rating. Help us spread the word and boost our motivation!"
+msgstr "Cela compterait beaucoup pour nous si vous donniez rapidement à notre extension une note de 5 étoiles. Aidez-nous à passer le mot et à stimuler notre motivation !"
+
+#. translators: rounded count
+#: includes/class-wcpdf-admin.php:120
+msgid "Wow, you have created more than %d invoices with our plugin!"
+msgstr "Wow, vous avez créé plus de %d factures avec notre extension !"
+
+#. translators: database row value
+#: includes/class-wcpdf-settings.php:168
+msgid "<strong>Warning!</strong> Your database has an AUTO_INCREMENT step size of %d, your invoice numbers may not be sequential. Enable the 'Calculate document numbers (slow)' setting in the Advanced tab to use an alternate method."
+msgstr "<strong>Avertissement !</strong> Votre base de données a un pas d’AUTO_INCREMENT de %d, vos numéros de facture peuvent ne pas être séquentiels. Activez le réglage « Calculer les numéros de document (lent) » dans l’onglet État pour utiliser une autre méthode."
+
+#: includes/settings/class-wcpdf-settings-general.php:130
+msgid "Font subsetting can reduce file size by only including the characters that are used in the PDF, but limits the ability to edit PDF files later. Recommended if you're using an Asian font."
+msgstr "Le sous-ensemble des polices peut réduire la taille du fichier en n’incluant que les caractères utilisés dans le PDF, mais limite la possibilité de modifier les fichiers PDF ultérieurement. Recommandé si vous utilisez une police asiatique."
+
+#: includes/settings/class-wcpdf-settings-general.php:124
+msgid "Enable font subsetting"
+msgstr "Activer le sous-ensemble de police"
+
+#: includes/settings/class-wcpdf-settings-debug.php:762
+msgid "Calculate document numbers (slow)"
+msgstr "Calculer les numéros de document (lent)"
+
+#: includes/class-wcpdf-main.php:1237
+msgid "Nothing to delete!"
+msgstr "Rien à supprimer !"
+
+#. translators: file count
+#: includes/class-wcpdf-main.php:1233
+msgid "Successfully deleted %d files!"
+msgstr "Suppression réussie de %d fichiers !"
+
+#. translators: 1,2. file count
+#: includes/class-wcpdf-main.php:1229
+msgid "Unable to delete %1$d files! (deleted %2$d)"
+msgstr "Impossible de supprimer les %1$d fichiers ! (%2$d supprimés)"
+
+#: includes/views/advanced-tools.php:49 includes/views/advanced-tools.php:53
+msgid "Remove temporary files"
+msgstr "Supprimer les fichiers temporaires"
+
+#: includes/class-wcpdf-admin.php:124 includes/class-wcpdf-main.php:893
+#: includes/views/attachment-settings-hint.php:12
+#: includes/views/extensions.php:121 includes/views/promo.php:34
+#: woocommerce-pdf-invoices-packingslips.php:340
+#: woocommerce-pdf-invoices-packingslips.php:399
+#: woocommerce-pdf-invoices-packingslips.php:437
+#: woocommerce-pdf-invoices-packingslips.php:527
+msgid "Hide this message"
+msgstr "Masquer ce message"
+
+#: includes/views/extensions.php:74
+msgid "Get WooCommerce Smart Reminder Emails"
+msgstr "Recevez les e-mails de rappel intelligents de WooCommerce"
+
+#: includes/views/extensions.php:72
+msgid "Integrates seamlessly with the PDF Invoices & Packing Slips plugin"
+msgstr "S’intègre parfaitement avec l’extension WooCommerce PDF Invoices & Packing Slips"
+
+#: includes/views/extensions.php:71
+msgid "<b>Super versatile!</b> Can be used for any kind of reminder email (review reminders, repeat purchases)"
+msgstr "<b>Super polyvalent !</b> Peut être utilisé pour tout type d’e-mail de rappel (rappels de revue, répétition des achats)"
+
+#: includes/views/extensions.php:70
+msgid "Fully <b>WPML Compatible</b> – emails will be automatically sent in the order language."
+msgstr "Entièrement <b>compatible avec WPML</b> - les e-mails seront automatiquement envoyés dans la langue de la commande."
+
+#: includes/views/extensions.php:69
+msgid "Configure the exact requirements for sending an email (time after order, order status, payment method)"
+msgstr "Configurez les prérequis exactes pour l’envoi d’un e-mail (délai après commande, état de la commande, moyen de paiement)"
+
+#: includes/views/extensions.php:68
+msgid "<b>Rich text editor</b> for the email text, including placeholders for data from the order (name, order total, etc)"
+msgstr "<b>Éditeur de texte enrichi</b> pour le texte de l’e-mail, y compris les espaces réservés pour les données de la commande (nom, total de la commande, etc…)"
+
+#: includes/views/extensions.php:67
+msgid "<b>Completely automatic</b> scheduled emails"
+msgstr "Courriels planifiés <b>entièrement automatiques</b>"
+
+#: includes/views/extensions.php:65
+msgid "WooCommerce Smart Reminder emails"
+msgstr "E-mails de rappel intelligents WooCommerce"
+
+#: includes/views/extensions.php:63
+msgid "Automatically send payment reminders to your customers"
+msgstr "Envoyez automatiquement des rappels de paiement à vos clients"
+
+#: includes/views/extensions.php:29 includes/views/extensions.php:53
+msgid "Upload automatically to dropbox"
+msgstr "Téléverser automatiquement dans Dropbox™"
+
+#: includes/views/extensions.php:15
+msgid "Professional features:"
+msgstr "Caractéristiques professionnelles :"
+
+#: includes/views/extensions.php:12
+msgid "Premium PDF Invoice bundle: Everything you need for a perfect invoicing system"
+msgstr "Pack Premium Facture PDF : tout ce dont vous avez besoin pour un système de facturation parfait"
+
+#. translators: link
+#: includes/documents/class-wcpdf-invoice.php:525
+msgid "Configure it <a href=\"%s\">here</a>."
+msgstr "Configurez-le <a href=\"%s\">par ici</a>."
+
+#: includes/documents/class-wcpdf-invoice.php:522
+msgid "Invoice numbers are created by a third-party extension."
+msgstr "Les numéros de facture sont créés par une extension tierce."
+
+#: includes/documents/class-wcpdf-invoice.php:380
+msgid "Reset invoice number yearly"
+msgstr "Réinitialiser le numéro de facture annuellement"
+
+#: includes/documents/class-wcpdf-invoice.php:340
+msgid "Number format"
+msgstr "Format de nombre"
+
+#: includes/documents/class-wcpdf-invoice.php:334
+msgid "This is the number that will be used for the next document. By default, numbering starts from 1 and increases for every new document. Note that if you override this and set it lower than the current/highest number, this could create duplicate numbers!"
+msgstr "Cʼest le nombre qui sera utilisé pour le document suivant. Par défaut, la numérotation commence à partir de 1 et augmente pour chaque nouveau document. Notez que si vous redéfinissez ce paramètre et le définissez plus bas que le nombre actuel/plus élevé, cela pourrait créer des numéros en double !"
+
+#: includes/documents/class-wcpdf-invoice.php:306
+msgid "Display invoice number"
+msgstr "Afficher le numéro de facture"
+
+#: includes/documents/class-wcpdf-invoice.php:191
+#: includes/documents/class-wcpdf-invoice.php:560
+#: includes/documents/class-wcpdf-packing-slip.php:160
+msgid "Attach to:"
+msgstr "Attacher à :"
+
+#: includes/documents/class-wcpdf-invoice.php:180
+#: includes/documents/class-wcpdf-invoice.php:549
+#: includes/documents/class-wcpdf-packing-slip.php:85
+msgid "Enable"
+msgstr "Activer"
+
+#: includes/documents/abstract-wcpdf-order-document.php:1266
+msgid "Manual email"
+msgstr "E-mail manuel"
+
+#: includes/documents/abstract-wcpdf-order-document.php:1263
+msgid "Admin email"
+msgstr "E-mail pour l’administrateur"
+
+#: includes/documents/abstract-wcpdf-order-document-methods.php:956
+msgid "(includes %s)"
+msgstr "(inclut %s)"
+
+#: includes/class-wcpdf-settings.php:129
+msgid "Support Forum"
+msgstr "Forums de support"
+
+#: includes/class-wcpdf-settings.php:128
+msgid "Documentation"
+msgstr "Documentation"
+
+#: includes/settings/class-wcpdf-settings-general.php:118
+msgid "Enable this if your currency symbol is not displaying properly"
+msgstr "Activez cette option si le symbole de votre devise ne s’affiche pas correctement"
+
+#: includes/settings/class-wcpdf-settings-general.php:112
+msgid "Extended currency symbol support"
+msgstr "Prise en charge du symbole monétaire étendu"
+
+#: includes/class-wcpdf-settings.php:184
+msgid "Documents"
+msgstr "Documents"
+
+#: includes/settings/class-wcpdf-settings-debug.php:216
+msgid "Fonts reinstalled!"
+msgstr "Polices réinstallées !"
+
+#: includes/views/advanced-tools.php:25
+msgid "Reinstall fonts"
+msgstr "Réinstallez les polices"
+
+#: includes/settings/class-wcpdf-settings-callbacks.php:523
+msgid "Save"
+msgstr "Enregistrer"
+
+#. translators: document type
+#: includes/class-wcpdf-main.php:574
+msgid "Document of type '%s' for the selected order(s) could not be generated"
+msgstr "Le document de type « %s » pour la/les commande(s) sélectionnée(s) n’a pas pu être généré"
+
+#: includes/class-wcpdf-main.php:423
+msgid "You haven't selected any orders"
+msgstr "Vous n’avez sélectionné aucune commande"
+
+#. Description of the plugin
+#: woocommerce-pdf-invoices-packingslips.php
+msgid "Create, print & email PDF or UBL Invoices & PDF Packing Slips for WooCommerce orders."
+msgstr "Créez, imprimez et envoyez par e-mail des factures PDF ou UBL et des bons de livraison PDF pour les commandes WooCommerce."
+
+#. Author URI of the plugin
+#: woocommerce-pdf-invoices-packingslips.php
+msgid "https://www.wpovernight.com"
+msgstr "http://www.wpovernight.com"
+
+#: includes/class-wcpdf-settings.php:446
+#: includes/documents/abstract-wcpdf-order-document-methods.php:1111
+#: ubl/Settings/TaxesSettings.php:170
+msgid "Total"
+msgstr "Total"
+
+#: includes/documents/abstract-wcpdf-order-document-methods.php:1108
+msgid "Total ex. VAT"
+msgstr "Total H.T."
+
+#: languages/strings.php:4
+msgid "Tax rate"
+msgstr "Taux de taxe (%)"
+
+#: languages/strings.php:3
+msgid "VAT"
+msgstr "TVA"
+
+#: includes/documents/abstract-wcpdf-order-document-methods.php:1041
+msgid "Discount"
+msgstr "Remise"
+
+#: includes/documents/abstract-wcpdf-order-document-methods.php:1010
+msgid "Shipping"
+msgstr "Livraison"
+
+#: includes/documents/abstract-wcpdf-order-document-methods.php:985
+msgid "Subtotal"
+msgstr "Sous-total"
+
+#: languages/strings.php:8
+msgid "Shipping method"
+msgstr "Méthode de livraison"
+
+#: languages/strings.php:7
+msgid "Payment method"
+msgstr "Méthode de paiement"
+
+#: includes/documents/abstract-wcpdf-order-document-methods.php:96
+#: includes/documents/abstract-wcpdf-order-document-methods.php:206
+msgid "N/A"
+msgstr "N/A"
+
+#: languages/strings.php:20 templates/Simple/packing-slip.php:75
+msgid "Shipping Method:"
+msgstr "Mode de livraison :"
+
+#: languages/strings.php:15 templates/Simple/packing-slip.php:40
+msgid "Shipping Address:"
+msgstr "Adresse de livraison :"
+
+#: languages/strings.php:27 templates/Simple/invoice.php:139
+#: templates/Simple/packing-slip.php:120
+msgid "Customer Notes"
+msgstr "Notes du client"
+
+#: languages/strings.php:25 templates/Simple/invoice.php:116
+#: templates/Simple/packing-slip.php:103
+msgid "Weight:"
+msgstr "Poids :"
+
+#: languages/strings.php:24 templates/Simple/invoice.php:115
+#: templates/Simple/packing-slip.php:102
+msgid "SKU:"
+msgstr "UGS :"
+
+#: languages/strings.php:11
+msgid "SKU"
+msgstr "UGS"
+
+#: languages/strings.php:10
+msgid "Description"
+msgstr "Description"
+
+#: languages/strings.php:23 templates/Simple/invoice.php:104
+msgid "Price"
+msgstr "Prix"
+
+#: languages/strings.php:22 templates/Simple/invoice.php:103
+#: templates/Simple/packing-slip.php:91
+msgid "Quantity"
+msgstr "Quantité"
+
+#: languages/strings.php:21 templates/Simple/invoice.php:102
+#: templates/Simple/packing-slip.php:90
+msgid "Product"
+msgstr "Produits"
+
+#: languages/strings.php:19 templates/Simple/invoice.php:87
+msgid "Payment Method:"
+msgstr "Méthode de paiement :"
+
+#: languages/strings.php:18 templates/Simple/invoice.php:82
+#: templates/Simple/packing-slip.php:70
+msgid "Order Date:"
+msgstr "Date de commande :"
+
+#: languages/strings.php:17 templates/Simple/invoice.php:78
+#: templates/Simple/packing-slip.php:66
+msgid "Order Number:"
+msgstr "N° de commande :"
+
+#: includes/documents/class-wcpdf-invoice.php:592
+msgid "Invoice Number:"
+msgstr "N° de facture :"
+
+#: languages/strings.php:16 templates/Simple/invoice.php:53
+msgid "Ship To:"
+msgstr "Livrer à :"
+
+#: languages/strings.php:14 templates/Simple/invoice.php:40
+#: templates/Simple/packing-slip.php:53
+msgid "Billing Address:"
+msgstr "Adresse de facturation :"
+
+#. translators: email link
+#: includes/views/extensions.php:112
+msgid "For custom templates, contact us at %s."
+msgstr "Pour des modèles sur mesure, nous contacter au %s."
+
+#. translators: Premium Templates link
+#: includes/views/extensions.php:110
+msgid "Check out the Premium PDF Invoice & Packing Slips templates at %s."
+msgstr "Consultez les modèles Prémium PDF Invoice & Packing Slips ici %s."
+
+#: includes/views/extensions.php:27 includes/views/extensions.php:108
+msgid "Two extra stylish premade templates (Modern & Business)"
+msgstr "Deux modèles supplémentaires élégant prédéfinis (Moderne & Business)"
+
+#: includes/views/extensions.php:26 includes/views/extensions.php:107
+msgid "Completely customize the invoice contents (prices, taxes, thumbnails) to your needs with a drag & drop customizer"
+msgstr "Personnalisez complètement le contenu de la facture (prix, taxes, miniatures) à vos besoins avec un outil de  personnalisation en glisser-déposer"
+
+#: includes/views/extensions.php:24 includes/views/extensions.php:104
+msgid "Advanced, customizable templates"
+msgstr "Modèles avancés personnalisables"
+
+#: includes/views/extensions.php:90
+msgid "WooCommerce Automatic Order Printing"
+msgstr "Impression automatique de commandes WooCommerce"
+
+#: includes/views/extensions.php:89
+msgid "Check out the WooCommerce Automatic Order Printing extension from our partners at Simba Hosting"
+msgstr "Consultez lʼextension dʼimpression de commande automatique WooCommerce auprès de nos partenaires chez Simba Hosting"
+
+#: includes/views/extensions.php:83
+msgid "Automatically send new orders or packing slips to your printer, as soon as the customer orders!"
+msgstr "Imprimez automatiquement les nouvelles commandes ou les bons de livraison, dès quʼune commande est effectuée !"
+
+#: includes/views/extensions.php:31
+msgid "This extension conveniently uploads all the invoices (and other pdf documents from the professional extension) that are emailed to your customers to Dropbox. The best way to keep your invoice administration up to date!"
+msgstr "Cette extension télécharge normalement toutes les factures (et autres documents PDF pour lʼextension professionnelle) envoyées par e-mail dans votre compte Dropbox. La meilleure façon de conserver vos documents administratif à jour !"
+
+#: includes/views/extensions.php:22 includes/views/extensions.php:52
+msgid "Use the plugin in multilingual <b>WPML</b> setups"
+msgstr "Utiliser la configuration de lʼextension multilingue <b>WPML</b>"
+
+#: includes/views/extensions.php:21 includes/views/extensions.php:51
+msgid "<b>Customize</b> the <b>shipping & billing address</b> format to include additional custom fields, font sizes etc. without the need to create a custom template."
+msgstr "<b>Personnaliser</b> le format de <b>lʼadresse de livraison et de facturation</b> pour ajouter des champs personnalisés, taille de police, etc. sans créer de modèle personnalisé."
+
+#: includes/views/extensions.php:20 includes/views/extensions.php:50
+msgid "Use <b>separate numbering systems</b> and/or format for proforma invoices and credit notes or utilize the main invoice numbering system"
+msgstr "Utiliser <b>une numérotation séparée</b> et/ou un format pour les factures proforma et avoirs ou utiliser la numérotation principale du système"
+
+#: includes/views/extensions.php:19 includes/views/extensions.php:49
+msgid "Attach <b>up to 3 static files</b> (for example a terms & conditions document) to the WooCommerce emails of your choice."
+msgstr "Joindre <b>jusqu’à 3 fichiers fixes</b> (par exemple les conditions générales de ventes) aux e-mails WooCommerce de votre choix."
+
+#: includes/views/extensions.php:18 includes/views/extensions.php:48
+msgid "Send out a separate <b>notification email</b> with (or without) PDF invoices/packing slips, for example to a drop-shipper or a supplier."
+msgstr "Envoyer séparément <b>lʼe-mail de notification</b> avec (ou sans) facture et bon de livraison PDF, par exemple à un transporteur ou un fournisseur."
+
+#: includes/views/extensions.php:17 includes/views/extensions.php:47
+msgid "Email/print/download <b>PDF Credit Notes & Proforma invoices</b>"
+msgstr "Envoyer/imprimer/télécharger les <b>Avoirs et Devis PDF</b>"
+
+#: includes/views/extensions.php:43
+msgid "Go Pro: Proforma invoices, credit notes (=refunds) & more!"
+msgstr "Go Pro : factures Proforma, notes de crédit (= remboursements) et plus !"
+
+#: includes/views/extensions.php:7
+msgid "click items to read more"
+msgstr "Cliquez sur les articles pour en savoir plus"
+
+#: includes/views/extensions.php:6
+msgid "Check out these premium extensions!"
+msgstr "Découvrez ces extensions Premium !"
+
+#: includes/class-wcpdf-admin.php:895
+msgid "m"
+msgstr "m"
+
+#: includes/class-wcpdf-admin.php:895
+msgid "h"
+msgstr "h"
+
+#: includes/documents/class-wcpdf-invoice.php:600
+msgid "Invoice Date:"
+msgstr "Date de facture :"
+
+#: includes/class-wcpdf-admin.php:482
+msgid "Create PDF"
+msgstr "Créer un PDF"
+
+#: includes/class-wcpdf-admin.php:322 includes/class-wcpdf-admin.php:1334
+#: includes/class-wcpdf-assets.php:229 includes/class-wcpdf-main.php:1276
+#: includes/documents/class-wcpdf-invoice.php:314
+#: includes/views/setup-wizard/display-options.php:81
+msgid "Invoice Number"
+msgstr "N° de facture"
+
+#: includes/settings/class-wcpdf-settings-callbacks.php:46
+msgid "These are used for the (optional) footer columns in the <em>Modern (Premium)</em> template, but can also be used for other elements in your custom template"
+msgstr "Ceux-ci sont utilisés pour les colonnes de pied de page (optionnelles) dans le modèle <em>Modern (Premium)</em>, mais ils peuvent aussi être utilisés pour d’autres éléments dans votre modèle personnalisé."
+
+#: includes/settings/class-wcpdf-settings-callbacks.php:37
+msgid "<b>Warning!</b> The settings below are meant for debugging/development only. Do not use them on a live website!"
+msgstr "<b>Attention !</b> Les paramètres ci-dessous ne sont là que pour le débogage/développement. Ne pas les utiliser sur un site web en production !"
+
+#: includes/settings/class-wcpdf-settings-callbacks.php:467
+msgid "Image resolution"
+msgstr "Résolution de l’image"
+
+#: includes/settings/class-wcpdf-settings-debug.php:820
+msgid "Send the template output as HTML to the browser instead of creating a PDF."
+msgstr "Envoyer la sortie du modèle en HTML dans le navigateur au lieu de créer un PDF."
+
+#: includes/settings/class-wcpdf-settings-debug.php:814
+msgid "Output to HTML"
+msgstr "Sortie HTML"
+
+#: includes/settings/class-wcpdf-settings-debug.php:779
+msgid "Enable debug output"
+msgstr "Activer les résultats de débogage"
+
+#: includes/settings/class-wcpdf-settings-general.php:277
+msgid "This is footer column 3 in the <i>Modern (Premium)</i> template"
+msgstr "Correspond à la colonne 3 dans le modèle <i>Modern (Premium)</i>"
+
+#: includes/settings/class-wcpdf-settings-general.php:269
+msgid "Extra field 3"
+msgstr "Champ supplémentaire 3"
+
+#: includes/settings/class-wcpdf-settings-general.php:262
+msgid "This is footer column 2 in the <i>Modern (Premium)</i> template"
+msgstr "Correspond à la colonne 2 dans le modèle <i>Modern (Premium)</i>"
+
+#: includes/settings/class-wcpdf-settings-general.php:254
+msgid "Extra field 2"
+msgstr "Champ supplémentaire 2"
+
+#: includes/settings/class-wcpdf-settings-general.php:247
+msgid "This is footer column 1 in the <i>Modern (Premium)</i> template"
+msgstr "Correspond à la colonne 1 dans le modèle <i>Modern (Premium)</i>"
+
+#: includes/settings/class-wcpdf-settings-general.php:239
+msgid "Extra field 1"
+msgstr "Champ supplémentaire 1"
+
+#: includes/settings/class-wcpdf-settings-general.php:233
+msgid "Extra template fields"
+msgstr "Champs supplémentaires du modèle"
+
+#: includes/documents/class-wcpdf-packing-slip.php:96
+msgid "Display billing address"
+msgstr "Afficher l’adresse de facturation"
+
+#: includes/documents/class-wcpdf-packing-slip.php:24
+#: includes/documents/class-wcpdf-packing-slip.php:36
+msgid "Packing Slip"
+msgstr "Bon de livraison"
+
+#: includes/documents/class-wcpdf-invoice.php:366
+msgid "Padding"
+msgstr "Marge interne"
+
+#: includes/documents/class-wcpdf-invoice.php:357
+msgid "Suffix"
+msgstr "Suffixe"
+
+#: includes/documents/class-wcpdf-invoice.php:348
+msgid "Prefix"
+msgstr "Préfixe"
+
+#: includes/documents/class-wcpdf-invoice.php:328
+msgid "Next invoice number (without prefix/suffix etc.)"
+msgstr "Prochain numéro de facture (sans préfixe/suffixe, etc.)"
+
+#: includes/documents/class-wcpdf-invoice.php:272
+msgid "Display invoice date"
+msgstr "Afficher la date de la facture"
+
+#: includes/documents/class-wcpdf-invoice.php:248
+#: includes/documents/class-wcpdf-packing-slip.php:124
+msgid "Display phone number"
+msgstr "Afficher le numéro de téléphone"
+
+#: includes/documents/class-wcpdf-invoice.php:237
+#: includes/documents/class-wcpdf-packing-slip.php:113
+msgid "Display email address"
+msgstr "Afficher l’adresse e-mail"
+
+#: includes/documents/class-wcpdf-invoice.php:220
+msgid "Display shipping address"
+msgstr "Afficher l’adresse de livraison"
+
+#: includes/documents/class-wcpdf-invoice.php:29
+#: includes/documents/class-wcpdf-invoice.php:56
+#: includes/views/settings-page.php:127
+msgid "Invoice"
+msgstr "Facture"
+
+#: includes/settings/class-wcpdf-settings-general.php:218
+msgid "Footer: terms & conditions, policies, etc."
+msgstr "Pied de page : conditions générales de ventes, etc."
+
+#: includes/settings/class-wcpdf-settings-general.php:203
+msgid "Shop Address"
+msgstr "Adresse de la boutique"
+
+#: includes/class-wcpdf-setup-wizard.php:58
+#: includes/settings/class-wcpdf-settings-general.php:165
+msgid "Shop Name"
+msgstr "Nom de la boutique"
+
+#: includes/settings/class-wcpdf-settings-general.php:144
+#: includes/views/setup-wizard/logo.php:15
+msgid "Remove image"
+msgstr "Supprimer l’image"
+
+#: includes/settings/class-wcpdf-settings-general.php:143
+#: includes/views/setup-wizard/logo.php:14
+msgid "Set image"
+msgstr "Choisir une autre image"
+
+#: includes/settings/class-wcpdf-settings-general.php:142
+#: includes/views/setup-wizard/logo.php:13
+msgid "Select or upload your invoice header/logo"
+msgstr "Sélectionnez ou chargez votre en-tête/logo de facture"
+
+#: includes/settings/class-wcpdf-settings-general.php:136
+msgid "Shop header/logo"
+msgstr "En-tête de la boutique/logo"
+
+#: includes/settings/class-wcpdf-settings-general.php:93
+#: includes/views/setup-wizard/paper-format.php:14
+msgid "Letter"
+msgstr "Lettre"
+
+#: includes/settings/class-wcpdf-settings-general.php:92
+#: includes/views/setup-wizard/paper-format.php:13
+msgid "A4"
+msgstr "A4"
+
+#: includes/settings/class-wcpdf-settings-general.php:85
+msgid "Paper size"
+msgstr "Taille du papier"
+
+#: includes/settings/class-wcpdf-settings-general.php:71
+msgid "Choose a template"
+msgstr "Sélectionnez un modèle"
+
+#: includes/documents/class-wcpdf-invoice.php:416
+msgid "Enable invoice number column in the orders list"
+msgstr "Activer la colonne du numéro de facture dans la liste de commande"
+
+#: includes/documents/class-wcpdf-invoice.php:401
+msgid "Never"
+msgstr "Jamais"
+
+#: includes/documents/class-wcpdf-invoice.php:229
+#: includes/documents/class-wcpdf-invoice.php:400
+#: includes/documents/class-wcpdf-packing-slip.php:105
+#: includes/views/setup-wizard/display-options.php:22
+msgid "Always"
+msgstr "Toujours"
+
+#: includes/documents/class-wcpdf-invoice.php:399
+msgid "Only for specific order statuses (define below)"
+msgstr "Uniquement pour les états de commandes suivant (définis ci-dessous)"
+
+#: includes/documents/class-wcpdf-invoice.php:398
+msgid "Only when an invoice is already created/emailed"
+msgstr "Uniquement lorsque la facture est déjà créée/envoyée par e-mail"
+
+#: includes/documents/class-wcpdf-invoice.php:391
+msgid "Allow My Account invoice download"
+msgstr "Autoriser le téléchargement des factures à partir de lʼinterface  « Mon compte » "
+
+#: includes/documents/class-wcpdf-invoice.php:450
+msgid "Disable for free orders"
+msgstr "Désactiver pour les commandes gratuites"
+
+#. translators: directory path
+#: includes/documents/class-wcpdf-invoice.php:199
+#: includes/documents/class-wcpdf-invoice.php:568
+msgid "It looks like the temp folder (<code>%s</code>) is not writable, check the permissions for this folder! Without having write access to this folder, the plugin will not be able to email invoices."
+msgstr "Le dossier temporaire (<code>%s</code>) ne semble pas modifiable, vérifiez vos permissions pour ce dossier ! Sans l’autorisation d’écriture dans ce dossier, l’extension ne pourra pas envoyer les factures par e-mail."
+
+#: includes/settings/class-wcpdf-settings-general.php:64
+msgid "Open the PDF in a new browser tab/window"
+msgstr "Ouvrir le PDF dans un nouvel onglet/une nouvelle fenêtre du navigateur."
+
+#: includes/settings/class-wcpdf-settings-general.php:63
+msgid "Download the PDF"
+msgstr "Télécharger le PDF"
+
+#: includes/settings/class-wcpdf-settings-general.php:56
+msgid "How do you want to view the PDF?"
+msgstr "Comment voulez-vous voir le PDF ?"
+
+#: includes/settings/class-wcpdf-settings-general.php:50
+#: includes/settings/class-wcpdf-settings-ubl.php:153
+msgid "General settings"
+msgstr "Paramètres généraux"
+
+#: includes/settings/class-wcpdf-settings-debug.php:914
+#: includes/views/advanced-status.php:325
+msgid "Status"
+msgstr "État"
+
+#: includes/class-wcpdf-settings.php:180
+#: includes/settings/class-wcpdf-settings-debug.php:653
+msgid "General"
+msgstr "Général"
+
+#: includes/class-wcpdf-assets.php:121 includes/class-wcpdf-settings.php:115
+#: includes/settings/class-wcpdf-settings-debug.php:913
+msgid "Settings"
+msgstr "Réglages"
+
+#: includes/class-wcpdf-settings.php:102 includes/class-wcpdf-settings.php:103
+msgid "PDF Invoices"
+msgstr "Factures PDF"
+
+#: includes/documents/class-wcpdf-packing-slip.php:42
+msgid "packing-slip"
+msgid_plural "packing-slips"
+msgstr[0] "bon-de-livraison"
+msgstr[1] "bons-de-livraison"
+
+#. translators: document type
+#: includes/documents/class-wcpdf-invoice.php:95
+#: includes/documents/class-wcpdf-invoice.php:353
+#: includes/documents/class-wcpdf-invoice.php:362
+#: includes/documents/class-wcpdf-invoice.php:370
+#: includes/documents/class-wcpdf-invoice.php:374
+msgid "invoice"
+msgid_plural "invoices"
+msgstr[0] "facture"
+msgstr[1] "factures"
+
+#: includes/class-wcpdf-main.php:428
+msgid "Some of the export parameters are missing."
+msgstr "Certains paramètres d’exportation sont manquants."
+
+#: includes/class-wcpdf-main.php:519 includes/class-wcpdf-settings.php:239
+#: includes/class-wcpdf-settings.php:387
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n’avez pas les permissions nécessaires pour accéder à cette page."

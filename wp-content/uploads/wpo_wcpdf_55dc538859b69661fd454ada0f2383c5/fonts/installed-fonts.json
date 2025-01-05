@@ -1,0 +1,26 @@
+{
+    "open sans": {
+        "normal": "\/Applications\/XAMPP\/xamppfiles\/htdocs\/wordpress\/wp-content\/uploads\/wpo_wcpdf_55dc538859b69661fd454ada0f2383c5\/fonts\/OpenSans-Normal",
+        "bold": "\/Applications\/XAMPP\/xamppfiles\/htdocs\/wordpress\/wp-content\/uploads\/wpo_wcpdf_55dc538859b69661fd454ada0f2383c5\/fonts\/OpenSans-Bold",
+        "italic": "\/Applications\/XAMPP\/xamppfiles\/htdocs\/wordpress\/wp-content\/uploads\/wpo_wcpdf_55dc538859b69661fd454ada0f2383c5\/fonts\/OpenSans-Italic",
+        "bold_italic": "\/Applications\/XAMPP\/xamppfiles\/htdocs\/wordpress\/wp-content\/uploads\/wpo_wcpdf_55dc538859b69661fd454ada0f2383c5\/fonts\/OpenSans-BoldItalic"
+    },
+    "segoe": {
+        "normal": "\/Applications\/XAMPP\/xamppfiles\/htdocs\/wordpress\/wp-content\/uploads\/wpo_wcpdf_55dc538859b69661fd454ada0f2383c5\/fonts\/Segoe-Normal",
+        "bold": "\/Applications\/XAMPP\/xamppfiles\/htdocs\/wordpress\/wp-content\/uploads\/wpo_wcpdf_55dc538859b69661fd454ada0f2383c5\/fonts\/Segoe-Bold",
+        "italic": "\/Applications\/XAMPP\/xamppfiles\/htdocs\/wordpress\/wp-content\/uploads\/wpo_wcpdf_55dc538859b69661fd454ada0f2383c5\/fonts\/Segoe-Italic",
+        "bold_italic": "\/Applications\/XAMPP\/xamppfiles\/htdocs\/wordpress\/wp-content\/uploads\/wpo_wcpdf_55dc538859b69661fd454ada0f2383c5\/fonts\/Segoe-BoldItalic"
+    },
+    "roboto slab": {
+        "normal": "\/Applications\/XAMPP\/xamppfiles\/htdocs\/wordpress\/wp-content\/uploads\/wpo_wcpdf_55dc538859b69661fd454ada0f2383c5\/fonts\/RobotoSlab-Normal",
+        "bold": "\/Applications\/XAMPP\/xamppfiles\/htdocs\/wordpress\/wp-content\/uploads\/wpo_wcpdf_55dc538859b69661fd454ada0f2383c5\/fonts\/RobotoSlab-Bold",
+        "italic": "\/Applications\/XAMPP\/xamppfiles\/htdocs\/wordpress\/wp-content\/uploads\/wpo_wcpdf_55dc538859b69661fd454ada0f2383c5\/fonts\/RobotoSlab-Italic",
+        "bold_italic": "\/Applications\/XAMPP\/xamppfiles\/htdocs\/wordpress\/wp-content\/uploads\/wpo_wcpdf_55dc538859b69661fd454ada0f2383c5\/fonts\/RobotoSlab-BoldItalic"
+    },
+    "currencies": {
+        "normal": "\/Applications\/XAMPP\/xamppfiles\/htdocs\/wordpress\/wp-content\/uploads\/wpo_wcpdf_55dc538859b69661fd454ada0f2383c5\/fonts\/currencies",
+        "bold": "\/Applications\/XAMPP\/xamppfiles\/htdocs\/wordpress\/wp-content\/uploads\/wpo_wcpdf_55dc538859b69661fd454ada0f2383c5\/fonts\/currencies",
+        "italic": "\/Applications\/XAMPP\/xamppfiles\/htdocs\/wordpress\/wp-content\/uploads\/wpo_wcpdf_55dc538859b69661fd454ada0f2383c5\/fonts\/currencies",
+        "bold_italic": "\/Applications\/XAMPP\/xamppfiles\/htdocs\/wordpress\/wp-content\/uploads\/wpo_wcpdf_55dc538859b69661fd454ada0f2383c5\/fonts\/currencies"
+    }
+}

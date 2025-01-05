@@ -1,0 +1,32 @@
+# Translation of Plugins - Crisp &#8211; Live Chat and Chatbot - Development (trunk) in French (France)
+# This file is distributed under the same license as the Plugins - Crisp &#8211; Live Chat and Chatbot - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-07-05 07:42:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Crisp &#8211; Live Chat and Chatbot - Development (trunk)\n"
+
+#: crisp.php:39 crisp.php:40
+msgid "Crisp Settings"
+msgstr "Réglages de Crisp"
+
+#. Author URI of the plugin
+#: crisp.php
+msgid "https://crisp.chat"
+msgstr "https://crisp.chat/fr/"
+
+#. Plugin URI of the plugin
+#: crisp.php
+msgid "http://wordpress.org/plugins/crisp/"
+msgstr "https://fr.wordpress.org/plugins/crisp/"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: crisp.php
+msgid "Crisp"
+msgstr "Crisp"

@@ -1,0 +1,1286 @@
+# Translation of Plugins - Popup Builder by OptinMonster &#8211; WordPress Popups for Optins, Email Newsletters and Lead Generation - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Popup Builder by OptinMonster &#8211; WordPress Popups for Optins, Email Newsletters and Lead Generation - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-05-14 06:42:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Popup Builder by OptinMonster &#8211; WordPress Popups for Optins, Email Newsletters and Lead Generation - Stable (latest release)\n"
+
+#: OMAPI/Plugins.php:368
+msgid "Connect your WordPress plugins, sites and apps together with powerful automations. Save time and money with the #1 automation plugin for WordPress!"
+msgstr "Connecter vos extensions WordPress, vos sites et vos applications avec de puissants automatismes. Gagner du temps et de l’argent avec l’extension d’automatisation #1 pour WordPress !"
+
+#: OMAPI/Blocks.php:211
+msgid "Create New Popup Campaign"
+msgstr "Créer une nouvelle campagne de fenêtres surgissantes"
+
+#: OMAPI/Menu.php:181
+msgid "Marketing Education"
+msgstr "Enseignement du marketing"
+
+#: OMAPI/MemberPress/ProductEducation.php:158
+msgctxt "benefits of using OptinMonster with MemberPress"
+msgid "And tons more!"
+msgstr "Et bien d’autres encore !"
+
+#: OMAPI/MemberPress/ProductEducation.php:157
+msgctxt "benefits of using OptinMonster with MemberPress"
+msgid "...on Group pages, Membership pages, Courses, Lessons, and Quizzes"
+msgstr "...sur les pages des groupes, les pages des adhésions, les cours, les leçons et les quiz"
+
+#: OMAPI/MemberPress/ProductEducation.php:156
+msgctxt "benefits of using OptinMonster with MemberPress"
+msgid "...on MemberPress pages such as Register, Checkout, and Thank You."
+msgstr "...sur les pages de MemberPress telles que S’inscrire, Commande et Remercier."
+
+#: OMAPI/MemberPress/ProductEducation.php:155
+msgctxt "benefits of using OptinMonster with MemberPress"
+msgid "...for active members of specific memberships or groups."
+msgstr "...pour les membres actifs de certaines adhésions ou de certains groupes."
+
+#: OMAPI/MemberPress/ProductEducation.php:151
+msgid "Show Popups, Floating Bars, and More to Members and Visitors with OptinMonster"
+msgstr "Afficher les fenêtres surgissantes, les barres flottantes et bien plus encore pour les membres et les visiteurs avec OptinMonster"
+
+#: OMAPI/MemberPress/ProductEducation.php:111
+msgid "Create a Targeted Offer"
+msgstr "Créer une offre ciblée"
+
+#: OMAPI/MemberPress/ProductEducation.php:102
+msgid "Create a Fullscreen"
+msgstr "Créer un plein écran"
+
+#: OMAPI/MemberPress/ProductEducation.php:101
+msgid "Create a Slide-in"
+msgstr "Créer un Slide-in"
+
+#: OMAPI/MemberPress/ProductEducation.php:100
+msgid "Create a Floating Bar"
+msgstr "Créer une barre flottante"
+
+#: OMAPI/MemberPress/ProductEducation.php:96
+msgid "Explore Templates"
+msgstr "Explorer les modèles"
+
+#: OMAPI/MemberPress/ProductEducation.php:79
+#: OMAPI/MemberPress/ProductEducation.php:99
+msgid "Create a Popup"
+msgstr "Créer une fenêtre surgissante"
+
+#: OMAPI/EasyDigitalDownloads/RestApi.php:233
+msgid "%s -"
+msgstr "%s -"
+
+#: OMAPI/EasyDigitalDownloads/RestApi.php:228
+msgid "token"
+msgstr "jeton"
+
+#: OMAPI/Pages.php:128
+msgid "Playbooks"
+msgstr "Playbooks"
+
+#: OMAPI/Pages.php:296
+msgid "Green Monday!"
+msgstr "Green Monday !"
+
+#: OMAPI/Pages.php:260
+msgid "Black Friday!"
+msgstr "Black Friday !"
+
+#: OMAPI/Pages.php:259
+msgid "Cyber Monday!"
+msgstr "Cyber Monday !"
+
+#: views/seedprod-settings-page.php:33
+msgid "Instantly install SeedProd from the WordPress.org plugin repository."
+msgstr "Installez instantanément SeedProd depuis le dépôt d’extensions de WordPress.org."
+
+#: views/seedprod-settings-page.php:32
+msgid "Install and Activate SeedProd - FREE"
+msgstr "Installer et activer SeedProd - GRATUIT"
+
+#: views/seedprod-settings-page.php:29
+msgid "SeedProd Demo Image"
+msgstr "Image de démonstration de SeedProd"
+
+#: views/seedprod-settings-page.php:21
+msgid "Create Sales, Opt-In, Webinar, Thank You, <br/>Coming Soon pages &amp; more..."
+msgstr "Créer des ventes, accord, Webinar, Merci, <br/>pages \"Bientôt\" et plus encore..."
+
+#: views/seedprod-settings-page.php:15
+msgid "Free Blocks and 80+ Pro Blocks"
+msgstr "Blocs gratuits et 80+ blocs professionnels"
+
+#: views/seedprod-settings-page.php:12
+msgid "Free Templates and 200+ Pro Templates"
+msgstr "Modèles gratuits et 200+ modèles professionnels"
+
+#: views/seedprod-settings-page.php:9
+msgid "Create Unlimited Landing Pages"
+msgstr "Créer un nombre illimité de pages d’atterrissage"
+
+#: views/seedprod-settings-page.php:4
+msgid "Seedprod Allows You to Create High-Converting Landing Pages in Minutes Instead of Days"
+msgstr "Seedprod vous autorise à créer des des pages d’atterrissage à fort taux de conversion en quelques minutes au lieu de quelques jours."
+
+#: views/seedprod-settings-page.php:3
+msgid "FREE Drag & Drop Landing Page Builder for WordPress"
+msgstr "Constructeur de pages d’atterrissage par glisser-déposer gratuit pour WordPress"
+
+#: views/install-plugin-form.php:31
+msgid "Installing..."
+msgstr "Installation en cours..."
+
+#: views/install-plugin-form.php:27
+msgid "Activating..."
+msgstr "Activation en cours…"
+
+#: OMAPI/Wordfence.php:140
+msgid "Success! Your Wordfence Firewall rules have been optimized to work with OptinMonster."
+msgstr "Succès ! Vos règles de Wordfence Firewall ont été optimisées pour fonctionner avec OptinMonster."
+
+#: OMAPI/Promos/TrustPulse.php:120
+msgid "Install & Activate the TrustPulse Plugin"
+msgstr "Installer et activer l’extension TrustPulse"
+
+#: OMAPI/Promos/TrustPulse.php:119
+msgid "Activate the TrustPulse Plugin"
+msgstr "Activer l’extension TrustPulse"
+
+#: OMAPI/Promos/SeedProd.php:82 OMAPI/Promos/SeedProd.php:83
+msgid "Start Creating Landing Pages"
+msgstr "Commencer à créer des pages d’atterrissage"
+
+#: OMAPI/Promos/SeedProd.php:45
+msgid "SeedProd"
+msgstr "SeedProd"
+
+#: OMAPI/Promos/SeedProd.php:46
+msgid "Landing Pages"
+msgstr "Pages d’atterrissage"
+
+#: OMAPI/Wordfence.php:115
+msgid "Your site is using Wordfence Firewall rules which will prevent OptinMonster from working correctly. "
+msgstr "Votre site utilise les règles du pare-feu Wordfence, ce qui empêche OptinMonster de fonctionner correctement. "
+
+#: OMAPI/Wordfence.php:118
+msgid "Fix this for me"
+msgstr "Corriger cela pour moi"
+
+#. translators: %s - Error message found while disconnecting to OptinMonster.
+#: OMAPI/WPForms/Save.php:99
+msgid "WPForms could not be disconnected from OptinMonster. The OptinMonster API returned with the following response: %s"
+msgstr "WPForms a échoué à se déconnecter d’OptinMonster. L’API OptinMonster a renvoyé la réponse suivante : %s"
+
+#. translators: %s - Error message found while connecting to OptinMonster.
+#: OMAPI/WPForms/Save.php:97
+msgid "WPForms could not be connected to OptinMonster. The OptinMonster API returned with the following response: %s"
+msgstr "WPForms a échoué à se connecter à OptinMonster. L’API OptinMonster a renvoyé la réponse suivante : %s"
+
+#: OMAPI/EasyDigitalDownloads/Save.php:93
+msgid "An error happened while generating the keys for EDD user. Try again."
+msgstr "Une erreur s’est produite lors de la génération des clés pour l’utilisateur EDD. Réessayez."
+
+#: OMAPI/EasyDigitalDownloads/Save.php:74
+msgid "You don't have the required permissions to retrieve or generate API Keys for EDD."
+msgstr "Vous n’avez pas les droits nécessaires pour récupérer ou générer des clés API pour EDD."
+
+#: OMAPI/EasyDigitalDownloads/RestApi.php:166
+msgid "Token is missing!"
+msgstr "Le jeton est manquant !"
+
+#: OMAPI/EasyDigitalDownloads/RestApi.php:160
+msgid "Public Key is missing!"
+msgstr "La clé publique est manquante !"
+
+#: OMAPI/EasyDigitalDownloads.php:254
+msgid "EDD could not be disconnected to OptinMonster. The OptinMonster API returned with the following response: "
+msgstr "EDD a échoué à se déconnecter d’OptinMonster. L’API OptinMonster a renvoyé la réponse suivante : "
+
+#: OMAPI/EasyDigitalDownloads.php:219
+msgid "EDD could not be connected to OptinMonster. The OptinMonster API returned with the following response: "
+msgstr "EDD a échoué à se connecter à OptinMonster. L’API OptinMonster a renvoyé la réponse suivante : "
+
+#: OMAPI/EasyDigitalDownloads.php:193
+msgid "The EDD key or token appears to be invalid. Try again."
+msgstr "La clé ou le jeton EDD semble être invalide. Réessayer."
+
+#: OMAPI/RestApi.php:1422
+msgid "Sync succeeded!"
+msgstr "Synchronisation réussie !"
+
+#: OMAPI/RestApi.php:1416
+msgid "Sync failed!"
+msgstr "Synchronisation échouée !"
+
+#. Author of the plugin
+#: optin-monster-wp-api.php
+msgid "OptinMonster Popup Builder Team"
+msgstr "L’équipe du constructeur de fenêtres surgissantes d’OptinMonster"
+
+#: OMAPI/Menu.php:189
+msgid "Popup Builder"
+msgstr "Constructeur de fenêtres surgissantes"
+
+#: assets/js/block.json
+msgctxt "block keyword"
+msgid "Conversion"
+msgstr "Conversion"
+
+#: assets/js/block.json
+msgctxt "block keyword"
+msgid "Email"
+msgstr "E-mail"
+
+#: assets/js/block.json
+msgctxt "block keyword"
+msgid "Campaign"
+msgstr "Campagne"
+
+#: assets/js/block.json
+msgctxt "block keyword"
+msgid "Form"
+msgstr "Formulaire"
+
+#: assets/js/block.json
+msgctxt "block keyword"
+msgid "Popup"
+msgstr "Fenêtre surgissante"
+
+#: assets/js/block.json
+msgctxt "block description"
+msgid "Select and display one of your OptinMonster inline campaigns."
+msgstr "Sélectionner et afficher l’une de vos campagnes inline OptinMonster."
+
+#: assets/js/block.json
+msgctxt "block title"
+msgid "OptinMonster"
+msgstr "OptinMonster"
+
+#. translators: %s - OptinMonster Templates page.
+#: views/monsterlink-campaign-shortcode-modal.php:8
+msgid "Unlock access to the OptinMonster click-to-load feature called <a href=\"%s\" target=\"_blank\" rel=\"noopener\">MonsterLinks</a> by upgrading your subscription."
+msgstr "Débloquez l’accès à la fonctionnalité click-to-load d’OptinMonster appelée <a href=\"%s\" target=\"_blank\" rel=\"noopener\">MonsterLinks</a> en mettant à niveau votre abonnement."
+
+#: OMAPI/ClassicEditor.php:117
+msgid "Or link to a popup campaign"
+msgstr "Ou lier à une campagne de fenêtres surgissantes"
+
+#: OMAPI/Blocks.php:237 views/shortcode-modal.php:28
+msgid "Upgrade Now"
+msgstr "Mettre à niveau maintenant"
+
+#: OMAPI/Blocks.php:236
+msgid "Unlock access to the OptinMonster click-to-load feature called MonsterLinks by upgrading your subscription."
+msgstr "Débloquer l’accès à la fonctionnalité de click-to-load d’OptinMonster appelée MonsterLinks en mettant à niveau votre abonnement."
+
+#: OMAPI/RestApi.php:1062
+msgid "Invalid token!"
+msgstr "Jeton invalide !"
+
+#: OMAPI/RestApi.php:1057
+msgid "Required Credentials Missing!"
+msgstr "L’Info de connexion nécessaire est manquante !"
+
+#: OMAPI/RestApi.php:476
+msgid "Not Modified"
+msgstr "Pas modifié"
+
+#: OMAPI/Pages.php:140
+msgid "Integrations"
+msgstr "Intégrations"
+
+#: OMAPI/WooCommerce.php:514
+msgid "Please create a Free Account or Connect an Existing Account to use Product Popups."
+msgstr "Veuillez créer un compte gratuit ou connecter un compte existant pour utiliser les fenêtres surgissantes des produits."
+
+#: OMAPI/WooCommerce.php:499
+msgid "Please create a Free Account or Connect an Existing Account to promote coupons."
+msgstr "Veuillez créer un compte gratuit ou connecter un compte existant pour promouvoir des codes promo."
+
+#: OMAPI/Blocks.php:235
+msgid "Remove Campaign Link"
+msgstr "Retirer le lien de la campagne"
+
+#: OMAPI/Blocks.php:234
+msgid "Open an OptinMonster Popup"
+msgstr "Ouvrir une fenêtre surgissante d’OptinMonster"
+
+#: OMAPI/Blocks.php:233
+msgid "Update Selected OptinMonster Campaign"
+msgstr "Mettre à jour la campagne OptinMonster sélectionnée"
+
+#: OMAPI/Blocks.php:232
+msgid "You don’t have any campaigns created yet."
+msgstr "Vous n’avez pas encore créé de campagnes."
+
+#: OMAPI/Blocks.php:231 OMAPI/WooCommerce.php:532
+msgid "You Have Not Connected with OptinMonster"
+msgstr "Vous n’êtes pas connecté avec OptinMonster"
+
+#: OMAPI/Blocks.php:230
+msgid "View All Campaigns"
+msgstr "Voir toutes les campagnes"
+
+#: OMAPI/WooCommerce.php:592
+msgid "Learn more"
+msgstr "En savoir plus"
+
+#: OMAPI/WooCommerce.php:585
+msgid "Create a campaign"
+msgstr "Créer une campagne"
+
+#: OMAPI/WooCommerce.php:577
+msgid "Grow your store revenue with OptinMonster"
+msgstr "Augmentez les revenus de votre boutique avec OptinMonster"
+
+#: OMAPI/WooCommerce.php:483
+msgid "Product Popups"
+msgstr "Fenêtres surgissantes de produits"
+
+#: OMAPI/WooCommerce.php:477
+msgid "Promote this coupon"
+msgstr "Promouvoir ce code promo"
+
+#: OMAPI/WooCommerce.php:578
+msgid "Create high-converting OptinMonster campaigns to promote product sales, reduce cart abandonment and incentivize purchases with time-sensitive coupon offers."
+msgstr "Créez des campagnes OptinMonster hautement convertibles pour promouvoir les ventes de produits, réduire les abandons de panier et inciter à l’achat avec des codes promo à durée limitée."
+
+#: OMAPI/Blocks.php:226
+msgid "Create Your First Popup"
+msgstr "Créer votre première fenêtre surgissante"
+
+#: OMAPI/Blocks.php:213
+msgid "OptinMonster Block Settings"
+msgstr "Réglages de blocage d’OptinMonster"
+
+#: OMAPI/Blocks.php:229 OMAPI/ClassicEditor.php:225
+msgid "Disable all OptinMonster campaigns."
+msgstr "Désactiver toutes les campagnes OptinMonster."
+
+#: OMAPI/ClassicEditor.php:100 OMAPI/ClassicEditor.php:103
+msgid "Add OptinMonster"
+msgstr "Ajouter OptinMonster"
+
+#. translators: %s - Current site domain, Link to registered OptinMonster site,
+#. name of registered OptinMonster site, domain for registered OptinMonster
+#. site
+#: OMAPI/Sites.php:293
+msgid "This domain (%1$s) does not match your registered site — <a href=\"%2$s\" target=\"_blank\" rel=\"noopener\">%3$s (%4$s)</a>"
+msgstr "Ce nom de domaine (%1$s) ne correspond pas à votre site inscrit — <a href=\"%2$s\" target=\"_blank\" rel=\"noopener\">%3$s (%4$s)</a>"
+
+#: OMAPI/Pages.php:156
+msgid "Personalization"
+msgstr "Personnalisation"
+
+#. translators: %s - The name of the post-type being edited.
+#: views/disable-warning-css.php:20
+msgid "Campaigns disabled for this %s"
+msgstr "Campagnes désactivées pour ce %s"
+
+#. translators: %s - The name of the post-type being edited.
+#: views/disable-warning-css.php:14
+msgid "OptinMonster campaigns have been disabled for this %s"
+msgstr "Les campagnes OptinMonster ont été désactivées pour ce %s"
+
+#: views/shortcode-modal.php:30
+msgid "Add Campaign"
+msgstr "Ajouter une campagne"
+
+#: views/shortcode-modal.php:26
+msgid "Link Campaign"
+msgstr "Lier la campagne"
+
+#: views/shortcode-modal.php:21
+msgid "Cancel"
+msgstr "Annuler"
+
+#. translators: %s - OptinMonster documentation URL.
+#: views/monsterlink-campaign-shortcode-modal.php:37
+msgid "Or <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">create a new Click to Load Campaign</a>."
+msgstr "Ou <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">créer une nouvelle campagne Click to Load</a>."
+
+#: views/monsterlink-campaign-shortcode-modal.php:28
+msgid "Select a Click to Load Campaign to link."
+msgstr "Sélectionnez une campagne Click to Load à lier."
+
+#. translators: %s - OptinMonster Templates page.
+#: views/inline-campaign-shortcode-modal.php:7
+msgid "Whoops, you haven't created an inline campaign yet. Want to <a href=\"%s\">give it a go</a>?"
+msgstr "Oups, vous n’avez pas encore créé une campagne inline. <a href=\"%s\">Vous voulez l’essayer </a>?"
+
+#. translators: %s - OptinMonster Templates page.
+#: views/monsterlink-campaign-shortcode-modal.php:54
+msgid "Whoops, you haven't created a popup campaign yet. Want to <a href=\"%s\">give it a go</a>?"
+msgstr "Oups, vous n’avez pas encore créé une campagne surgissante. <a href=\"%s\">Vous voulez l’essayer </a>?"
+
+#. translators: %s - OptinMonster documentation URL.
+#: views/inline-campaign-shortcode-modal.php:30
+msgid "Or <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">create a new inline campaign</a> to embed in this post"
+msgstr "Ou <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">créer une nouvelle campagne inline</a> pour l’embraquer dans ce publication"
+
+#: OMAPI/Elementor/Widget.php:506
+msgid "Loading Campaign..."
+msgstr "Chargement de la campagne..."
+
+#: OMAPI/Elementor/Widget.php:481
+msgid "Create a New Popup Campaign"
+msgstr "Créez une nouvelle campagne de fenêtre surgissante"
+
+#: OMAPI/Elementor/Widget.php:478
+msgid "Create a New Inline Campaign"
+msgstr "Créer une nouvelle campagne Inline"
+
+#: OMAPI/Elementor/Widget.php:473
+msgid "Select and display your email marketing form or smart call-to-action campaigns from OptinMonster."
+msgstr "Sélectionnez et affichez votre formulaire de marketing par e-mail ou vos campagnes call-to-action intelligentes d’OptinMonster."
+
+#: OMAPI/Elementor/Widget.php:462
+msgid "Need some help? Check out our comprehensive guide."
+msgstr "Besoin d’aide ? Consultez notre guide complet."
+
+#: OMAPI/Elementor/Widget.php:407
+msgid "OptinMonster Campaign Error:"
+msgstr "Erreur dans la campagne OptinMonster :"
+
+#. translators: %s - OptinMonster edit link.
+#: OMAPI/Elementor/Widget.php:345
+msgid "Need to make changes? <a href=\"%1s\" class=\"skip-om-trigger\" target=\"_blank\" rel=\"noopener\">Edit the selected campaign.</a>"
+msgstr "Vous souhaitez apporter des modifications ? <a href=\"%1s\" class=\"skip-om-trigger\" target=\"_blank\" rel=\"noopener\">Modifier la campagne sélectionnée.</a>"
+
+#: OMAPI/Elementor/Widget.php:329
+msgid "No"
+msgstr "Non"
+
+#: OMAPI/Elementor/Widget.php:328
+msgid "Yes"
+msgstr "Oui"
+
+#: OMAPI/Blocks.php:212 OMAPI/Elementor/Widget.php:295
+#: OMAPI/Elementor/Widget.php:371
+msgid "Create New Inline Campaign"
+msgstr "Créer une nouvelle campagne Inline"
+
+#: OMAPI/Elementor/Widget.php:233 OMAPI/Elementor/Widget.php:433
+msgid "Please create a Free Account or Connect an Existing Account"
+msgstr "Veuillez créer un compte gratuit ou vous connecter à un compte existant."
+
+#: OMAPI/Elementor/Widget.php:231 OMAPI/Elementor/Widget.php:431
+msgid "You Have Not Connected to OptinMonster"
+msgstr "Vous n’êtes pas connecté à OptinMonster"
+
+#: views/inline-campaign-shortcode-modal.php:21
+msgid "Select and display your email marketing form or smart call-to-action campaign"
+msgstr "Sélectionnez et affichez votre formulaire de marketing par e-mail ou votre campagne call-to-action intelligente."
+
+#: views/shortcode-modal.php:7
+msgid "Close"
+msgstr "Fermer"
+
+#: views/shortcode-modal.php:6
+msgid "Insert/Edit Link to an OptinMonster Campaign"
+msgstr "Insérer/modifier le lien vers une campagne OptinMonster"
+
+#: views/shortcode-modal.php:5
+msgid "Insert OptinMonster Campaign"
+msgstr "Insérer la campagne OptinMonster"
+
+#: views/woocommerce-marketing-card.php:20
+msgid "Grow your business with OptinMonster! Use this plugin to help sell more of your product."
+msgstr "Développez votre activité avec OptinMonster ! Utilisez cette extension pour vous aider à vendre plus de produits."
+
+#: views/product-metabox.php:195 views/product-metabox.php:197
+msgid "How Nashville Pedal Tavern Lifted Sales $2,300 In Just 14 Days Selling Gift Certificates"
+msgstr "Comment Nashville Pedal Tavern a augmenté ses ventes de 2 300 $ en seulement 14 jours en vendant des certificats cadeaux"
+
+#: views/product-metabox.php:189 views/product-metabox.php:191
+msgid "How to Create a WooCommerce Popup to Cross-Sell (Step-by-Step)"
+msgstr "Comment créer une fenêtre surgissante WooCommerce pour le cross-sell (étape par étape)"
+
+#: views/product-metabox.php:166
+msgid "Increase your average cart size and order value by promoting related products to your shoppers."
+msgstr "Augmentez la taille moyenne de votre panier et le montant de votre commande en proposant des produits similaires à vos clients."
+
+#: views/product-metabox.php:137 views/product-metabox.php:139
+msgid "How Wild Water Adventures Recovered $61,000 in Sales Using OptinMonster"
+msgstr "Comment Wild Water Adventures a récupéré 61 000 $ de ventes grâce à OptinMonster"
+
+#: views/product-metabox.php:131 views/product-metabox.php:133
+msgid "How Shockbyte More Than Doubled Their Sales Conversion Rate With Exit Intent®"
+msgstr "Comment Shockbyte a plus que doublé son taux de conversion des ventes grâce à Exit Intent®"
+
+#: views/product-metabox.php:108
+msgid "Grow your store revenue by getting more people to complete your checkout funnel with an OptinMonster Exit Intent® campaign."
+msgstr "Augmentez le chiffre d’affaires de votre boutique en encourageant un plus grand nombre de personnes à valider leur commande grâce à la campagne Exit Intent® d’OptinMonster."
+
+#: views/product-metabox.php:87 views/product-metabox.php:145
+#: views/product-metabox.php:203
+msgid "See more case studies"
+msgstr "Voir plus d’études de cas"
+
+#: views/product-metabox.php:79 views/product-metabox.php:81
+msgid "How Kennedy Blue Increased Sales 50% by Overcoming Sales Objections with Popups"
+msgstr "Comment Kennedy Blue a augmenté ses ventes de 50 % en surmontant les obstacles à la vente grâce aux fenêtres surgissantes"
+
+#: views/product-metabox.php:73 views/product-metabox.php:75
+msgid "How Urban Southern Increased Sales 400% Using OptinMonster"
+msgstr "Comment Urban Southern a augmenté ses ventes de 400 % en utilisant OptinMonster"
+
+#: views/product-metabox.php:69 views/product-metabox.php:127
+#: views/product-metabox.php:185
+msgid "Learn how other stores just like yours found success with OptinMonster!"
+msgstr "Découvrez comment d’autres boutiques comme la vôtre ont rencontré le succès avec OptinMonster !"
+
+#: views/product-metabox.php:68 views/product-metabox.php:126
+#: views/product-metabox.php:184
+msgid "See Case Studies"
+msgstr "Voir des études de cas"
+
+#: views/product-metabox.php:50
+msgid "Boost your store sales with one of OptinMonster's high-converting popup campaigns."
+msgstr "Boostez les ventes de votre boutique avec l’une des campagnes de fenêtres surgissantes d’OptinMonster à fort taux de conversion."
+
+#: views/product-metabox.php:27 views/product-metabox.php:159
+msgid "Cross Sell Popup"
+msgstr "Fenêtre surgissante de vente croisée"
+
+#: views/coupon-metabox.php:122
+msgid "Create a Gamified Campaign"
+msgstr "Créer une campagne gamifiée"
+
+#: views/coupon-metabox.php:115
+msgid "View the Tutorial"
+msgstr "Voir le tutoriel"
+
+#: views/coupon-metabox.php:114
+msgid "Learn how to create a gamified coupon wheel popup yourself with our step-by-step tutorial."
+msgstr "Apprenez à créer votre propre fenêtre surgissante de roue de codes promo gamifiée grâce à notre tutoriel étape par étape."
+
+#: views/coupon-metabox.php:107
+msgid "Gamified coupon wheels work! Create one for your store and watch sales grow!"
+msgstr "Les roues de codes promo gamifiées marchent ! Créez-en une pour votre boutique et voyez vos ventes augmenter !"
+
+#: views/coupon-metabox.php:90
+msgid "Create a Popup Campaign"
+msgstr "Créer une campagne de fenêtres surgissantes"
+
+#: views/coupon-metabox.php:82
+msgid "See how this store owner increased revenue by 300% using an OptinMonster coupon popup."
+msgstr "Découvrez comment le propriétaire de cette boutique a augmenté son chiffre d’affaires de 300 % en utilisant une fenêtre surgissante de codes promo d’OptinMonster."
+
+#: views/coupon-metabox.php:75
+msgid "Encourage purchases with a coupon popup!"
+msgstr "Encouragez les achats avec une fenêtre surgissante de codes promo !"
+
+#: views/coupon-metabox.php:59 views/coupon-metabox.php:91
+#: views/coupon-metabox.php:123 views/product-metabox.php:58
+#: views/product-metabox.php:116 views/product-metabox.php:174
+msgid "View Existing Campaigns"
+msgstr "Voir les campagnes existantes"
+
+#: views/coupon-metabox.php:51 views/coupon-metabox.php:83
+msgid "View Case Study"
+msgstr "Voir l’étude de cas"
+
+#: views/coupon-metabox.php:50
+msgid "See how one store owner added $23,700 in 5 months with a coupon promoted by an OptinMonster sticky bar."
+msgstr "Voyez comment le propriétaire d’une boutique a ajouté 23 700 $ en 5 mois grâce à un code promo promu par un  barre épinglée d’OptinMonster."
+
+#: views/coupon-metabox.php:58
+msgid "Create a Sticky Bar Campaign"
+msgstr "Créer une campagne de barre épinglée"
+
+#: views/coupon-metabox.php:43
+msgid "Did you know that creating a sticky bar to promote your coupon can help you increase sales?"
+msgstr "Saviez-vous que la création d’une barre épinglée pour promouvoir vos codes promo peut vous aider à augmenter vos ventes ?"
+
+#: views/coupon-metabox.php:28
+msgid "Gamified Spin to Win"
+msgstr "Spin to win gamifié"
+
+#: OMAPI/Menu.php:216 views/coupon-metabox.php:22
+#: assets/js/Utils/campaigns-block-settings.js:30
+msgid "Popup"
+msgstr "Fenêtre surgissante"
+
+#: views/coupon-metabox.php:16
+msgid "Sticky Bar"
+msgstr "Barre épinglée"
+
+#: views/woocommerce-marketing-card.php:11
+msgid "Increase Your Store Sales Conversion"
+msgstr "Augmenter la conversion des ventes de votre boutique"
+
+#: OMAPI/Elementor/ButtonWidget.php:41
+msgid "Click to Load Popup"
+msgstr "Cliquez pour charger la fenêtre surgissante"
+
+#: OMAPI/Blocks.php:209 OMAPI/ClassicEditor.php:168 OMAPI/ClassicEditor.php:172
+#: OMAPI/Elementor/ButtonWidget.php:35 OMAPI/Elementor/Widget.php:308
+msgid "Select Campaign..."
+msgstr "Sélectionnez une campagne..."
+
+#: views/product-metabox.php:21 views/product-metabox.php:101
+msgid "Reduce Abandonment"
+msgstr "Réduire les abandons"
+
+#: views/product-metabox.php:15 views/product-metabox.php:43
+msgid "Increase Conversions"
+msgstr "Augmenter les conversions"
+
+#: OMAPI/Blocks.php:210
+msgid "Select and display your email marketing call-to-action campaigns from OptinMonster"
+msgstr "Sélectionner et afficher vos campagnes call-to-action de marketing par e-mail à partir d’OptinMonster"
+
+#: OMAPI/Notifications.php:465
+msgid "Connect Your Site"
+msgstr "Connecter votre site"
+
+#: OMAPI/Notifications.php:462
+msgid "You're losing subscribers, leads and sales! Click on the button below to get started with OptinMonster."
+msgstr "Vous perdez des abonnés/abonnées, des prospects et des ventes ! Cliquez sur le bouton ci-dessous pour commencer avec OptinMonster."
+
+#: OMAPI/Notifications.php:461
+msgid "You haven't finished setting up your site."
+msgstr "Vous n’avez pas fini de définir les réglages de votre site."
+
+#: OMAPI/Blocks.php:225
+msgid "Create Your First Inline Campaign"
+msgstr "Créez votre première campagne en ligne"
+
+#: OMAPI/Pages.php:162
+msgid "University"
+msgstr "Université"
+
+#: OMAPI/Notifications.php:566
+msgid "Event notification verification failed."
+msgstr "La vérification de la notification d’évènement a échoué."
+
+#: OMAPI/Notifications.php:531
+msgid "Event notification requires an \"id\" parameter which is a unique string."
+msgstr "La notification d’évènement nécessite un paramètre « ID » qui est une chaîne unique."
+
+#: OMAPI/Notifications.php:517
+msgid "Event notification update requires the \"id\" parameter"
+msgstr "La mise à jour de la notification d’évènement nécessite le paramètre « ID »."
+
+#: OMAPI/Menu.php:155 OMAPI/Menu.php:156 OMAPI/Pages.php:495
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#. translators: If your word count is based on single characters (e.g. East
+#. Asian characters), enter 'characters_excluding_spaces' or
+#. 'characters_including_spaces'. Otherwise, enter 'words'. Do not translate
+#. into your own language.
+#: OMAPI/Inserter.php:196
+msgctxt "Word count type. Do not translate!"
+msgid "words"
+msgstr "words"
+
+#: OMAPI/Pages.php:174
+msgid "Onboarding Wizard"
+msgstr "Assistant d’accueil"
+
+#: OMAPI/Pages.php:134
+msgid "Subscribers"
+msgstr "Abonnés"
+
+#: OMAPI/Pages.php:122
+msgid "Templates"
+msgstr "Modèles"
+
+#: OMAPI/Validate.php:213 OMAPI/Welcome.php:182
+msgid "Learn More"
+msgstr "En savoir plus"
+
+#: OMAPI/Welcome.php:179
+msgid "Instantly grow your email list, get more leads and increase sales with the <strong>#1 most powerful conversion optimization toolkit in the world.</strong>"
+msgstr "Agrandissez instantanément votre liste d’e-mails, obtenez plus de prospects et augmentez vos ventes grâce à la <strong>1ère boîte à outils d’optimisation des conversions la plus puissante au monde.</strong>"
+
+#: OMAPI/RestApi.php:1257
+msgid "Invalid Settings!"
+msgstr "Réglages invalides !"
+
+#: OMAPI/RestApi.php:1171
+msgid "Settings Missing!"
+msgstr "Réglages manquants !"
+
+#: OMAPI/RestApi.php:957 OMAPI/RestApi.php:990 OMAPI/RestApi.php:1022
+#: OMAPI/RestApi.php:1118
+msgid "API Key Missing!"
+msgstr "Clé de l’API manquante !"
+
+#: OMAPI/WooCommerce/RestApi.php:252
+msgid "In order to integrate WooCommerce with the Display Rules in the campaign builder, OptinMonster needs <a href=\"%s\" target=\"_blank\">WooCommerce REST API credentials</a>. OptinMonster only needs Read access permissions to work."
+msgstr "Afin d’intégrer WooCommerce avec les règles d’affichage dans le constructeur de campagnes, OptinMonster a besoin de <a href=\"%s\" target=\"_blank\">WooCommerce info de connexion de l’API REST</a>. OptinMonster a uniquement besoin de droits d’accès en lecture pour fonctionner."
+
+#: OMAPI/WooCommerce/RestApi.php:164
+msgid "Consumer key missing!"
+msgstr "Clé client manquante !"
+
+#: OMAPI/WooCommerce/RestApi.php:169
+msgid "Consumer secret missing!"
+msgstr "Secret client manque !"
+
+#: OMAPI/RestApi.php:918
+msgid "Plugin Id required."
+msgstr "ID d’extension nécessaire."
+
+#: OMAPI/RestApi.php:926
+msgid "Plugin install URL required."
+msgstr "L’URL d’installation d’extension est obligatoire."
+
+#: OMAPI/BaseRestApi.php:263 OMAPI/RestApi.php:913
+msgid "Security token invalid!"
+msgstr "Jeton de sécurité invalide !"
+
+#: OMAPI/BaseRestApi.php:257
+msgid "Missing security token!"
+msgstr "Jeton de sécurité manquant !"
+
+#: OMAPI/RestApi.php:835
+msgid "Could not create event notification!"
+msgstr "La création d’une notification d’événement a échoué !"
+
+#: OMAPI/RestApi.php:833
+msgid "one"
+msgstr "un"
+
+#: OMAPI/RestApi.php:833
+msgid "some"
+msgstr "quelques"
+
+#. translators: %s: "Some" or "one".
+#: OMAPI/RestApi.php:832
+msgid "Could not create %s of the event notifications!"
+msgstr "La création de %s des notifications d’événements a échoué !"
+
+#. translators: %s: the notification id(s).
+#: OMAPI/RestApi.php:794
+msgid "Could not dismiss: %s"
+msgstr "Impossible de ignorer : %s"
+
+#. translators: %s: the campaign post id.
+#: OMAPI/RestApi.php:549
+msgid "Could not find campaign by given ID: %s. Are you sure campaign is associated with this site?"
+msgstr "Impossible de trouver la campagne avec l’ID donné : %s. Confirmez-vous que cette campagne est associée à ce site ?"
+
+#: OMAPI/Plugins.php:468
+msgid "Plugin failed to install!"
+msgstr "L’installation d’extension a échoué !"
+
+#: OMAPI/Plugins.php:462
+msgid "Missing required installer!"
+msgstr "L’installateur nécessaire manque !"
+
+#: OMAPI/Plugins/Plugin.php:126
+msgid "Inactive"
+msgstr "Inactif"
+
+#: OMAPI/Plugins.php:171
+msgid "TrustPulse is the honest marketing platform that leverages and automates the real power of social proof to instantly increase trust, conversions and sales."
+msgstr "TrustPulse est la plateforme de marketing honnête qui exploite et automatise le véritable pouvoir de la preuve sociale pour augmenter instantanément la confiance, les conversions et les ventes."
+
+#: OMAPI/ConstantContact.php:183 OMAPI/Menu.php:305 OMAPI/Validate.php:212
+#: OMAPI/Welcome.php:182
+msgid "Get Started"
+msgstr "Premiers pas"
+
+#: OMAPI/Blocks.php:227
+msgid "Learn how to create your first campaign"
+msgstr "Apprendre à créer sa première campagne"
+
+#: OMAPI/Blocks.php:224
+msgid "Create an inline campaign to display in your posts and pages."
+msgstr "Créez une campagne inline à afficher dans vos publications et pages."
+
+#: OMAPI/Blocks.php:223
+msgid "You don’t have any inline campaigns yet!"
+msgstr "Vous n’avez pas encore de campagnes inline !"
+
+#: OMAPI/Blocks.php:222 views/not-connected-buttons.php:9
+msgid "Connect an Existing Account"
+msgstr "Connecter un compte existant"
+
+#: OMAPI/Blocks.php:221 views/not-connected-buttons.php:8
+msgid "Create a Free Account"
+msgstr "Créer un compte gratuit"
+
+#: OMAPI/Blocks.php:220
+msgid "Please create a free account or connect an existing account to use an OptinMonster block."
+msgstr "Veuillez créer un compte gratuit ou connecter un compte existant pour utiliser un bloc OptinMonster."
+
+#: optin-monster-wp-api.php:1071
+msgid "<strong>Please Note:</strong> Support for PHP 5.5 will be discontinued in 2020. After this, if no further action is taken, OptinMonster functionality will be disabled."
+msgstr "<strong>Remarque :</strong> la prise en charge de PHP 5.5 sera interrompue en 2020. Après cela, si aucune autre mesure n’est prise, les fonctionnalités d’OptinMonster seront désactivées."
+
+#. translators: %1$s - OptinMonster API plugin name; %2$s - optinmonster.com
+#. URL to a related doc.
+#: optin-monster-wp-api.php:1057
+msgid "Your site is running an outdated version of PHP that is no longer supported and may cause issues with the %1$s plugin. <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">Read more</a> for additional information."
+msgstr "Votre site utilise une version obsolète de PHP qui n’est plus prise en charge et qui peut poser des problèmes avec l’extension %1$s. <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">En savoir plus</a> pour plus d’informations."
+
+#: OMAPI/Blocks.php:228
+msgid "An error was encountered"
+msgstr "Une erreur a été rencontrée"
+
+#: OMAPI/Elementor/Widget.php:278
+msgid "No inline campaigns available!"
+msgstr "Aucune campagne inline n’est disponible !"
+
+#: OMAPI/Blocks.php:219
+msgid "Output Settings"
+msgstr "Réglages de sortie"
+
+#. translators: %s - Output Settings (linked).
+#: OMAPI/Blocks.php:218
+msgid "Ensure this campaign follows any conditions you've selected in its %s"
+msgstr "Assurez-vous que cette campagne respecte toutes les conditions que vous avez sélectionnées dans ses %s"
+
+#: OMAPI/Blocks.php:216 OMAPI/Elementor/Widget.php:325
+msgid "Use Output Settings"
+msgstr "Utiliser les réglages de sortie"
+
+#: OMAPI/Blocks.php:214
+msgid "OptinMonster Settings"
+msgstr "Réglages d’OptinMonster"
+
+#: OMAPI/Elementor/Widget.php:313
+msgid "Select Campaign"
+msgstr "Sélectionnez une campagne"
+
+#: OMAPI/Blocks.php:208
+msgid "Select and display one of your OptinMonster inline campaigns."
+msgstr "Sélectionnez et affichez l’une de vos campagnes inline OptinMonster."
+
+#: OMAPI/Elementor/Widget.php:198
+msgid "OptinMonster Campaign"
+msgstr "Campagne OptinMonster"
+
+#. translators: %1$s - Link to account upgrade page, %2$s Link to account page
+#. to purchase additional licenses
+#: OMAPI/Sites.php:254
+msgid "We tried to register your WordPress site with OptinMonster, but You have reached the maximum number of registered sites for your current OptinMonster plan.<br>Additional sites can be added to your account by <a href=\"%1$s\" target=\"_blank\" rel=\"noopener\">upgrading</a> or <a href=\"%2$s\" target=\"_blank\" rel=\"noopener\">purchasing additional site licenses</a>."
+msgstr "Nous avons essayé d’enregistrer votre site WordPress avec OptinMonster, mais vous avez atteint le nombre maximum de sites inscrits pour votre offre actuelle d’OptinMonster. <br>Des sites supplémentaires peuvent être ajoutés à votre compte en <a href=\"%1$s\" target=\"_blank\" rel=\"noopener\">mettant à niveau</a> ou en <a href=\"%2$s\" target=\"_blank\" rel=\"noopener\">achetant des licences de site supplémentaires</a>."
+
+#: OMAPI/Menu.php:302 OMAPI/Pages.php:150
+msgid "Settings"
+msgstr "Réglages"
+
+#: OMAPI/Plugins/Plugin.php:122
+msgid "Not Installed"
+msgstr "Non installé"
+
+#: OMAPI/Plugins/Plugin.php:125
+msgid "Active"
+msgstr "Actif"
+
+#: OMAPI/Pages.php:168
+msgid "About Us"
+msgstr "À propos"
+
+#: OMAPI/RestApi.php:497 OMAPI/RestApi.php:528
+msgid "No campaign ID given."
+msgstr "Aucun ID de campagne n’a été donné."
+
+#: OMAPI/Plugins.php:546
+msgid "Plugin activated."
+msgstr "Extension activée."
+
+#: OMAPI/Plugins.php:491
+msgid "Plugin installed."
+msgstr "Extension installée."
+
+#: OMAPI/Plugins.php:483
+msgid "Plugin installed & activated."
+msgstr "Extension installée et activée."
+
+#: OMAPI/Plugins.php:432 OMAPI/Plugins.php:512
+msgid "Sorry, not allowed!"
+msgstr "Désolé, ce n’est pas autorisé !"
+
+#: OMAPI/Type.php:94
+msgid "Add New"
+msgstr "Ajouter"
+
+#: OMAPI/Widget.php:190
+msgid "Title"
+msgstr "Titre"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: optin-monster-wp-api.php
+msgid "https://optinmonster.com"
+msgstr "https://optinmonster.com"
+
+#: OMAPI/BaseRestApi.php:108
+msgid "Could not verify your API Key."
+msgstr "Impossible de vérifier votre clé de l’API."
+
+#: OMAPI/RestApi.php:383 OMAPI/RestApi.php:475 OMAPI/RestApi.php:505
+#: OMAPI/RestApi.php:617 OMAPI/RestApi.php:1093 OMAPI/RestApi.php:1328
+#: OMAPI/WooCommerce/RestApi.php:213
+msgid "OK"
+msgstr "Accepter"
+
+#: OMAPI/WooCommerce/RestApi.php:261
+msgid "no truncated key found"
+msgstr "aucune clé tronquée trouvée"
+
+#: OMAPI/WooCommerce/RestApi.php:260
+msgid "no description found"
+msgstr "aucune description trouvée"
+
+#: OMAPI/MailPoet.php:65
+msgid "Select your MailPoet list..."
+msgstr "Sélectionner votre liste MailPoet..."
+
+#: OMAPI/Validate.php:202
+msgid "Renew Subscription"
+msgstr "Renouveler l’abonnement"
+
+#: OMAPI/Validate.php:199
+msgid "Contact Support"
+msgstr "Contacter le support"
+
+#: OMAPI/Validate.php:199
+msgid "Contact OptinMonster Support"
+msgstr "Contacter le support d’OptinMonster"
+
+#: OMAPI/Validate.php:194
+msgid "View API Settings"
+msgstr "Voir les réglages de l’API"
+
+#: OMAPI/WooCommerce/Save.php:92
+msgid "OptinMonster API Read-Access (Auto-Generated)"
+msgstr "Accès en lecture à l’API d’OptinMonster (généré automatiquement)"
+
+#: OMAPI/WooCommerce/RestApi.php:244
+msgctxt "the current version of WooCommerce: \"WooCommerce x.y.z\""
+msgid "This site is currently running: "
+msgstr "Ce site est actuellement en ligne "
+
+#: OMAPI/WooCommerce/RestApi.php:243
+msgid "OptinMonster requires WooCommerce %s or above."
+msgstr "OptinMonster nécessite WooCommerce %s ou supérieur."
+
+#: views/product-metabox.php:57 views/product-metabox.php:115
+#: views/product-metabox.php:173 views/woocommerce-marketing-card.php:24
+msgid "Create a Campaign"
+msgstr "Créer une campagne"
+
+#: OMAPI/Pages.php:146 OMAPI/Promos/TrustPulse.php:85
+msgid "TrustPulse"
+msgstr "TrustPulse"
+
+#: OMAPI/WooCommerce.php:323
+msgid "Consumer key is invalid."
+msgstr "La clé client est invalide."
+
+#: OMAPI/WooCommerce.php:287
+msgid "Consumer secret is invalid."
+msgstr "Le secret client est invalide."
+
+#: OMAPI/WooCommerce.php:273
+msgid "Consumer secret is missing."
+msgstr "Le secret client est manquant."
+
+#: OMAPI/WooCommerce.php:267
+msgid "Consumer key is missing."
+msgstr "La clé client est manquant."
+
+#: OMAPI/WooCommerce.php:188
+msgid "The consumer key or consumer secret appears to be invalid. Try again."
+msgstr "La clé ou le secret client est invalide. Réessayer."
+
+#: OMAPI/Widget.php:220
+msgid "Apply Advanced Output Settings?"
+msgstr "Appliquer les réglages de sortie avancés ?"
+
+#: OMAPI/Blocks.php:215 OMAPI/Widget.php:195
+#: assets/js/Utils/campaigns-block-settings.js:32
+msgid "Campaign"
+msgstr "Campagne"
+
+#: OMAPI/Type.php:93
+msgctxt "post type singular name"
+msgid "Campaign"
+msgstr "Campagne"
+
+#: OMAPI/Type.php:92
+msgctxt "post type general name"
+msgid "Campaigns"
+msgstr "Campagnes"
+
+#. Plugin Name of the plugin
+#: optin-monster-wp-api.php OMAPI/Blocks.php:207 OMAPI/Elementor/Widget.php:93
+#: OMAPI/Welcome.php:175 OMAPI/Widget.php:79
+msgid "OptinMonster"
+msgstr "OptinMonster"
+
+#: OMAPI/Menu.php:301 OMAPI/Pages.php:116 OMAPI/Type.php:98 OMAPI/Type.php:104
+msgid "Campaigns"
+msgstr "Campagnes"
+
+#: OMAPI/Type.php:99
+msgid "View Campaign"
+msgstr "Voir la campagne"
+
+#: OMAPI/Type.php:97
+msgid "New Campaign"
+msgstr "Nouvelle campagne"
+
+#: OMAPI/Type.php:96
+msgid "Edit Campaign"
+msgstr "Modifier la campagne"
+
+#: OMAPI/Type.php:95
+msgid "Add New Campaign"
+msgstr "Ajouter une campagne"
+
+#: OMAPI/Type.php:101
+msgid "No Campaigns found"
+msgstr "Aucune campagne trouvée"
+
+#: views/constantcontact.php:247
+msgid "With Constant Contact + OptinMonster, growing your list is easy."
+msgstr "Avec Constant Contact + OptinMonster, il est facile de développer votre liste."
+
+#: views/constantcontact.php:246
+msgid "It doesn&#39;t matter what kind of business you run, what kind of website you have, or what industry you are in - you need to start building your email list today."
+msgstr "Peu importe le type d’entreprise que vous dirigez, le type de site que vous avez ou le secteur dans lequel vous travaillez - vous devez commencer à créer votre liste d’e-mails dès aujourd’hui."
+
+#: views/constantcontact.php:231
+msgid "1. Select a design from our beautiful, high-converting template library."
+msgstr "1. Sélectionner un modèle dans notre superbe bibliothèque de modèles à fort taux de conversion."
+
+#: views/constantcontact.php:227
+msgid "Here&#39;s how it works."
+msgstr "Voici comment ça marche."
+
+#: views/constantcontact.php:226
+msgid "When creating OptinMonster, our goal was to make a conversion optimization tool that was both EASY and POWERFUL."
+msgstr "Lors de la création d’OptinMonster, notre objectif était de créer un outil d’optimisation de la conversion qui soit à la fois FACILE et PUISSANT."
+
+#: views/constantcontact.php:225
+msgid "OptinMonster Makes List Building Easy"
+msgstr "OptinMonster facilite la création de listes"
+
+#: views/constantcontact.php:221 views/constantcontact.php:250
+msgid "Try Constant Contact Today"
+msgstr "Essayez Constant Contact aujourd’hui"
+
+#: views/constantcontact.php:217
+msgid "Get expert marketing and support"
+msgstr "Bénéficier d’un marketing et de supports d’experts"
+
+#: views/constantcontact.php:216
+msgid "Create and send professional email newsletters"
+msgstr "Créer et envoyer des newsletters professionnelles par e-mail"
+
+#: OMAPI/Promos/TrustPulse.php:86
+msgid "Social Proof Widget"
+msgstr "Widget de preuve sociale"
+
+#: OMAPI/ConstantContact.php:112
+msgid "OptinMonster + Constant Contact"
+msgstr "OptinMonster + Constant Contact"
+
+#: OMAPI/Type.php:100
+msgid "Search Campaigns"
+msgstr "Recherche de campagnes"
+
+#: views/constantcontact.php:235
+msgid "2. Drag and drop elements to completely customize the look and feel of your campaign."
+msgstr "2. Glisser-déposer des éléments pour personnaliser entièrement l’aspect et la convivialité de votre campagne."
+
+#: views/constantcontact.php:239
+msgid "3. Connect your Constant Contact email list."
+msgstr "3. Connecter votre liste d’e-mails Constant Contact."
+
+#: views/constantcontact.php:243
+msgid "4. Sync your campaign to your WordPress site, then hit Go Live."
+msgstr "4. Synchroniser votre campagne avec votre site WordPress, puis cliquez sur Mise en ligne."
+
+#: OMAPI/WooCommerce/RestApi.php:246
+msgid "Please upgrade to the latest version of WooCommerce to enjoy deeper integration with OptinMonster."
+msgstr "Veuillez mettre à niveau vers la dernière version de WooCommerce pour bénéficier d’une intégration plus poussée avec OptinMonster."
+
+#: views/constantcontact.php:215
+msgid "Seamlessly add new contacts to your email list"
+msgstr "Ajouter en toute transparence de nouveaux contacts à votre liste e-mail"
+
+#: views/constantcontact.php:213
+msgid "But when you combine OptinMonster with Constant Contact, you can nurture your contacts and engage with them even after they leave your website. When you use Constant Contact + OptinMonster together, you can:"
+msgstr "En combinant OptinMonster et Constant Contact, vous pouvez cultiver vos contacts et vous engager avec eux même après qu’ils aient quitté votre site web. Lorsque vous utilisez Constant Contact + OptinMonster ensemble, vous pouvez :"
+
+#: views/constantcontact.php:212
+msgid "OptinMonster plugin makes it fast and easy to capture all kinds of visitor information right from your WordPress site - even if you don&#39;t have a Constant Contact account."
+msgstr "L’extension OptinMonster rend la collecte de toutes sortes d’informations sur les visiteurs rapide et facile à partir de votre site WordPress - même si vous n’avez pas de compte Constant Contact."
+
+#: views/constantcontact.php:209
+msgid "Get Started with Constant Contact for Free"
+msgstr "Commencer avec Constant Contact gratuitement"
+
+#: views/constantcontact.php:206
+msgid "With a powerful email marketing service like Constant Contact, you can instantly send out mass notifications and beautifully designed newsletters to engage your subscribers."
+msgstr "Grâce à un puissant service de marketing par e-mail tel que Constant Contact, vous pouvez envoyer instantanément des notifications de masse et des newsletters bien conçues afin d’attirer l’attention de vos abonnés."
+
+#: views/constantcontact.php:204
+msgid "The Best Email Marketing Service"
+msgstr "Le meilleur service de marketing par e-mail"
+
+#: views/constantcontact.php:203
+msgid "High-Converting Form Builder"
+msgstr "Constructeur de formulaires à fort taux de conversion"
+
+#: views/constantcontact.php:201
+msgid "A Website or Blog"
+msgstr "Un site ou un blog"
+
+#: views/constantcontact.php:199
+msgid "Here are the 3 things you need to build an email list:"
+msgstr "Voici les trois éléments nécessaires à la création d’une liste d’e-mails :"
+
+#: views/constantcontact.php:198
+msgid "You&#39;ve Already Started - Here&#39;s the Next Step (It&#39;s Easy)"
+msgstr "Vous avez déjà commencé - voici la prochaine étape (c’est facile)"
+
+#. translators: %s - WPBeginners.com Guide to Email Lists URL.
+#: views/constantcontact.php:184
+msgid "For more details, see this guide on <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">why building your email list is so important</a>."
+msgstr "Pour plus d’informations, consultez ce guide qui explique <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">pourquoi il est si important de créer une liste d’e-mails</a>."
+
+#: views/constantcontact.php:175
+msgid "<strong>You own your email list</strong> - Unlike with social media, your list is your property and no one can revoke your access to it."
+msgstr "<strong>Votre liste d’e-mails vous appartient</strong> - Contrairement aux réseaux sociaux, votre liste est votre propriété et personne ne peut vous en retirer l’accès."
+
+#: views/constantcontact.php:174
+msgid "<strong>Email is still #1</strong> - At least 91% of consumers check their email on a daily basis. You get direct access to your subscribers, without having to play by social media&#39;s rules and algorithms."
+msgstr "<strong>L’e-mail est toujours n°1</strong> - Au moins 91% des consommateurs consultent leur e-mail tous les jours. Vous bénéficiez d’un accès direct à vos abonnés, sans avoir à respecter les règles et algorithmes des réseaux sociaux."
+
+#: views/constantcontact.php:176
+msgid "<strong>Email converts</strong> - People who buy products marketed through email spend 138% more than those who don&#39;t receive email offers."
+msgstr "<strong>La conversion par e-mail</strong> - Les personnes qui achètent des produits commercialisés par e-mail dépensent 138% de plus que celles qui ne reçoivent pas d’offres par e-mail."
+
+#: views/constantcontact.php:171
+msgid "OptinMonster with Constant Contact - Try us free"
+msgstr "OptinMonster avec Constant Contact - Essayez gratuitement"
+
+#: views/constantcontact.php:169
+msgid "Here are 3 big reasons why every smart business in the world has an email list:"
+msgstr "Voici trois bonnes raisons pour lesquelles toutes les entreprises intelligentes du monde ont une liste d’e-mails :"
+
+#: views/constantcontact.php:168
+msgid "Email is hands-down the most effective way to nurture leads and turn them into customers, with a return on investment (ROI) of <strong>$44 back for every $1 spent</strong> according to the Direct Marketing Association."
+msgstr "L’e-mail est sans conteste le moyen le plus efficace d’entretenir les prospects et de les transformer en clients, avec un retour sur investissement de <strong>44 dollars pour chaque dollar dépensé</strong>, selon la Direct Marketing Association."
+
+#: views/constantcontact.php:167
+msgid "Wondering if email marketing is really worth your time?"
+msgstr "Vous vous demandez si le marketing par e-mail vaut vraiment le coup ?"
+
+#: views/constantcontact.php:166
+msgid "Grow Your Website with OptinMonster + Email Marketing"
+msgstr "Développer votre site avec OptinMonster + marketing par e-mail"
+
+#: views/constantcontact.php:178
+msgid "That&#39;s why it&#39;s crucial to start collecting email addresses and building your list as soon as possible."
+msgstr "C’est pourquoi il est essentiel de commencer à collecter des e-mails et à construire votre liste le plus tôt possible."
+
+#. translators: %s - OptinMonster Constant Contact internal URL.
+#: OMAPI/ConstantContact.php:190
+msgid "Learn More about the <a href=\"%s\">power of email marketing</a>"
+msgstr "En savoir plus sur <a href=\"%s\">la puissance du marketing par e-mail</a>"
+
+#: OMAPI/ConstantContact.php:179
+msgid "Try Constant Contact for Free"
+msgstr "Essayez Constant Contact gratuitement"
+
+#: OMAPI/ConstantContact.php:170
+msgid "Get the most out of the <strong>OptinMonster</strong> plugin &mdash; use it with an active Constant Contact account."
+msgstr "Pour profiter au mieux de l’extension <strong>OptinMonster</strong> &mdash; utilisez-la avec un compte Constant Contact actif."
+
+#: OMAPI/ConstantContact.php:111
+msgid "OptinMonster with Constant Contact"
+msgstr "OptinMonster avec Constant Contact"
+
+#: OMAPI/WooCommerce/Save.php:202
+msgid "WooCommerce could not be disconnected from OptinMonster. The OptinMonster API returned with the following response: "
+msgstr "WooCommerce n’a pas pu être déconnecté d’OptinMonster. L’API OptinMonster a renvoyé la réponse suivante : "
+
+#: OMAPI/WooCommerce/Save.php:164
+msgid "WooCommerce could not be connected to OptinMonster. The OptinMonster API returned with the following response: "
+msgstr "WooCommerce n’a pas pu être connecté à OptinMonster. L’API OptinMonster a renvoyé la réponse suivante : "
+
+#: OMAPI/WooCommerce/RestApi.php:125
+msgid "WooCommerce REST API keys could not be auto-generated on your behalf. Please try again."
+msgstr "Les clés de l’API REST de WooCommerce n’ont pas pu être générées automatiquement pour vous. Veuillez réessayer."
+
+#: OMAPI/Welcome.php:155 OMAPI/Welcome.php:176
+msgid "Please Connect OptinMonster"
+msgstr "Veuillez connecter OptinMonster"
+
+#: OMAPI/MemberPress/ProductEducation.php:144
+msgid "Get Started For Free"
+msgstr "Commencer gratuitement"
+
+#: OMAPI/Validate.php:208
+msgid "Get More Email Subscribers with OptinMonster"
+msgstr "Obtenir plus d’abonnés par e-mail avec OptinMonster"
+
+#. translators: %s) admin url
+#: optin-monster-wp-api.php:1242
+msgid "Sorry, but your version of WordPress does not meet OptinMonster's required version of <strong>4.7.0</strong> to run properly. The plugin has been deactivated. <a href=\"%s\">Click here to return to the Dashboard</a>."
+msgstr "Désolé, mais votre version de WordPress ne correspond pas à la version <strong>4.7.0</strong> exigée par OptinMonster pour fonctionner correctement. L’extension a été désactivée. <a href=\"%s\">Cliquez ici pour retourner au tableau de bord</a>."
+
+#: OMAPI/Validate.php:193
+msgid "There was an error verifying your OptinMonster API credentials. They are either missing or they are no longer valid."
+msgstr "Une erreur s’est produite lors de la vérification de votre info de connexion à l’API d’OptinMonster. Elles sont manquantes ou ne sont plus valides."
+
+#: OMAPI/Widget.php:211
+msgid "Not Enabled"
+msgstr "Non activé"
+
+#: OMAPI/Rules.php:796
+msgid "Invalid %1$s property: %2$s"
+msgstr "Propriété %1$s non valide : %2$s"
+
+#. translators: %1$s - OptinMonster plugin support url
+#: OMAPI/ConstantContact.php:293 OMAPI/Menu.php:491
+msgid "Please rate <strong>OptinMonster</strong> <a href=\"%1$s\" target=\"_blank\" rel=\"noopener\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">WordPress.org</a> to help us spread the word. Thank you from the OptinMonster team!"
+msgstr "Veuillez évaluer <strong>OptinMonster</strong> <a href=\"%1$s\" target=\"_blank\" rel=\"noopener\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> sur <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">WordPress.org</a> pour nous aider à faire passer le message. L’équipe d’OptinMonster vous remercie !"
+
+#: OMAPI/Validate.php:209
+msgid "Please connect to or create an OptinMonster account to start using OptinMonster. This will enable you to start turning website visitors into subscribers & customers."
+msgstr "Veuillez vous connecter ou créer un compte OptinMonster pour commencer à utiliser OptinMonster. Cela vous permettra de commencer à transformer les visiteurs de votre site web en abonnés et clients."
+
+#. Description of the plugin
+#: optin-monster-wp-api.php
+msgid "OptinMonster is the best WordPress popup builder plugin that helps you grow your email newsletter list and sales with email popups, exit intent popups, floating bars and more!"
+msgstr "OptinMonster est la meilleure extension WordPress de construction de fenêtres surgissantes qui vous aide à développer votre liste d’e-mails et vos ventes avec des fenêtres surgissantes, des fenêtres d’intention de sortie, des barres flottantes et bien plus encore !"
+
+#: OMAPI/Widget.php:64
+msgid "Place an OptinMonster campaign into a widgetized area."
+msgstr "Placer une campagne OptinMonster dans une zone widgetisée."
+
+#: OMAPI/Validate.php:201
+msgid "The subscription to this OptinMonster account has expired. Please renew your subscription to use the OptinMonster API."
+msgstr "L’abonnement à ce compte OptinMonster a expiré. Veuillez renouveler votre abonnement pour utiliser l’API OptinMonster."
+
+#: OMAPI/Validate.php:198
+msgid "The subscription to this OptinMonster account has been disabled, likely due to a refund or other administrator action. Please contact OptinMonster support to resolve this issue."
+msgstr "L’abonnement à ce compte OptinMonster a été désactivé, probablement en raison d’un remboursement ou d’une autre action de l’administrateur. Veuillez contacter le support d’OptinMonster pour résoudre ce problème."
+
+#: OMAPI/Type.php:102
+msgid "No Campaigns found in trash"
+msgstr "Aucune campagne trouvée dans la corbeille"
+
+#. translators: %1$s - API response code, %2$s - returned error from API.
+#: OMAPI/Api.php:343
+msgid "The API returned a <strong>%1$s</strong> response with this message: <strong>%2$s</strong>"
+msgstr "L’API a renvoyé une réponse <strong>%1$s</strong> avec ce message : <strong>%2$s</strong>"

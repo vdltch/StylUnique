@@ -1,0 +1,3 @@
+2024-09-07T16:13:12+00:00 INFO Template setting migrated from /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/templates/Simple to default/Simple
+2024-09-07T16:13:13+00:00 CRITICAL Table 'wordpress.wp_wcpdf_invoice_number' doesn't exist
+2024-09-07T16:16:59+00:00 CRITICAL Table 'wordpress.wp_wcpdf_packing_slip_number' doesn't exist

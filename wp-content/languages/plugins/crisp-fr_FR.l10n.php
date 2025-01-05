@@ -1,0 +1,2 @@
+<?php
+return ['x-generator'=>'GlotPress/4.0.1','translation-revision-date'=>'2019-07-05 07:42:54+0000','plural-forms'=>'nplurals=2; plural=n > 1;','project-id-version'=>'Plugins - Crisp &#8211; Live Chat and Chatbot - Development (trunk)','language'=>'fr','messages'=>['Crisp Settings'=>'Réglages de Crisp','https://crisp.chat'=>'https://crisp.chat/fr/','http://wordpress.org/plugins/crisp/'=>'https://fr.wordpress.org/plugins/crisp/','Crisp'=>'Crisp']];
